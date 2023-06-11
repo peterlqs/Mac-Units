@@ -4,8 +4,10 @@ import ast
 import numpy as np
 import math
 
-st.set_page_config(layout="wide")
-
+st.set_page_config(
+    page_title="Unit Lookup",
+    layout="wide",
+)
 df_degree = pd.read_excel("course_data3.xlsx")
 if "selected_course_code" not in st.session_state:
     st.session_state.selected_course_code = ""
@@ -15,7 +17,9 @@ if "name" not in st.session_state:
 st.title("Degree Lookup")
 
 # Input field for course name
-course_name_degree = st.text_input("Enter the degree:", value=st.session_state.name)
+course_name_degree = st.text_input(
+    "Enter the Degree/Major:", value=st.session_state.name
+)
 
 df2 = df_degree[df_degree["Degree"].str.lower() == course_name_degree.strip().lower()]
 # Create an empty dictionary
@@ -171,15 +175,18 @@ if not df.empty:
             teamwork = "Possibly no"
         st.write("**Teamwork:**", teamwork)
         st.write("**Assignment type:**")
-        for m in ast.literal_eval(assignment_type):
-            st.write("- ", m)
+        if str(assignment_type) != "nan":
+            for m in ast.literal_eval(assignment_type):
+                st.write("- ", m)
         st.write("**Found in these degree(s)/major(s):**")
-        for m in ast.literal_eval(major):
-            st.write("- ", m)
+        if str(major) != "nan":
+            for m in ast.literal_eval(major):
+                st.write("- ", m)
         st.write("**Offering:**")
         period = str(period.split("\n"))
-        for m in ast.literal_eval(period):
-            st.write("- ", m)
+        if str(period) != "nan":
+            for m in ast.literal_eval(period):
+                st.write("- ", m)
         st.write("**Info from this session:**", unit_date)
 
 
