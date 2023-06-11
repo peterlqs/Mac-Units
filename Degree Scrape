@@ -67,10 +67,10 @@ for index, row in df.iterrows():
     if page_not_found_heading:
         try:
             if page_not_found_heading:
-                url = f"https://www.mq.edu.au/study/find-a-course/courses/{modified_title}/#course-structure"
+                url = f"https://www.mq.edu.au/study/find-a-course/courses/{modified_title}#course-structure"
                 # Open the alternative URL
                 driver.get(url)
-                time.sleep(0.3)
+                time.sleep(0.4)
                 html = driver.page_source
                 soup = BeautifulSoup(html, "html.parser")
                 wait = WebDriverWait(driver, 1)  # Maximum wait time of 10 seconds
@@ -158,4 +158,4 @@ for degree, categories in all_degree.items():
 df = pd.DataFrame(data, columns=["Degree", "Category", "Course Code", "Course Name"])
 
 # Export the DataFrame to an Excel file
-df.to_excel("course_data3.xlsx", index=False)
+df.to_excel("course_data4.xlsx", index=False)
