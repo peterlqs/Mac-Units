@@ -69,10 +69,16 @@ if not df2.empty:
 
         # Split the output into two columns
         col1, col2 = st.columns(2)
+        existing = []
 
         # Iterate over the courses and display them in the columns
         for i, course in enumerate(courses):
             course_code, course_name_degree = course
+
+            # duplicate button key
+            if course_code in existing:
+                continue
+            existing.append(course_code)
 
             # Alternate between columns for each course
 
