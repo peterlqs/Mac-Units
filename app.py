@@ -132,12 +132,13 @@ if unit_input:
     unit_name = filtered["unit_name"]
     unit_code = filtered["unit_code"]
     # Get the unitguide link
-    unitguide_link = pd.DataFrame(columns=["unit_code", "unitguide_link"])
     unitguide_link = pd.read_csv("data/unitguide_link.csv")
     # Add null safety
     if unit_code.upper() not in unitguide_link["unit_code"].values:
-        unitguide_link = unitguide_link.append({"unit_code": unit_code.upper(), "unitguide_link": "Not found"}, ignore_index=True)
-    unitguide_link = unitguide_link[unitguide_link["unit_code"] == unit_code.upper()].iloc[0]['unitguide_link']
+        # unitguide_link = unitguide_link.append({"unit_code": unit_code.upper(), "unitguide_link": "Not found"}, ignore_index=True)
+        unitguide_link = "Not Found"
+    else:
+        unitguide_link = unitguide_link[unitguide_link["unit_code"] == unit_code.upper()].iloc[0]['unitguide_link']
     # Get the rules
     rules = filtered['unit_rules']
     rules = ast.literal_eval(rules)
