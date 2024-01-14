@@ -132,6 +132,7 @@ if unit_input:
     unit_name = filtered["unit_name"]
     unit_code = filtered["unit_code"]
     # Get the unitguide link
+    unitguide_link = pd.DataFrame(columns=["unit_code", "unitguide_link"])
     unitguide_link = pd.read_csv("data/unitguide_link.csv")
     # Add null safety
     if unit_code.upper() not in unitguide_link["unit_code"].values:
@@ -168,7 +169,7 @@ if unit_input:
         reviews = ast.literal_eval(reviews.iloc[0]['reviews'])
         
     # Get desc
-    description = filtered['description']
+    description = filtered.get('description',"")
     
     # Get year
     year = filtered['year']
@@ -211,9 +212,10 @@ if unit_input:
         # st.write("  - **Final exam:** ", has_exam)
         for name, details in exams.items():
             # st.write("-", f"**{name}:**")
-            st.write(f"""
-            - {details["assessment_type"] + " - " + details["assessment_weight"]+"%"}
-                - {details["assessment_description"].replace('<p>', '').replace('</p>', '')}""")
+            if details != {}:
+                st.write(f"""
+                - {details["assessment_type"] + " - " + details["assessment_weight"]+"%"}
+                    - {str(details.get("assessment_description", '')).replace('<p>', '').replace('</p>', '')}""")
             
         # Courses that also have this unit
         st.write("**Other courses that also have this unit:**")
