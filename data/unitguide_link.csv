@@ -1,0 +1,1686 @@
+unit_code,unit_name,unitguide_link,unitguide_year
+COMP6110,Web Technology,https://unitguides.mq.edu.au/unit_offerings/156358/unit_guide,2023
+STAT6102,"Graphics, Multivariate Methods and Data Mining",https://unitguides.mq.edu.au/unit_offerings/159319/unit_guide,2023
+COMP6770,Management of IT Systems and Projects,https://unitguides.mq.edu.au/unit_offerings/156400/unit_guide,2023
+STAT6170,Introductory Statistics,https://unitguides.mq.edu.au/unit_offerings/159347/unit_guide,2023
+COMP6010,Foundations of Computer Programming,https://unitguides.mq.edu.au/unit_offerings/156351/unit_guide,2023
+COMP6350,Database Systems,https://unitguides.mq.edu.au/unit_offerings/156393/unit_guide,2023
+COMP6760,Enterprise Systems Integration,https://unitguides.mq.edu.au/unit_offerings/156398/unit_guide,2023
+STAT6180,Applied Statistics,https://unitguides.mq.edu.au/unit_offerings/159354/unit_guide,2023
+STAT6110,Statistical Inference,https://unitguides.mq.edu.au/unit_offerings/159343/unit_guide,2023
+COMP6200,Data Science,https://unitguides.mq.edu.au/unit_offerings/153449/unit_guide,2022
+STAT6175,Linear Models,https://unitguides.mq.edu.au/unit_offerings/159349/unit_guide,2023
+COMP6210,Big Data,https://unitguides.mq.edu.au/unit_offerings/156366/unit_guide,2023
+COMP8240,Applications of Data Science,https://unitguides.mq.edu.au/unit_offerings/156417/unit_guide,2023
+STAT8150,Bayesian Data Analysis,https://unitguides.mq.edu.au/unit_offerings/159382/unit_guide,2023
+COMP8230,Mining Unstructured Data,https://unitguides.mq.edu.au/unit_offerings/156416/unit_guide,2023
+STAT8178,Modern Computational Statistical Methods,https://unitguides.mq.edu.au/unit_offerings/159385/unit_guide,2023
+STAT8123,Statistical Graphics,https://unitguides.mq.edu.au/unit_offerings/159375/unit_guide,2023
+COMP8210,Big Data Technologies,https://unitguides.mq.edu.au/unit_offerings/156413/unit_guide,2023
+COMP8851,Major Project,https://unitguides.mq.edu.au/unit_offerings/156433/unit_guide,2023
+STAT8111,Generalized Linear Models,https://unitguides.mq.edu.au/unit_offerings/159369/unit_guide,2023
+STAT8121,Multivariate Analysis,https://unitguides.mq.edu.au/unit_offerings/159371/unit_guide,2023
+LAWS5078,PACE: Clinics and Projects,https://unitguides.mq.edu.au/unit_offerings/157583/unit_guide,2023
+LAWS5051,PACE: Individual Placements,https://unitguides.mq.edu.au/unit_offerings/157567/unit_guide,2023
+LAWS5000,"Remedies, Reparations and Resolution in Law",https://unitguides.mq.edu.au/unit_offerings/157532/unit_guide,2023
+LAWS5056,Succession,https://unitguides.mq.edu.au/unit_offerings/157572/unit_guide,2023
+LAWS5018,Indigenous Peoples and the Law,https://unitguides.mq.edu.au/unit_offerings/157544/unit_guide,2023
+LAWS5020,Family Law,https://unitguides.mq.edu.au/unit_offerings/157548/unit_guide,2023
+LAWS5065,Dispute Management and Resolution,https://unitguides.mq.edu.au/unit_offerings/157577/unit_guide,2023
+LAWS5069,Energy and Natural Resources Law,https://unitguides.mq.edu.au/unit_offerings/157579/unit_guide,2023
+LAWS5087,Law of Armed Conflict,https://unitguides.mq.edu.au/unit_offerings/157592/unit_guide,2023
+LAWS5053,Taxation,https://unitguides.mq.edu.au/unit_offerings/157570/unit_guide,2023
+LAWS5071,Health Law and Ethics,https://unitguides.mq.edu.au/unit_offerings/157581/unit_guide,2023
+LAWS5910,Research Methodologies in Law,https://unitguides.mq.edu.au/unit_offerings/160067/unit_guide,2023
+LAWS5043,Climate Change Law,https://unitguides.mq.edu.au/unit_offerings/157563/unit_guide,2023
+LAWS5036,Modern Corporate Governance,https://unitguides.mq.edu.au/unit_offerings/157559/unit_guide,2023
+LAWS5010,International Trade Law,https://unitguides.mq.edu.au/unit_offerings/157538/unit_guide,2023
+LAWS5021,Foundations of Commercial Law,https://unitguides.mq.edu.au/unit_offerings/157550/unit_guide,2023
+LAWS5920,Legal Research Project,https://unitguides.mq.edu.au/unit_offerings/159762/unit_guide,2023
+LAWS5080,Human Rights and Moral Dilemmas,https://unitguides.mq.edu.au/unit_offerings/159770/unit_guide,2023
+LAWS5028,Competition Law,https://unitguides.mq.edu.au/unit_offerings/157554/unit_guide,2023
+LAWS5079,Refugees and Migration,https://unitguides.mq.edu.au/unit_offerings/157585/unit_guide,2023
+LAWS5057,International Private Law,https://unitguides.mq.edu.au/unit_offerings/157574/unit_guide,2023
+LAWS5007,Employment and Labour Law ,https://unitguides.mq.edu.au/unit_offerings/157537/unit_guide,2023
+LAWS5302,International Law Exchange 2,https://unitguides.mq.edu.au/unit_offerings/124266/unit_guide,2020
+LAWS5040,Environmental Planning Law,https://unitguides.mq.edu.au/unit_offerings/157562/unit_guide,2023
+LAWS5084,Media Law,https://unitguides.mq.edu.au/unit_offerings/157587/unit_guide,2023
+LAWS5023,Intellectual Property Law,https://unitguides.mq.edu.au/unit_offerings/157553/unit_guide,2023
+LAWS5304,International Law Exchange 4,https://unitguides.mq.edu.au/unit_offerings/124051/unit_guide,2020
+LAWS5301,International Law Exchange 1,https://unitguides.mq.edu.au/unit_offerings/124177/unit_guide,2020
+LAWS5086,Law of the Sea,https://unitguides.mq.edu.au/unit_offerings/157590/unit_guide,2023
+LAWS5060,Environmental Law,https://unitguides.mq.edu.au/unit_offerings/157576/unit_guide,2023
+LAWS5005,Age and the Law ,https://unitguides.mq.edu.au/unit_offerings/166628/unit_guide,2024
+LAWS5012,Banking and Finance Law ,https://unitguides.mq.edu.au/unit_offerings/157543/unit_guide,2023
+LAWS5011,Discrimination and the Law,https://unitguides.mq.edu.au/unit_offerings/157540/unit_guide,2023
+LAWS5019,International Human Rights Law,https://unitguides.mq.edu.au/unit_offerings/157546/unit_guide,2023
+LAWS5029,Law and Technology,https://unitguides.mq.edu.au/unit_offerings/157556/unit_guide,2023
+LAWS5048,Animal Law,https://unitguides.mq.edu.au/unit_offerings/157565/unit_guide,2023
+LAWS5303,International Law Exchange 3,https://unitguides.mq.edu.au/unit_offerings/124049/unit_guide,2020
+LAWS1100,"Law, Lawyers and Society",https://unitguides.mq.edu.au/unit_offerings/157494/unit_guide,2023
+LAWS2400,Torts,https://unitguides.mq.edu.au/unit_offerings/157518/unit_guide,2023
+LAWS3400,Evidence,https://unitguides.mq.edu.au/unit_offerings/157528/unit_guide,2023
+LAWS3000,Constitutional Law,https://unitguides.mq.edu.au/unit_offerings/157523/unit_guide,2023
+LAWS2000,International Law,https://unitguides.mq.edu.au/unit_offerings/157506/unit_guide,2023
+LAWS2200,Property Law,https://unitguides.mq.edu.au/unit_offerings/157514/unit_guide,2023
+LAWS2100,Jurisprudence,https://unitguides.mq.edu.au/unit_offerings/157513/unit_guide,2023
+LAWS3200,Civil and Criminal Procedure,https://unitguides.mq.edu.au/unit_offerings/157524/unit_guide,2023
+LAWS1300,Criminal Justice,https://unitguides.mq.edu.au/unit_offerings/157500/unit_guide,2023
+LAWS1000,Foundations of Law,https://unitguides.mq.edu.au/unit_offerings/157486/unit_guide,2023
+LAWS1200,Contracts,https://unitguides.mq.edu.au/unit_offerings/157498/unit_guide,2023
+LAWS3300,Administrative Law,https://unitguides.mq.edu.au/unit_offerings/157527/unit_guide,2023
+LAWS2500,Equity and Trusts,https://unitguides.mq.edu.au/unit_offerings/157520/unit_guide,2023
+LAWS2300,Business Organisations,https://unitguides.mq.edu.au/unit_offerings/157517/unit_guide,2023
+LAWS8018,Research Methodologies in Law,https://unitguides.mq.edu.au/unit_offerings/157643/unit_guide,2023
+LAWS8019,Dispute Resolution Processes and Law,https://unitguides.mq.edu.au/unit_offerings/157646/unit_guide,2023
+LAWS8023,Commercial Law,https://unitguides.mq.edu.au/unit_offerings/157651/unit_guide,2023
+LAWS8055,Environmental Law and Sustainable Development,https://unitguides.mq.edu.au/unit_offerings/157669/unit_guide,2023
+LAWS8061,Environmental Planning Law,https://unitguides.mq.edu.au/unit_offerings/157672/unit_guide,2023
+LAWS8021,Health Law,https://unitguides.mq.edu.au/unit_offerings/160481/unit_guide,2023
+LAWS8020,Competition Law,https://unitguides.mq.edu.au/unit_offerings/157648/unit_guide,2023
+LAWS8092,Law of the Sea,https://unitguides.mq.edu.au/unit_offerings/157683/unit_guide,2023
+LAWS8087,International Human Rights Law,https://unitguides.mq.edu.au/unit_offerings/157680/unit_guide,2023
+LAWS8051,Climate Change Law,https://unitguides.mq.edu.au/unit_offerings/157667/unit_guide,2023
+LAWS8029,Succession,https://unitguides.mq.edu.au/unit_offerings/152335/unit_guide,2022
+LAWS8052,Trade and Environment Law,https://unitguides.mq.edu.au/unit_offerings/157668/unit_guide,2023
+LAWS8066,Indigenous Peoples and the Law,https://unitguides.mq.edu.au/unit_offerings/157674/unit_guide,2023
+LAWS8050,Corporate Governance Law ,https://unitguides.mq.edu.au/unit_offerings/157666/unit_guide,2023
+LAWS8098,International Commercial Law,https://unitguides.mq.edu.au/unit_offerings/157686/unit_guide,2023
+LAWS8060,Energy and Natural Resources Law ,https://unitguides.mq.edu.au/unit_offerings/157671/unit_guide,2023
+LAWS8097,Media Law and Culture,https://unitguides.mq.edu.au/unit_offerings/157685/unit_guide,2023
+LAWS8068,Law and Technology ,https://unitguides.mq.edu.au/unit_offerings/157675/unit_guide,2023
+LAWS8094,Human Rights and Moral Dilemmas,https://unitguides.mq.edu.au/unit_offerings/159772/unit_guide,2023
+LAWS8037,Refugees and Migration Law,https://unitguides.mq.edu.au/unit_offerings/157663/unit_guide,2023
+LAWS8026,Anti-Discrimination Law,https://unitguides.mq.edu.au/unit_offerings/152255/unit_guide,2022
+LAWS8022,Family Law,https://unitguides.mq.edu.au/unit_offerings/157649/unit_guide,2023
+LAWS8089,International Trade Law,https://unitguides.mq.edu.au/unit_offerings/157682/unit_guide,2023
+LAWS8024,Intellectual Property Law,https://unitguides.mq.edu.au/unit_offerings/157652/unit_guide,2023
+GEOP8075,"Planning, Principles and Places",https://unitguides.mq.edu.au/unit_offerings/157228/unit_guide,2023
+GEOP8020,"Healthy Places: Planning for Diversity, Equity and Wellbeing",https://unitguides.mq.edu.au/unit_offerings/157221/unit_guide,2023
+GEOP8030,Smart Urbanism,https://unitguides.mq.edu.au/unit_offerings/157222/unit_guide,2023
+GEOP8090,Gateway to the Planning Profession,https://unitguides.mq.edu.au/unit_offerings/157231/unit_guide,2023
+GEOP8070,Decolonising Planning,https://unitguides.mq.edu.au/unit_offerings/157227/unit_guide,2023
+GEOP8010,Social Impact Assessment,https://unitguides.mq.edu.au/unit_offerings/157218/unit_guide,2023
+GEOP8040,"Climate Change and Society: Vulnerability, Adaptation and Transitions",https://unitguides.mq.edu.au/unit_offerings/157224/unit_guide,2023
+GEOP6070,"Urban Dynamics: Population, Housing and Regeneration",https://unitguides.mq.edu.au/unit_offerings/157211/unit_guide,2023
+GEOP6040,Cities of the Global South,https://unitguides.mq.edu.au/unit_offerings/157207/unit_guide,2023
+GEOP6050,Environment and Society,https://unitguides.mq.edu.au/unit_offerings/157209/unit_guide,2023
+GEOP6080,Theory and Methods in Geography and Planning,https://unitguides.mq.edu.au/unit_offerings/157213/unit_guide,2023
+COMP3210,Big Data,https://unitguides.mq.edu.au/unit_offerings/156326/unit_guide,2023
+COMP2350,Database Systems,https://unitguides.mq.edu.au/unit_offerings/156313/unit_guide,2023
+COMP1010,Fundamentals of Computer Science,https://unitguides.mq.edu.au/unit_offerings/156281/unit_guide,2023
+COMP2200,Data Science,https://unitguides.mq.edu.au/unit_offerings/156300/unit_guide,2023
+STAT1371,Statistical Data Analysis,https://unitguides.mq.edu.au/unit_offerings/159315/unit_guide,2023
+STAT1170,Introductory Statistics,https://unitguides.mq.edu.au/unit_offerings/159323/unit_guide,2023
+STAT3102,"Graphics, Multivariate Methods and Data Mining",https://unitguides.mq.edu.au/unit_offerings/159318/unit_guide,2023
+STAT3110,Statistical Inference,https://unitguides.mq.edu.au/unit_offerings/161002/unit_guide,2023
+STAT2170,Applied Statistics,https://unitguides.mq.edu.au/unit_offerings/159331/unit_guide,2023
+STAT2371,Statistics,https://unitguides.mq.edu.au/unit_offerings/159317/unit_guide,2023
+COMP3420,Artificial Intelligence for Text and Vision,https://unitguides.mq.edu.au/unit_offerings/154562/unit_guide,2023
+STAT3175,Linear Models,https://unitguides.mq.edu.au/unit_offerings/160992/unit_guide,2023
+FOSE3000,Making Science Work for You and Society: Capstone,https://unitguides.mq.edu.au/unit_offerings/156895/unit_guide,2023
+FOSE1005,Mathematical Concepts for Science,https://unitguides.mq.edu.au/unit_offerings/157104/unit_guide,2023
+FOSE1015,Statistical Concepts for Science,https://unitguides.mq.edu.au/unit_offerings/157106/unit_guide,2023
+FOSE1025,Scientific Computing,https://unitguides.mq.edu.au/unit_offerings/157111/unit_guide,2023
+EESC3000,PACE: In Earth and Environmental Sciences,https://unitguides.mq.edu.au/unit_offerings/156870/unit_guide,2023
+MOLS3002,PACE: Engaging the Community in Science,https://unitguides.mq.edu.au/unit_offerings/158455/unit_guide,2023
+MATH3599,PACE: Professional Practice for Mathematical Sciences,https://unitguides.mq.edu.au/unit_offerings/157748/unit_guide,2023
+MOLS3003,PACE: Molecular Sciences Project,https://unitguides.mq.edu.au/unit_offerings/158457/unit_guide,2023
+PHYS3810,PACE: Professional Experience in Physics and Astronomy,https://unitguides.mq.edu.au/unit_offerings/158658/unit_guide,2023
+PSYU3399,PACE: Psychological Science: Putting Theory into Practice,https://unitguides.mq.edu.au/unit_offerings/159129/unit_guide,2023
+BIOL3640,PACE: Experience in Biological Sciences,https://unitguides.mq.edu.au/unit_offerings/156017/unit_guide,2023
+MMCC3000,Music Production: The Recording Studio,https://unitguides.mq.edu.au/unit_offerings/158351/unit_guide,2023
+MMCC3130,"Music, Sound, and Moving Image",https://unitguides.mq.edu.au/unit_offerings/158393/unit_guide,2023
+MMCC1045,The Creative Musician,https://unitguides.mq.edu.au/unit_offerings/158289/unit_guide,2023
+MMCC2020,Music Production: The Virtual Studio,https://unitguides.mq.edu.au/unit_offerings/158309/unit_guide,2023
+MMCC2063,"Vocal Studies: Song, Composition & Arranging ",https://unitguides.mq.edu.au/unit_offerings/158325/unit_guide,2023
+MMCC3060,Music Projects and Audience Engagement,https://unitguides.mq.edu.au/unit_offerings/158384/unit_guide,2023
+MMCC3032,Music at the Limits: Experimentation and Innovation,https://unitguides.mq.edu.au/unit_offerings/158372/unit_guide,2023
+MMCC2033,Music Production: Audio Recording and Mixing,https://unitguides.mq.edu.au/unit_offerings/158314/unit_guide,2023
+MMCC1020,"Passion, Rebellion, & Identity in Music ",https://unitguides.mq.edu.au/unit_offerings/158274/unit_guide,2023
+MMCC3043,Vocal Studies: The Singer,https://unitguides.mq.edu.au/unit_offerings/158377/unit_guide,2023
+MMCC1030,Music in a Global Context,https://unitguides.mq.edu.au/unit_offerings/158278/unit_guide,2023
+MMCC3160,PACE: Arts Management Internship,https://unitguides.mq.edu.au/unit_offerings/158402/unit_guide,2023
+MMCC2057,Vocal Studies: The Voice,https://unitguides.mq.edu.au/unit_offerings/158318/unit_guide,2023
+MMCC2000,Musical Authorship and Songwriting,https://unitguides.mq.edu.au/unit_offerings/158295/unit_guide,2023
+MMCC2090,The Music Business,https://unitguides.mq.edu.au/unit_offerings/158333/unit_guide,2023
+MMCC1012,Music Literacies,https://unitguides.mq.edu.au/unit_offerings/158270/unit_guide,2023
+BIOL3310,Invertebrate Biology and Behaviour,https://unitguides.mq.edu.au/unit_offerings/135974/unit_guide,2021
+BIOL2210,Life Processes,https://unitguides.mq.edu.au/unit_offerings/155984/unit_guide,2023
+BIOL3410,Plant Biology,https://unitguides.mq.edu.au/unit_offerings/156007/unit_guide,2023
+BIOL2410,Ecology,https://unitguides.mq.edu.au/unit_offerings/155994/unit_guide,2023
+BIOL2110,Genetics,https://unitguides.mq.edu.au/unit_offerings/155981/unit_guide,2023
+BIOL3510,Vertebrate Biology and Behaviour,https://unitguides.mq.edu.au/unit_offerings/156012/unit_guide,2023
+BIOL1110,Genes to Organisms,https://unitguides.mq.edu.au/unit_offerings/155961/unit_guide,2023
+BIOL1310,Organisms to Ecosystems,https://unitguides.mq.edu.au/unit_offerings/155964/unit_guide,2023
+MKTG1001,Marketing Fundamentals,https://unitguides.mq.edu.au/unit_offerings/158072/unit_guide,2023
+MGMT1002,Principles of Management,https://unitguides.mq.edu.au/unit_offerings/157851/unit_guide,2023
+ENGL3020,Global Contemporary Literature: Australians and the World,https://unitguides.mq.edu.au/unit_offerings/156954/unit_guide,2023
+ENGL3031,Popular Fiction,https://unitguides.mq.edu.au/unit_offerings/156955/unit_guide,2023
+ENGL3010,20th-Century Literature: Inventing the Future,https://unitguides.mq.edu.au/unit_offerings/156951/unit_guide,2023
+ENGL3051,Critical Approaches to Literature,https://unitguides.mq.edu.au/unit_offerings/156962/unit_guide,2023
+ENGL3040,Following Poetry from Epic to Instagram,https://unitguides.mq.edu.au/unit_offerings/156960/unit_guide,2023
+ENGL3060,Pursuing Research in Literary Studies,https://unitguides.mq.edu.au/unit_offerings/156964/unit_guide,2023
+ENGL1002,Literature: Modern and Contemporary,https://unitguides.mq.edu.au/unit_offerings/156929/unit_guide,2023
+ENGL1001,Literature: Medieval to Modern,https://unitguides.mq.edu.au/unit_offerings/156928/unit_guide,2023
+ENGL2030,Literature and the Visual,https://unitguides.mq.edu.au/unit_offerings/156942/unit_guide,2023
+ENGL2020,"Revolution, Evolution, Humanity: Literature and Change in the Long Nineteenth Century",https://unitguides.mq.edu.au/unit_offerings/156939/unit_guide,2023
+ENGL2010,"The Human Story: Heart, Mind and Body in Early Literature",https://unitguides.mq.edu.au/unit_offerings/156938/unit_guide,2023
+ENGL2040,Historical Fiction and a Passion for the Past,https://unitguides.mq.edu.au/unit_offerings/156948/unit_guide,2023
+AFIN8018,Investments,https://unitguides.mq.edu.au/unit_offerings/155655/unit_guide,2023
+AFIN8090,Financial Modelling and Forecasting,https://unitguides.mq.edu.au/unit_offerings/160019/unit_guide,2023
+AFIN8037,Capital Markets,https://unitguides.mq.edu.au/unit_offerings/155665/unit_guide,2023
+AFIN8038,Business Valuation,https://unitguides.mq.edu.au/unit_offerings/155669/unit_guide,2023
+AFIN8017,Digital Finance,https://unitguides.mq.edu.au/unit_offerings/160016/unit_guide,2023
+AFIN8016,"Payments, Cryptocurrencies and Blockchain",https://unitguides.mq.edu.au/unit_offerings/160015/unit_guide,2023
+AFIN8008,Corporate Finance,https://unitguides.mq.edu.au/unit_offerings/155637/unit_guide,2023
+AFIN8014,FinTech and Innovation,https://unitguides.mq.edu.au/unit_offerings/155646/unit_guide,2023
+AFIN8015,Financial Data Science,https://unitguides.mq.edu.au/unit_offerings/160013/unit_guide,2023
+PICT3015,Security Policy Analysis: Current and Emerging Issues,https://unitguides.mq.edu.au/unit_offerings/158725/unit_guide,2023
+PICT1010,Introduction to Security Studies,https://unitguides.mq.edu.au/unit_offerings/158699/unit_guide,2023
+PICT3011,Cyber Security in Practice,https://unitguides.mq.edu.au/unit_offerings/158721/unit_guide,2023
+PICT2010,Intelligence and Counter Intelligence,https://unitguides.mq.edu.au/unit_offerings/158664/unit_guide,2023
+PHIL1037,Critical Thinking,https://unitguides.mq.edu.au/unit_offerings/158551/unit_guide,2023
+PICT2015,Terrorism in the 21st Century,https://unitguides.mq.edu.au/unit_offerings/158715/unit_guide,2023
+PICT2012,Modern Warfare,https://unitguides.mq.edu.au/unit_offerings/158711/unit_guide,2023
+PICT1011,New Security Challenges,https://unitguides.mq.edu.au/unit_offerings/158701/unit_guide,2023
+PICT2001,Cybercrime,https://unitguides.mq.edu.au/unit_offerings/158709/unit_guide,2023
+PICT1012,Strategy and Security in the Indo-Pacific,https://unitguides.mq.edu.au/unit_offerings/158703/unit_guide,2023
+PICT3012,Intelligence Policy,https://unitguides.mq.edu.au/unit_offerings/158666/unit_guide,2023
+PICT2013,Crisis Management and Disaster Relief,https://unitguides.mq.edu.au/unit_offerings/158713/unit_guide,2023
+PICT3013,Strategies of Political Violence and Counter Terrorism,https://unitguides.mq.edu.au/unit_offerings/158668/unit_guide,2023
+PICT3014,Australian National Security,https://unitguides.mq.edu.au/unit_offerings/158723/unit_guide,2023
+PICT1014,International Security in the 20th Century,https://unitguides.mq.edu.au/unit_offerings/158705/unit_guide,2023
+PICT3020,PACE: Ethical Practice in Security Studies,https://unitguides.mq.edu.au/unit_offerings/160605/unit_guide,2023
+AFIN8081,Professional Development in Banking and Finance,https://unitguides.mq.edu.au/unit_offerings/155681/unit_guide,2023
+AFIN8003,Banking and Financial Intermediation,https://unitguides.mq.edu.au/unit_offerings/155625/unit_guide,2023
+AFIN8099,Current Issues in Banking and Finance,https://unitguides.mq.edu.au/unit_offerings/155680/unit_guide,2023
+AFIN8005,Research Methods in Banking and Finance,https://unitguides.mq.edu.au/unit_offerings/155630/unit_guide,2023
+AFIN8012,Fixed Income and Credit Analysis,https://unitguides.mq.edu.au/unit_offerings/155643/unit_guide,2023
+AFIN8019,Algorithmic Trading,https://unitguides.mq.edu.au/unit_offerings/150923/unit_guide,2022
+MQBS8090,Business Internship,https://unitguides.mq.edu.au/unit_offerings/158509/unit_guide,2023
+AFIN8010,Environmental Finance,https://unitguides.mq.edu.au/unit_offerings/161192/unit_guide,2023
+ECON6034,Econometrics and Business Statistics,https://unitguides.mq.edu.au/unit_offerings/156597/unit_guide,2023
+AFIN6013,Financial Statement Analysis and Modelling,https://unitguides.mq.edu.au/unit_offerings/161189/unit_guide,2023
+ECON6049,Economic Analysis,https://unitguides.mq.edu.au/unit_offerings/156603/unit_guide,2023
+ACST6003,Principles of Finance,https://unitguides.mq.edu.au/unit_offerings/155478/unit_guide,2023
+MMCC2130,News Media: Facts and Fiction,https://unitguides.mq.edu.au/unit_offerings/158346/unit_guide,2023
+MMCC1000,Visual Media and Communications,https://unitguides.mq.edu.au/unit_offerings/158262/unit_guide,2023
+MMCC3037,Radio and Podcast: The 'On Air' Career,https://unitguides.mq.edu.au/unit_offerings/158376/unit_guide,2023
+MMCC2160,Radio and Podcast: Creation,https://unitguides.mq.edu.au/unit_offerings/158350/unit_guide,2023
+MMCC2070,Radio: 'On Air',https://unitguides.mq.edu.au/unit_offerings/158328/unit_guide,2023
+MMCC1008,Introduction to Podcasting,https://unitguides.mq.edu.au/unit_offerings/158267/unit_guide,2023
+MMCC3080,Podcasting and New Sound Media,https://unitguides.mq.edu.au/unit_offerings/158385/unit_guide,2023
+AFCP8101,"Financial System, Participants and Instruments",https://unitguides.mq.edu.au/unit_offerings/155535/unit_guide,2023
+AFCP8141,Sustainable Finance,https://unitguides.mq.edu.au/unit_offerings/155552/unit_guide,2023
+AFCP8144,Business Valuation,https://unitguides.mq.edu.au/unit_offerings/155560/unit_guide,2023
+AFCP8145,Advanced Investment Management,https://unitguides.mq.edu.au/unit_offerings/162518/unit_guide,2024
+MMBA8014,FinTech and Innovation,https://unitguides.mq.edu.au/unit_offerings/160797/unit_guide,2023
+MMBA8116,"Payments, Cryptocurrencies and Blockchain",https://unitguides.mq.edu.au/unit_offerings/160739/unit_guide,2023
+AFCP8142,Private Capital,https://unitguides.mq.edu.au/unit_offerings/155556/unit_guide,2023
+MMBA8058,Corporate Acquisitions,https://unitguides.mq.edu.au/unit_offerings/166747/unit_guide,2024
+AFCP8102,Financial Structure and Insights,https://unitguides.mq.edu.au/unit_offerings/162500/unit_guide,2024
+AFCP8150,"Infrastructure, Property and Resources",https://unitguides.mq.edu.au/unit_offerings/155565/unit_guide,2023
+AFCP8103,Risk Measurement and Management,https://unitguides.mq.edu.au/unit_offerings/155542/unit_guide,2023
+AFCP8146,Corporate Financial Management,https://unitguides.mq.edu.au/unit_offerings/161027/unit_guide,2023
+AFCP6018,Quantitative and Economic Analysis,https://unitguides.mq.edu.au/unit_offerings/166855/unit_guide,2024
+AFCP6016,Finance Principles,https://unitguides.mq.edu.au/unit_offerings/166852/unit_guide,2024
+AFCP6017,Case Studies in Applied Finance,https://unitguides.mq.edu.au/unit_offerings/155528/unit_guide,2023
+AFCP6019,Financial Statement Analysis and Modelling,https://unitguides.mq.edu.au/unit_offerings/155533/unit_guide,2023
+COGS1000,Introduction to Neuroscience 1,https://unitguides.mq.edu.au/unit_offerings/156256/unit_guide,2023
+MEDI2300,Nervous System,https://unitguides.mq.edu.au/unit_offerings/157797/unit_guide,2023
+MEDI3300,Neuroscience,https://unitguides.mq.edu.au/unit_offerings/157805/unit_guide,2023
+MEDI2301,Cellular and Molecular Neuroscience,https://unitguides.mq.edu.au/unit_offerings/157798/unit_guide,2023
+BIOL2230,Neurophysiology,https://unitguides.mq.edu.au/unit_offerings/155988/unit_guide,2023
+PSYU3344,Neuropsychology in Clinical Practice,https://unitguides.mq.edu.au/unit_offerings/159122/unit_guide,2023
+ANAT2004,Neuroanatomy,https://unitguides.mq.edu.au/unit_offerings/155836/unit_guide,2023
+MEDI3301,Clinical Neuroscience,https://unitguides.mq.edu.au/unit_offerings/157806/unit_guide,2023
+MGMT8012,Managing Strategically,https://unitguides.mq.edu.au/unit_offerings/157955/unit_guide,2023
+MGMT8011,Learning to be a Leader,https://unitguides.mq.edu.au/unit_offerings/159865/unit_guide,2023
+MGMT8066,Change Management,https://unitguides.mq.edu.au/unit_offerings/157986/unit_guide,2023
+BUSA8030,"Management of Data, Analytics and Change",https://unitguides.mq.edu.au/unit_offerings/156121/unit_guide,2023
+MGMT8009,Managing Globally,https://unitguides.mq.edu.au/unit_offerings/157970/unit_guide,2023
+ACCG8048,Business and Professional Ethics,https://unitguides.mq.edu.au/unit_offerings/155372/unit_guide,2023
+MGMT8005,Managing Technology,https://unitguides.mq.edu.au/unit_offerings/157967/unit_guide,2023
+ENGG8102,Engineering Management Capstone,https://unitguides.mq.edu.au/unit_offerings/156917/unit_guide,2023
+ENGG8000,Professional Practice,https://unitguides.mq.edu.au/unit_offerings/156912/unit_guide,2023
+ENGG8106,Engineering Entrepreneurship,https://unitguides.mq.edu.au/unit_offerings/156922/unit_guide,2023
+ENGG8104,Engineering Project Implementation,https://unitguides.mq.edu.au/unit_offerings/156919/unit_guide,2023
+ENGG8401,Safety and Risk Engineering,https://unitguides.mq.edu.au/unit_offerings/156924/unit_guide,2023
+MGMT8003,Globalisation and Supply Chain Management,https://unitguides.mq.edu.au/unit_offerings/159867/unit_guide,2023
+ACCG6003,Managing Finance,https://unitguides.mq.edu.au/unit_offerings/159906/unit_guide,2023
+ENGG8105,Operations and Quality Management,https://unitguides.mq.edu.au/unit_offerings/156920/unit_guide,2023
+ENGG8103,Engineering Management and Communication,https://unitguides.mq.edu.au/unit_offerings/156918/unit_guide,2023
+MGMT6051,"Work, Organisation and Management",https://unitguides.mq.edu.au/unit_offerings/159799/unit_guide,2023
+COMP8780,Enterprise Management,https://unitguides.mq.edu.au/unit_offerings/156430/unit_guide,2023
+EDST1234,Mathematics for Primary Teachers,https://unitguides.mq.edu.au/unit_offerings/155121/unit_guide,2023
+EDST4160,Design of STEM Education,https://unitguides.mq.edu.au/unit_offerings/156687/unit_guide,2023
+EDST4150,Multiliteracies and Literature in the Primary English Curriculum,https://unitguides.mq.edu.au/unit_offerings/156686/unit_guide,2023
+ARTS3500,Arts Capstone,https://unitguides.mq.edu.au/unit_offerings/155945/unit_guide,2023
+EDST4200,Using and Interpreting Educational Data,https://unitguides.mq.edu.au/unit_offerings/156691/unit_guide,2023
+EDST4130,The Arts in Education,https://unitguides.mq.edu.au/unit_offerings/156682/unit_guide,2023
+EDST4110,Principles of STEM Education,https://unitguides.mq.edu.au/unit_offerings/156679/unit_guide,2023
+ARTS1000,Humanities and the World,https://unitguides.mq.edu.au/unit_offerings/155895/unit_guide,2023
+EDST3000,Practice of Teaching: Cultures in History and Geography,https://unitguides.mq.edu.au/unit_offerings/156607/unit_guide,2023
+EDST4140,Health and Physical Education in the Primary School,https://unitguides.mq.edu.au/unit_offerings/156684/unit_guide,2023
+EDST1010,Learning and Development: An Introduction for Educators,https://unitguides.mq.edu.au/unit_offerings/156638/unit_guide,2023
+EDST3110,"Designing Mathematics, Science and Technology Learning",https://unitguides.mq.edu.au/unit_offerings/156614/unit_guide,2023
+EDST2000,Practice of Teaching: Inclusive Education,https://unitguides.mq.edu.au/unit_offerings/156640/unit_guide,2023
+EDST2100,Language and Literacies,https://unitguides.mq.edu.au/unit_offerings/156646/unit_guide,2023
+EDST1000,Exploring Australian Education: Social and Historical Contexts,https://unitguides.mq.edu.au/unit_offerings/156635/unit_guide,2023
+EDST3100,Teaching English Language and Literacies in the Early Primary School Years,https://unitguides.mq.edu.au/unit_offerings/156612/unit_guide,2023
+EDST3170,Indigenous Education,https://unitguides.mq.edu.au/unit_offerings/156620/unit_guide,2023
+EDST2110,"Principles of Maths, Science and Technology Education",https://unitguides.mq.edu.au/unit_offerings/156647/unit_guide,2023
+EDST4040,Practice of Teaching: Transition to the Primary Teaching Profession,https://unitguides.mq.edu.au/unit_offerings/156671/unit_guide,2023
+EDST4100,Teaching English Language and Literacies in the later Primary School Years,https://unitguides.mq.edu.au/unit_offerings/156676/unit_guide,2023
+EDST4050,Practice of Teaching: Making Learning Visible with Infants and Toddlers,https://unitguides.mq.edu.au/unit_offerings/159784/unit_guide,2023
+EDST4030,Practice of Teaching: The Emerging Professional K-6,https://unitguides.mq.edu.au/unit_offerings/156669/unit_guide,2023
+INED8020, Indigenous Research Theory and Practice ,https://unitguides.mq.edu.au/unit_offerings/157362/unit_guide,2023
+INED8010,Indigenous Languages and Teaching,https://unitguides.mq.edu.au/unit_offerings/157361/unit_guide,2023
+INED8022,Rethinking Indigenous Education ,https://unitguides.mq.edu.au/unit_offerings/157363/unit_guide,2023
+INED8002,Sociology of Education,https://unitguides.mq.edu.au/unit_offerings/157360/unit_guide,2023
+INED8050,Trauma Informed Education,https://unitguides.mq.edu.au/unit_offerings/157366/unit_guide,2023
+INED8040,Global Indigenous Education,https://unitguides.mq.edu.au/unit_offerings/157365/unit_guide,2023
+INED8030,"Politics, Power and Indigenous Education",https://unitguides.mq.edu.au/unit_offerings/157364/unit_guide,2023
+INED8001,History of Indigenous Education,https://unitguides.mq.edu.au/unit_offerings/157359/unit_guide,2023
+ACCG3050,Financial Statement Analysis,https://unitguides.mq.edu.au/unit_offerings/155325/unit_guide,2023
+ECON3060,International Finance,https://unitguides.mq.edu.au/unit_offerings/156593/unit_guide,2023
+AFIN3028,Financial Risk Management,https://unitguides.mq.edu.au/unit_offerings/155599/unit_guide,2023
+AFIN3029,Derivative Instruments,https://unitguides.mq.edu.au/unit_offerings/155603/unit_guide,2023
+AFIN2000,Principles of Financial Literacy,https://unitguides.mq.edu.au/unit_offerings/155580/unit_guide,2023
+ACST2001,Financial Modelling,https://unitguides.mq.edu.au/unit_offerings/155454/unit_guide,2023
+ECON2050,Money and Finance,https://unitguides.mq.edu.au/unit_offerings/156576/unit_guide,2023
+AFIN3010,PACE: Issues in Applied Finance,https://unitguides.mq.edu.au/unit_offerings/161030/unit_guide,2023
+AFIN1002,Finance 1B,https://unitguides.mq.edu.au/unit_offerings/155576/unit_guide,2023
+AFIN2050,Investments,https://unitguides.mq.edu.au/unit_offerings/155581/unit_guide,2023
+AFIN3053,Advanced Corporate Finance,https://unitguides.mq.edu.au/unit_offerings/155609/unit_guide,2023
+AFIN2070,Stochastic Methods in Applied Finance,https://unitguides.mq.edu.au/unit_offerings/155592/unit_guide,2023
+AFIN3052,Applied Portfolio Management,https://unitguides.mq.edu.au/unit_offerings/155608/unit_guide,2023
+ACCG6014,Business and Company Law,https://unitguides.mq.edu.au/unit_offerings/160942/unit_guide,2023
+ACCG6011,Principles of Accounting,https://unitguides.mq.edu.au/unit_offerings/155341/unit_guide,2023
+ACCG8127,Current Issues in Accounting and Corporate Governance,https://unitguides.mq.edu.au/unit_offerings/159925/unit_guide,2023
+ACCG8150,Contemporary Accounting Practice,https://unitguides.mq.edu.au/unit_offerings/155415/unit_guide,2023
+ACCG8123,Accounting Standards and Practice,https://unitguides.mq.edu.au/unit_offerings/155388/unit_guide,2023
+ACCG8126,Corporate Accounting,https://unitguides.mq.edu.au/unit_offerings/155399/unit_guide,2023
+ACCG8121,Managerial Accounting,https://unitguides.mq.edu.au/unit_offerings/155382/unit_guide,2023
+ACCG8124,Taxation Law,https://unitguides.mq.edu.au/unit_offerings/155392/unit_guide,2023
+ABST2020,Pacific Pop Culture,https://unitguides.mq.edu.au/unit_offerings/155254/unit_guide,2023
+ABST3025,Indigenous Research Methodologies,https://unitguides.mq.edu.au/unit_offerings/155263/unit_guide,2023
+ABST2060,Indigenous Histories and Knowledges,https://unitguides.mq.edu.au/unit_offerings/155261/unit_guide,2023
+ABST3040,"Settler Colonialism, Decolonisation and Indigenous Futures ",https://unitguides.mq.edu.au/unit_offerings/155267/unit_guide,2023
+ABST1020,Dharug Ngurra,https://unitguides.mq.edu.au/unit_offerings/155249/unit_guide,2023
+ABST2035,Indigenous Queer Studies,https://unitguides.mq.edu.au/unit_offerings/155256/unit_guide,2023
+ABST1000,Introducing Indigenous Australia,https://unitguides.mq.edu.au/unit_offerings/155243/unit_guide,2023
+ABST3035,Indigenous Queer Theory & Practice,https://unitguides.mq.edu.au/unit_offerings/155264/unit_guide,2023
+MMCC3023,Interactive and Digital Arts,https://unitguides.mq.edu.au/unit_offerings/158364/unit_guide,2023
+MMCC3045,Interactive Storytelling,https://unitguides.mq.edu.au/unit_offerings/158379/unit_guide,2023
+MMCC2041,Interactive Web Design,https://unitguides.mq.edu.au/unit_offerings/160065/unit_guide,2023
+MMCC1011,Introduction to Video Games,https://unitguides.mq.edu.au/unit_offerings/158268/unit_guide,2023
+MMCC2061,Photo Media,https://unitguides.mq.edu.au/unit_offerings/158322/unit_guide,2023
+MMCC1050,Multimodal Storytelling,https://unitguides.mq.edu.au/unit_offerings/158290/unit_guide,2023
+MMCC3029,Critical Games Studies,https://unitguides.mq.edu.au/unit_offerings/158368/unit_guide,2023
+ECON8016,Health Economics and Policy,https://unitguides.mq.edu.au/unit_offerings/160039/unit_guide,2023
+ECON8017,"Climate Change, Energy and Environmental Economics",https://unitguides.mq.edu.au/unit_offerings/160040/unit_guide,2023
+BUSA8000,Techniques in Business Analytics,https://unitguides.mq.edu.au/unit_offerings/156069/unit_guide,2023
+ECON8053,Economics of Public Issues,https://unitguides.mq.edu.au/unit_offerings/160845/unit_guide,2023
+ECON8047,International Trade,https://unitguides.mq.edu.au/unit_offerings/156627/unit_guide,2023
+AFIN8067,International Financial Management,https://unitguides.mq.edu.au/unit_offerings/155673/unit_guide,2023
+ECON8013,Applied Topics in Macroeconomics,https://unitguides.mq.edu.au/unit_offerings/160038/unit_guide,2023
+ECON8057,Economic Development,https://unitguides.mq.edu.au/unit_offerings/160042/unit_guide,2023
+ECON8040,Applied Econometrics,https://unitguides.mq.edu.au/unit_offerings/156625/unit_guide,2023
+ECON8030,Applied Economics Project,https://unitguides.mq.edu.au/unit_offerings/160041/unit_guide,2023
+ECON8012,Applied Topics in Microeconomics,https://unitguides.mq.edu.au/unit_offerings/156478/unit_guide,2023
+EDST8290,Differentiated Instruction and Universal Design for Learning,https://unitguides.mq.edu.au/unit_offerings/156753/unit_guide,2023
+EDST8060,Independent Study in Education,https://unitguides.mq.edu.au/unit_offerings/154463/unit_guide,2023
+EDUC8250,"Effective Instruction in Mathematics, Science and Technology",https://unitguides.mq.edu.au/unit_offerings/156863/unit_guide,2023
+EDST8000,Educational Research,https://unitguides.mq.edu.au/unit_offerings/156693/unit_guide,2023
+EDUC8240,Effective Instruction in Reading and Writing ,https://unitguides.mq.edu.au/unit_offerings/156862/unit_guide,2023
+EDUC8210,Disability Equity Education,https://unitguides.mq.edu.au/unit_offerings/156720/unit_guide,2023
+EDUC8230,Accessible Approaches to Arts Education,https://unitguides.mq.edu.au/unit_offerings/161138/unit_guide,2023
+EDST8040,Scholarship in Educational Studies,https://unitguides.mq.edu.au/unit_offerings/156695/unit_guide,2023
+EDUC8270,"Language, Learning, and Communication",https://unitguides.mq.edu.au/unit_offerings/161139/unit_guide,2023
+EDST8280,Contemporary Approaches to Professional Practice,https://unitguides.mq.edu.au/unit_offerings/156752/unit_guide,2023
+EDST8201,Indigenous Education: Strategies and Research,https://unitguides.mq.edu.au/unit_offerings/156705/unit_guide,2023
+EDUC8260,Supporting Positive Behaviour and Student Wellbeing,https://unitguides.mq.edu.au/unit_offerings/156864/unit_guide,2023
+HLTH3140,"Radiographic Physics, Practice and Protection",https://unitguides.mq.edu.au/unit_offerings/157318/unit_guide,2023
+BIOL2220,Systems Physiology,https://unitguides.mq.edu.au/unit_offerings/155986/unit_guide,2023
+ANAT1002,Anatomy of Limbs and Back,https://unitguides.mq.edu.au/unit_offerings/155834/unit_guide,2023
+CHIR1102,Chiropractic Sciences 2,https://unitguides.mq.edu.au/unit_offerings/156200/unit_guide,2023
+ANTH2002,Illness and Healing,https://unitguides.mq.edu.au/unit_offerings/155797/unit_guide,2023
+CHEM1001,Foundations of Chemical and Biomolecular Sciences 1,https://unitguides.mq.edu.au/unit_offerings/156162/unit_guide,2023
+BMOL2201,Biochemistry and Cell Biology,https://unitguides.mq.edu.au/unit_offerings/155979/unit_guide,2023
+BIOL1210,Human Biology,https://unitguides.mq.edu.au/unit_offerings/155963/unit_guide,2023
+CHIR1101,Chiropractic Sciences 1,https://unitguides.mq.edu.au/unit_offerings/160506/unit_guide,2023
+CHIR2103,Chiropractic Sciences 3,https://unitguides.mq.edu.au/unit_offerings/156201/unit_guide,2023
+PSYU1101,Introduction to Psychology I,https://unitguides.mq.edu.au/unit_offerings/159092/unit_guide,2023
+ANAT2003,"Anatomy of Head, Neck and Trunk",https://unitguides.mq.edu.au/unit_offerings/160508/unit_guide,2023
+PHYS1210,Physics for Life Sciences,https://unitguides.mq.edu.au/unit_offerings/158645/unit_guide,2023
+CHIR3610,PACE: Foundations of Clinical Practice,https://unitguides.mq.edu.au/unit_offerings/156205/unit_guide,2023
+HLTH2110,Clinical Epidemiology and Biostatistics for Health Sciences,https://unitguides.mq.edu.au/unit_offerings/157311/unit_guide,2023
+CHIR2104,Chiropractic Sciences 4,https://unitguides.mq.edu.au/unit_offerings/156202/unit_guide,2023
+HLTH3302,Principles in Health and Disease 2,https://unitguides.mq.edu.au/unit_offerings/157319/unit_guide,2023
+HLTH2301,Principles in Health and Disease,https://unitguides.mq.edu.au/unit_offerings/165947/unit_guide,2023
+CHIR3105,Chiropractic Science 5,https://unitguides.mq.edu.au/unit_offerings/156203/unit_guide,2023
+HLTH3303,Principles in Health and Disease 3,https://unitguides.mq.edu.au/unit_offerings/157321/unit_guide,2023
+ANAT1001,Introduction to Anatomy,https://unitguides.mq.edu.au/unit_offerings/155831/unit_guide,2023
+CHIR3106,Chiropractic Science 6,https://unitguides.mq.edu.au/unit_offerings/156204/unit_guide,2023
+MMCC2014,"Creative Freedoms: Authorship, Technology, Law",https://unitguides.mq.edu.au/unit_offerings/158302/unit_guide,2023
+MMCC1040,Introduction to Media and Mass Communications,https://unitguides.mq.edu.au/unit_offerings/158286/unit_guide,2023
+MMCC1015,Media Practice and Production,https://unitguides.mq.edu.au/unit_offerings/158273/unit_guide,2023
+MMCC2016,"Sex, Death and Politics: Media Representations",https://unitguides.mq.edu.au/unit_offerings/158306/unit_guide,2023
+MMCC2015,Media Theory in Practice,https://unitguides.mq.edu.au/unit_offerings/158305/unit_guide,2023
+MMCC3150,PACE: Media Internship,https://unitguides.mq.edu.au/unit_offerings/158397/unit_guide,2023
+MMCC3016,Media Ethics,https://unitguides.mq.edu.au/unit_offerings/158360/unit_guide,2023
+MMCC3031,Forensic Media,https://unitguides.mq.edu.au/unit_offerings/158370/unit_guide,2023
+PICT8012,Critical Thought and Research Design,https://unitguides.mq.edu.au/unit_offerings/158732/unit_guide,2023
+PICT8088,Advanced Criminology Theory,https://unitguides.mq.edu.au/unit_offerings/158781/unit_guide,2023
+PICT8089,Applied Criminology,https://unitguides.mq.edu.au/unit_offerings/158782/unit_guide,2023
+PICT8062,The Crimes of the Powerful,https://unitguides.mq.edu.au/unit_offerings/158776/unit_guide,2023
+PICT8952,Simulation in Criminology,https://unitguides.mq.edu.au/unit_offerings/158795/unit_guide,2023
+PICT8042,Australia's Approach to Law Enforcement,https://unitguides.mq.edu.au/unit_offerings/158674/unit_guide,2023
+PICT8000,Leadership and Strategic Decision Making,https://unitguides.mq.edu.au/unit_offerings/158729/unit_guide,2023
+PICT8020,Advanced Terrorism Studies,https://unitguides.mq.edu.au/unit_offerings/158742/unit_guide,2023
+PICT8013,History of Intelligence,https://unitguides.mq.edu.au/unit_offerings/158734/unit_guide,2023
+PICT8060,Geopolitics and Geostrategy,https://unitguides.mq.edu.au/unit_offerings/158773/unit_guide,2023
+PICT8040,Cyber Crime and Cyber Policing,https://unitguides.mq.edu.au/unit_offerings/158673/unit_guide,2023
+PICT8045,Intelligence: Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/158680/unit_guide,2023
+PICT8043,International Terrorism,https://unitguides.mq.edu.au/unit_offerings/158676/unit_guide,2023
+PICT8080,"Cyber Conflict, Cyber Espionage and Information Warfare",https://unitguides.mq.edu.au/unit_offerings/158778/unit_guide,2023
+PICT8047,Supervised Project in Security Studies,https://unitguides.mq.edu.au/unit_offerings/158765/unit_guide,2023
+PICT8061,Transnational Security,https://unitguides.mq.edu.au/unit_offerings/158774/unit_guide,2023
+PICT8016,Internship,https://unitguides.mq.edu.au/unit_offerings/158738/unit_guide,2023
+PICT8001,Study Tour,https://unitguides.mq.edu.au/unit_offerings/160917/unit_guide,2023
+LAWS8015,International Law,https://unitguides.mq.edu.au/unit_offerings/157638/unit_guide,2023
+PSYC8984,Clinical Psychology Professional Practice,https://unitguides.mq.edu.au/unit_offerings/158751/unit_guide,2023
+PSYC8987,Child and Adult Psychopathology 1,https://unitguides.mq.edu.au/unit_offerings/158754/unit_guide,2023
+PSYC8985,Clinical Psychology Therapy 1,https://unitguides.mq.edu.au/unit_offerings/158752/unit_guide,2023
+PSYC8995,Clinical Psychology Therapy 4,https://unitguides.mq.edu.au/unit_offerings/159002/unit_guide,2023
+PSYC8986,Clinical Psychological Assessment 1,https://unitguides.mq.edu.au/unit_offerings/136269/unit_guide,2021
+ACST8032,Actuarial Control Cycle 2,https://unitguides.mq.edu.au/unit_offerings/155485/unit_guide,2023
+ACST8029,Capital Budgeting and Financial Modelling,https://unitguides.mq.edu.au/unit_offerings/160842/unit_guide,2023
+BUSA8001,Applied Predictive Analytics,https://unitguides.mq.edu.au/unit_offerings/156071/unit_guide,2023
+ACST8031,Actuarial Control Cycle 1,https://unitguides.mq.edu.au/unit_offerings/162453/unit_guide,2024
+ACST8052,Finance and Financial Reporting,https://unitguides.mq.edu.au/unit_offerings/155503/unit_guide,2023
+ECON8091,Economics for Actuaries,https://unitguides.mq.edu.au/unit_offerings/160043/unit_guide,2023
+ACST8040,Quantitative Research Methods,https://unitguides.mq.edu.au/unit_offerings/162458/unit_guide,2024
+STAT8310,Statistical Theory,https://unitguides.mq.edu.au/unit_offerings/159386/unit_guide,2023
+ACST8095,Actuarial Data Analytics,https://unitguides.mq.edu.au/unit_offerings/155494/unit_guide,2023
+MATH6904,Mathematical Modelling,https://unitguides.mq.edu.au/unit_offerings/157755/unit_guide,2023
+STAT6114,Design of Surveys and Experiments,https://unitguides.mq.edu.au/unit_offerings/159346/unit_guide,2023
+STAT6183,Introduction to Probability,https://unitguides.mq.edu.au/unit_offerings/159357/unit_guide,2023
+ACST8085,Quantitative Methods for Risk Analysis,https://unitguides.mq.edu.au/unit_offerings/155487/unit_guide,2023
+BUSA8090,Data and Visualisation for Business,https://unitguides.mq.edu.au/unit_offerings/156076/unit_guide,2023
+STAT8122,Time Series,https://unitguides.mq.edu.au/unit_offerings/159373/unit_guide,2023
+MGMT8040,Business Project Management,https://unitguides.mq.edu.au/unit_offerings/157981/unit_guide,2023
+ACCG8086,"Cyber Security, Governance Frameworks and Ethics",https://unitguides.mq.edu.au/unit_offerings/166085/unit_guide,2023
+BUSA8031,Business Analytics Project,https://unitguides.mq.edu.au/unit_offerings/156124/unit_guide,2023
+MQBS8000,Contemporary Business Issues,https://unitguides.mq.edu.au/unit_offerings/158500/unit_guide,2023
+ACCG8022,Information Systems in Business,https://unitguides.mq.edu.au/unit_offerings/155353/unit_guide,2023
+BUSA6004,"Introduction to Inference, Modelling and Forecasting",https://unitguides.mq.edu.au/unit_offerings/160027/unit_guide,2023
+SPTH8836,Speech and Language Disorders in Children,https://unitguides.mq.edu.au/unit_offerings/159280/unit_guide,2023
+WCOM1011,Introduction to Video Games,https://unitguides.mq.edu.au/unit_offerings/160442/unit_guide,2023
+WMMC1050,Multimodal Storytelling,https://unitguides.mq.edu.au/unit_offerings/160342/unit_guide,2023
+WCOM1000,Introduction to Computer Programming,https://unitguides.mq.edu.au/unit_offerings/160318/unit_guide,2023
+WMAT1010,Calculus and Linear Algebra I,https://unitguides.mq.edu.au/unit_offerings/160268/unit_guide,2023
+WACO1002,Academic Communication in Science,https://unitguides.mq.edu.au/unit_offerings/160649/unit_guide,2023
+WCOM1350,Introduction to Database Design and Management,https://unitguides.mq.edu.au/unit_offerings/160331/unit_guide,2023
+WCOM1750,Introduction to Business Information Systems,https://unitguides.mq.edu.au/unit_offerings/160336/unit_guide,2023
+WCOM1010,Fundamentals of Computer Science,https://unitguides.mq.edu.au/unit_offerings/160296/unit_guide,2023
+COMP8110,Distributed Systems,https://unitguides.mq.edu.au/unit_offerings/156412/unit_guide,2023
+COMP8280,Mobile Data Networks,https://unitguides.mq.edu.au/unit_offerings/156421/unit_guide,2023
+COMP8270,Network System Architecture and Cloud Technologies,https://unitguides.mq.edu.au/unit_offerings/156420/unit_guide,2023
+COMP8260,Advanced System and Network Security,https://unitguides.mq.edu.au/unit_offerings/156419/unit_guide,2023
+COMP8290,Multimedia Networks and Real Time Protocols,https://unitguides.mq.edu.au/unit_offerings/156422/unit_guide,2023
+COMP8250,Advanced Topics in Computer Networks,https://unitguides.mq.edu.au/unit_offerings/156418/unit_guide,2023
+COMP8310,Security Technologies and Forensic Analysis,https://unitguides.mq.edu.au/unit_offerings/156424/unit_guide,2023
+COMP6260,Cisco Networking I,https://unitguides.mq.edu.au/unit_offerings/156381/unit_guide,2023
+COMP6265,Cisco Networking II,https://unitguides.mq.edu.au/unit_offerings/150752/unit_guide,2022
+COMP6250,Data Communications,https://unitguides.mq.edu.au/unit_offerings/156369/unit_guide,2023
+COMP6300,Applied Cryptography,https://unitguides.mq.edu.au/unit_offerings/156383/unit_guide,2023
+COMP2110,Web Technology,https://unitguides.mq.edu.au/unit_offerings/156296/unit_guide,2023
+COMP3130,Mobile Application Development,https://unitguides.mq.edu.au/unit_offerings/156320/unit_guide,2023
+COMP3120,Advanced Web Development,https://unitguides.mq.edu.au/unit_offerings/156319/unit_guide,2023
+COMP1750,Introduction to Business Information Systems,https://unitguides.mq.edu.au/unit_offerings/156291/unit_guide,2023
+COMP3770,Management of IT Systems and Projects,https://unitguides.mq.edu.au/unit_offerings/156339/unit_guide,2023
+COMP2750,Applications Modelling and Development,https://unitguides.mq.edu.au/unit_offerings/156314/unit_guide,2023
+MATH1007,Discrete Mathematics I,https://unitguides.mq.edu.au/unit_offerings/157726/unit_guide,2023
+COMP2100,Systems Programming,https://unitguides.mq.edu.au/unit_offerings/156295/unit_guide,2023
+COMP2010,Algorithms and Data Structures,https://unitguides.mq.edu.au/unit_offerings/156293/unit_guide,2023
+COMP3100,Distributed Systems,https://unitguides.mq.edu.au/unit_offerings/156318/unit_guide,2023
+COMP2000,Object-Oriented Programming Practices,https://unitguides.mq.edu.au/unit_offerings/156292/unit_guide,2023
+COMP3000,Programming Languages,https://unitguides.mq.edu.au/unit_offerings/156316/unit_guide,2023
+COMP3170,Computer Graphics,https://unitguides.mq.edu.au/unit_offerings/156324/unit_guide,2023
+ASTR2020,Observational Astronomy,https://unitguides.mq.edu.au/unit_offerings/155954/unit_guide,2023
+PHYS2010,Classical and Quantum Oscillations and Waves,https://unitguides.mq.edu.au/unit_offerings/158651/unit_guide,2023
+PHYS2020,Electromagnetism and Relativity,https://unitguides.mq.edu.au/unit_offerings/158652/unit_guide,2023
+ASTR3010,Astrophysics of Radiation and Stars,https://unitguides.mq.edu.au/unit_offerings/155955/unit_guide,2023
+ASTR3110,Data Science Techniques in Astrophysics,https://unitguides.mq.edu.au/unit_offerings/155957/unit_guide,2023
+ASTR3020,Extragalactic Astronomy and Cosmology,https://unitguides.mq.edu.au/unit_offerings/155956/unit_guide,2023
+PHYS1010,Modern Mechanics,https://unitguides.mq.edu.au/unit_offerings/158643/unit_guide,2023
+PHYS1020,Electric and Magnetic Interactions,https://unitguides.mq.edu.au/unit_offerings/158644/unit_guide,2023
+MMCC2030,Media and Advertising,https://unitguides.mq.edu.au/unit_offerings/158313/unit_guide,2023
+MMCC2100,Public Relations and Social Media: Foundations and Cases,https://unitguides.mq.edu.au/unit_offerings/158336/unit_guide,2023
+MMCC1110,Media Technologies,https://unitguides.mq.edu.au/unit_offerings/158293/unit_guide,2023
+MMCC3110,Telling True Stories,https://unitguides.mq.edu.au/unit_offerings/158389/unit_guide,2023
+MMCC3046,Social Media,https://unitguides.mq.edu.au/unit_offerings/158381/unit_guide,2023
+MMCC3090,PACE: Public Relations and Social Media: Constructing Campaigns,https://unitguides.mq.edu.au/unit_offerings/158388/unit_guide,2023
+PHYS3140,Advanced Quantum Mechanics and Quantum Optics,https://unitguides.mq.edu.au/unit_offerings/158656/unit_guide,2023
+PHYS3010,Advanced Electromagnetism and Optics,https://unitguides.mq.edu.au/unit_offerings/158655/unit_guide,2023
+PHYS2030,The Structure of Matter,https://unitguides.mq.edu.au/unit_offerings/158653/unit_guide,2023
+PHYS3180,Condensed Matter and Statistical Physics,https://unitguides.mq.edu.au/unit_offerings/158657/unit_guide,2023
+AFIN8011,Business and Global Environmental Change,https://unitguides.mq.edu.au/unit_offerings/160045/unit_guide,2023
+AFIN8013,Alternative Securities,https://unitguides.mq.edu.au/unit_offerings/160012/unit_guide,2023
+ANTH3022,"Gender, Sexuality and Global Health",https://unitguides.mq.edu.au/unit_offerings/155851/unit_guide,2023
+BIOL3120,Human Genetics and Evolutionary Medicine,https://unitguides.mq.edu.au/unit_offerings/156000/unit_guide,2023
+BIOL3210,Advanced Human Physiology,https://unitguides.mq.edu.au/unit_offerings/156003/unit_guide,2023
+MMCC3005,Musical Theatre ,https://unitguides.mq.edu.au/unit_offerings/158353/unit_guide,2023
+HSYP8003,Applied Research Methodologies in Health,https://unitguides.mq.edu.au/unit_offerings/149578/unit_guide,2022
+HSYP8211,Professional Practice,https://unitguides.mq.edu.au/unit_offerings/157355/unit_guide,2023
+HSYP8007,Program Planning and Evaluation in Health Promotion,https://unitguides.mq.edu.au/unit_offerings/157333/unit_guide,2023
+ENVS8519,Environmental Health,https://unitguides.mq.edu.au/unit_offerings/157069/unit_guide,2023
+ANTH8032,Global Health,https://unitguides.mq.edu.au/unit_offerings/155861/unit_guide,2023
+HSYP8006,Inclusive Health,https://unitguides.mq.edu.au/unit_offerings/157331/unit_guide,2023
+HSYP8008,Global Nutrition and Food Security,https://unitguides.mq.edu.au/unit_offerings/157334/unit_guide,2023
+HSYP8005,Infectious Disease Epidemiology,https://unitguides.mq.edu.au/unit_offerings/157328/unit_guide,2023
+HSYP8107,Public Health Capstone,https://unitguides.mq.edu.au/unit_offerings/157353/unit_guide,2023
+HSYP8103,Health Law and Economics,https://unitguides.mq.edu.au/unit_offerings/157343/unit_guide,2023
+HSYP8106,"Innovation in Leadership, Teamwork and Advocacy",https://unitguides.mq.edu.au/unit_offerings/157349/unit_guide,2023
+HSYP8101,Introduction to Epidemiology and Biostatistics,https://unitguides.mq.edu.au/unit_offerings/157339/unit_guide,2023
+ANTH8016,"Culture, Health and Disease",https://unitguides.mq.edu.au/unit_offerings/138982/unit_guide,2021
+ENVS8525,Sustainability and Transitions ,https://unitguides.mq.edu.au/unit_offerings/157070/unit_guide,2023
+ENVS8527,Engaging Society with Sustainable Development,https://unitguides.mq.edu.au/unit_offerings/157071/unit_guide,2023
+SOCI8035,Qualitative Methods for Policy,https://unitguides.mq.edu.au/unit_offerings/159228/unit_guide,2023
+HSYP8105,Systems Science in Healthcare,https://unitguides.mq.edu.au/unit_offerings/134483/unit_guide,2021
+HSYP8100,Foundations of Public Health,https://unitguides.mq.edu.au/unit_offerings/157336/unit_guide,2023
+HSYP8104,Disease Prevention and Health Promotion,https://unitguides.mq.edu.au/unit_offerings/157344/unit_guide,2023
+MEDI8204,Reflective Medical Practice 1,https://unitguides.mq.edu.au/unit_offerings/157840/unit_guide,2023
+MEDI8100,Applied Medical Science 1,https://unitguides.mq.edu.au/unit_offerings/157830/unit_guide,2023
+MEDI8202,"Cardiovascular, Respiratory, Gastroenterology, Surgery and Metabolism",https://unitguides.mq.edu.au/unit_offerings/157838/unit_guide,2023
+MEDI8203,"Critical Care, Patient Safety and Quality, and Research",https://unitguides.mq.edu.au/unit_offerings/157839/unit_guide,2023
+MEDI8101,Clinical Practice 1,https://unitguides.mq.edu.au/unit_offerings/157831/unit_guide,2023
+MEDI8403,Reflective Medical Practice 2,https://unitguides.mq.edu.au/unit_offerings/157848/unit_guide,2023
+MEDI8103,Applied Medical Science 2,https://unitguides.mq.edu.au/unit_offerings/157833/unit_guide,2023
+MEDI8402,Advanced Clinical Placements B,https://unitguides.mq.edu.au/unit_offerings/157847/unit_guide,2023
+MEDI8201,"Musculoskeletal, Neurosciences and Ageing",https://unitguides.mq.edu.au/unit_offerings/157837/unit_guide,2023
+MEDI8401,Advanced Clinical Placements A,https://unitguides.mq.edu.au/unit_offerings/157846/unit_guide,2023
+MEDI8102,Evidence-Based Healthcare,https://unitguides.mq.edu.au/unit_offerings/157832/unit_guide,2023
+MEDI8200,"Primary Care, Wellbeing and Cancer",https://unitguides.mq.edu.au/unit_offerings/157836/unit_guide,2023
+MEDI8105,Interprofessional Healthcare,https://unitguides.mq.edu.au/unit_offerings/157835/unit_guide,2023
+MEDI8400,Research Project and Presentation,https://unitguides.mq.edu.au/unit_offerings/157845/unit_guide,2023
+MEDI8104,Clinical Practice 2,https://unitguides.mq.edu.au/unit_offerings/157834/unit_guide,2023
+MKTG8002,Marketing Communications,https://unitguides.mq.edu.au/unit_offerings/158135/unit_guide,2023
+MKTG8007,Business-to-Business Marketing Strategy,https://unitguides.mq.edu.au/unit_offerings/161157/unit_guide,2023
+MKTG8004,Digital Marketing Strategy,https://unitguides.mq.edu.au/unit_offerings/158119/unit_guide,2023
+MKTG8011,Strategic Branding,https://unitguides.mq.edu.au/unit_offerings/158148/unit_guide,2023
+MKTG8033,Social Media Marketing,https://unitguides.mq.edu.au/unit_offerings/158160/unit_guide,2023
+MKTG8054,Strategic Sales Management,https://unitguides.mq.edu.au/unit_offerings/153505/unit_guide,2022
+MKTG8051,New Product and Service Commercialisation,https://unitguides.mq.edu.au/unit_offerings/158161/unit_guide,2023
+MKTG8001,International Marketing,https://unitguides.mq.edu.au/unit_offerings/158115/unit_guide,2023
+MKTG8220,Managing Customer Experience,https://unitguides.mq.edu.au/unit_offerings/128205/unit_guide,2020
+MKTG6096,Introduction to Marketing Management,https://unitguides.mq.edu.au/unit_offerings/159808/unit_guide,2023
+MKTG8005,Applied Marketing Research,https://unitguides.mq.edu.au/unit_offerings/158142/unit_guide,2023
+MKTG8080,Strategic Marketing Management,https://unitguides.mq.edu.au/unit_offerings/161159/unit_guide,2023
+MKTG8020,Marketing Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/158157/unit_guide,2023
+MKTG8015,Advanced Consumer Behaviour,https://unitguides.mq.edu.au/unit_offerings/158154/unit_guide,2023
+POIR3920,"United States Politics: Money, Culture, Power",https://unitguides.mq.edu.au/unit_offerings/158902/unit_guide,2023
+POIR1010,Australian Politics in Global Context,https://unitguides.mq.edu.au/unit_offerings/158878/unit_guide,2023
+POIR1080,Introduction to Global Politics,https://unitguides.mq.edu.au/unit_offerings/158880/unit_guide,2023
+POIR3060,Policy Making in a Global Era,https://unitguides.mq.edu.au/unit_offerings/158899/unit_guide,2023
+POIR3050,Religion and Politics,https://unitguides.mq.edu.au/unit_offerings/158896/unit_guide,2023
+POIR2010,"Contemporary Issues in Australian Politics: Race, Nation, Class and Gender",https://unitguides.mq.edu.au/unit_offerings/158882/unit_guide,2023
+POIR2070,"Governance, Power and Public Policy",https://unitguides.mq.edu.au/unit_offerings/158889/unit_guide,2023
+POIR2060,Modern Political Thought,https://unitguides.mq.edu.au/unit_offerings/158887/unit_guide,2023
+PHIL3056,Contemporary Topics in Philosophy and Ethics,https://unitguides.mq.edu.au/unit_offerings/158579/unit_guide,2023
+PHIL3051,Great Texts in Philosophy and Ethics,https://unitguides.mq.edu.au/unit_offerings/158572/unit_guide,2023
+PHIL3057,Theories of Justice,https://unitguides.mq.edu.au/unit_offerings/158582/unit_guide,2023
+PHIL3041,Ethical Perspectives on Social Issues,https://unitguides.mq.edu.au/unit_offerings/158570/unit_guide,2023
+PHIL2060,Bioethics and Biotechnology,https://unitguides.mq.edu.au/unit_offerings/155162/unit_guide,2023
+PHIL1031,The Philosophy of Human Nature,https://unitguides.mq.edu.au/unit_offerings/158544/unit_guide,2023
+PHIL2010,"Ethics, Business and Work",https://unitguides.mq.edu.au/unit_offerings/158554/unit_guide,2023
+PHIL1032,"Happiness, Goodness and Justice",https://unitguides.mq.edu.au/unit_offerings/158545/unit_guide,2023
+PHIL2026,The Ethics and Moral Psychology of Good and Evil,https://unitguides.mq.edu.au/unit_offerings/158561/unit_guide,2023
+ENVS8498,Environmental Remediation,https://unitguides.mq.edu.au/unit_offerings/157068/unit_guide,2023
+ENVS8407,Field Methods in Environmental Science,https://unitguides.mq.edu.au/unit_offerings/157066/unit_guide,2023
+ENVS8205,Environmental Pollution,https://unitguides.mq.edu.au/unit_offerings/157061/unit_guide,2023
+ENVS8104,Climate Change and Adaptation,https://unitguides.mq.edu.au/unit_offerings/157059/unit_guide,2023
+ENVS8403,Science in Environmental Management,https://unitguides.mq.edu.au/unit_offerings/157065/unit_guide,2023
+ENVS8229,Sustainable Cities,https://unitguides.mq.edu.au/unit_offerings/157062/unit_guide,2023
+BIOL8770,Topics in Australian Marine Science,https://unitguides.mq.edu.au/unit_offerings/156051/unit_guide,2023
+ENVS8353,Environmental Applications of GIS and Remote Sensing,https://unitguides.mq.edu.au/unit_offerings/157064/unit_guide,2023
+BIOL8870,Regional and Global Conservation,https://unitguides.mq.edu.au/unit_offerings/156052/unit_guide,2023
+ENVS6115,"Climate Change, Energy and our Future",https://unitguides.mq.edu.au/unit_offerings/160164/unit_guide,2023
+ENVS6405,Australian Environmental Futures,https://unitguides.mq.edu.au/unit_offerings/157051/unit_guide,2023
+ENVS6364,Introduction to Geographic Information Science and Remote Sensing,https://unitguides.mq.edu.au/unit_offerings/157050/unit_guide,2023
+ENVS6202,The Living Environment,https://unitguides.mq.edu.au/unit_offerings/157048/unit_guide,2023
+MGMT8004,International Business Strategy,https://unitguides.mq.edu.au/unit_offerings/157961/unit_guide,2023
+MGMT8051,International Human Resource Management,https://unitguides.mq.edu.au/unit_offerings/158001/unit_guide,2023
+MGMT8028,Managing Supply Chains,https://unitguides.mq.edu.au/unit_offerings/159845/unit_guide,2023
+MGMT8027,Entrepreneurship in Business,https://unitguides.mq.edu.au/unit_offerings/157979/unit_guide,2023
+MGMT8025,Negotiation and Conflict Resolution,https://unitguides.mq.edu.au/unit_offerings/124841/unit_guide,2020
+MGMT8054,Managing Cultural Diversity,https://unitguides.mq.edu.au/unit_offerings/157983/unit_guide,2023
+MGMT8077,Learning to be Persuasive,https://unitguides.mq.edu.au/unit_offerings/159854/unit_guide,2023
+MGMT8014,Advanced Professional Practice,https://unitguides.mq.edu.au/unit_offerings/159859/unit_guide,2023
+MGMT8013,Foundations of Professional Practice,https://unitguides.mq.edu.au/unit_offerings/159857/unit_guide,2023
+MMCC3199,Advanced Issues in Marketing and Media,https://unitguides.mq.edu.au/unit_offerings/158403/unit_guide,2023
+MKTG2002,Marketing Research,https://unitguides.mq.edu.au/unit_offerings/158078/unit_guide,2023
+MKTG3002,Services Marketing,https://unitguides.mq.edu.au/unit_offerings/158101/unit_guide,2023
+MKTG2004,Integrated Marketing Communications,https://unitguides.mq.edu.au/unit_offerings/158083/unit_guide,2023
+STAT1250,Business Statistics,https://unitguides.mq.edu.au/unit_offerings/159328/unit_guide,2023
+MKTG2006,Marketing Technologies,https://unitguides.mq.edu.au/unit_offerings/158085/unit_guide,2023
+MKTG3003,Marketing Strategy,https://unitguides.mq.edu.au/unit_offerings/158106/unit_guide,2023
+MKTG1003,Consumer Behaviour,https://unitguides.mq.edu.au/unit_offerings/158074/unit_guide,2023
+MKTG3011,Brand Management,https://unitguides.mq.edu.au/unit_offerings/158059/unit_guide,2023
+MKTG3013,Marketing Media Insights,https://unitguides.mq.edu.au/unit_offerings/158124/unit_guide,2023
+MKTG3009,Social Change Marketing,https://unitguides.mq.edu.au/unit_offerings/138502/unit_guide,2021
+MMCC3020,News Media: New Directions,https://unitguides.mq.edu.au/unit_offerings/158363/unit_guide,2023
+MKTG3006,Digital Marketing,https://unitguides.mq.edu.au/unit_offerings/158054/unit_guide,2023
+MMCC2110,Narrative Journalism,https://unitguides.mq.edu.au/unit_offerings/158338/unit_guide,2023
+ACCG1000,Accounting for Decision Making,https://unitguides.mq.edu.au/unit_offerings/155280/unit_guide,2023
+ACST1001,Finance Fundamentals,https://unitguides.mq.edu.au/unit_offerings/155445/unit_guide,2023
+ECON1020,Economics and Business Strategy,https://unitguides.mq.edu.au/unit_offerings/166016/unit_guide,2024
+MQBS3010,Agility and Excellence in Business,https://unitguides.mq.edu.au/unit_offerings/158488/unit_guide,2023
+COMP2320,Offensive Security,https://unitguides.mq.edu.au/unit_offerings/160183/unit_guide,2023
+COMP3310,Secure Applications Development,https://unitguides.mq.edu.au/unit_offerings/156333/unit_guide,2023
+COMP3250,Computer Networks,https://unitguides.mq.edu.au/unit_offerings/156329/unit_guide,2023
+COMP3320,Cyber Security Management in Practice,https://unitguides.mq.edu.au/unit_offerings/156335/unit_guide,2023
+COMP3300,Data Privacy and Information Security,https://unitguides.mq.edu.au/unit_offerings/156332/unit_guide,2023
+COMP2300,Applied Cryptography,https://unitguides.mq.edu.au/unit_offerings/156307/unit_guide,2023
+COMP2310,Digital Forensics,https://unitguides.mq.edu.au/unit_offerings/156308/unit_guide,2023
+GEND2030,"Sex, Race, and Rock",https://unitguides.mq.edu.au/unit_offerings/157154/unit_guide,2023
+GEND1000,Freedom Dreams: Foundations in Gender Studies,https://unitguides.mq.edu.au/unit_offerings/157150/unit_guide,2023
+GEND3010,"Gender, Crime and Violence",https://unitguides.mq.edu.au/unit_offerings/157156/unit_guide,2023
+GEND1020,Gender and Power,https://unitguides.mq.edu.au/unit_offerings/157152/unit_guide,2023
+MMCC2060,"Health, Bodies, Media",https://unitguides.mq.edu.au/unit_offerings/158320/unit_guide,2023
+SOCI3040,"Human Services in the 21st Century: Care, Gender and Institutions",https://unitguides.mq.edu.au/unit_offerings/159208/unit_guide,2023
+AHIS3201,Women and Gender in the Ancient World,https://unitguides.mq.edu.au/unit_offerings/155768/unit_guide,2023
+GRMN2220,C German Studies 6,https://unitguides.mq.edu.au/unit_offerings/157302/unit_guide,2023
+GRMN2010,I German Studies 3,https://unitguides.mq.edu.au/unit_offerings/157295/unit_guide,2023
+GRMN2210,C German Studies 5,https://unitguides.mq.edu.au/unit_offerings/157298/unit_guide,2023
+GRMN2020,I German Studies 4,https://unitguides.mq.edu.au/unit_offerings/157296/unit_guide,2023
+INTS2001,Language in Use,https://unitguides.mq.edu.au/unit_offerings/157380/unit_guide,2023
+INTS3020,"Language, Literature, Translation: Intercultural Perspectives",https://unitguides.mq.edu.au/unit_offerings/157419/unit_guide,2023
+GRMN1020,I German Studies 2,https://unitguides.mq.edu.au/unit_offerings/157289/unit_guide,2023
+GRMN1010,I German Studies 1,https://unitguides.mq.edu.au/unit_offerings/157287/unit_guide,2023
+GRMN1210,C German Studies 3,https://unitguides.mq.edu.au/unit_offerings/157290/unit_guide,2023
+GRMN1220,C German Studies 4,https://unitguides.mq.edu.au/unit_offerings/157293/unit_guide,2023
+INTS3030,Visualising Cultures,https://unitguides.mq.edu.au/unit_offerings/157422/unit_guide,2023
+GRMN3020,I German Studies 6,https://unitguides.mq.edu.au/unit_offerings/157308/unit_guide,2023
+GRMN3010,I German Studies 5,https://unitguides.mq.edu.au/unit_offerings/157306/unit_guide,2023
+INTS3010,International Studies Project,https://unitguides.mq.edu.au/unit_offerings/160518/unit_guide,2023
+PHTY3000,Exercise Physiology,https://unitguides.mq.edu.au/unit_offerings/158614/unit_guide,2023
+PHTY2000,Behaviour Change for Health and Exercise,https://unitguides.mq.edu.au/unit_offerings/158612/unit_guide,2023
+PHTY3001,Biomechanics of Human Movement,https://unitguides.mq.edu.au/unit_offerings/158615/unit_guide,2023
+PHTY3002,Human Motor Learning and Performance,https://unitguides.mq.edu.au/unit_offerings/158616/unit_guide,2023
+MHIS3040,Who the Bloody Hell Are We?: Story and Citizenship in Australian History,https://unitguides.mq.edu.au/unit_offerings/158035/unit_guide,2023
+MHIS3030,Screening the Past: History on Film and Television,https://unitguides.mq.edu.au/unit_offerings/158050/unit_guide,2023
+MHIS3027,Resisting the Nazis: Fascism and its Opponents,https://unitguides.mq.edu.au/unit_offerings/160620/unit_guide,2023
+MHIS3022,Culture and Power in Renaissance Europe,https://unitguides.mq.edu.au/unit_offerings/160617/unit_guide,2023
+MHIS3065,From the Beats to the Bachelorette: A History of Popular Culture since 1945,https://unitguides.mq.edu.au/unit_offerings/158051/unit_guide,2023
+MHIS2011,Making War Modern: From Revolutionary Soldier to Peacekeeper,https://unitguides.mq.edu.au/unit_offerings/158028/unit_guide,2023
+MHIS2000,A History of Terrorism,https://unitguides.mq.edu.au/unit_offerings/159766/unit_guide,2023
+MHIS2003,A Global History of Sport,https://unitguides.mq.edu.au/unit_offerings/159768/unit_guide,2023
+MHIS2004,Capitalism in World History: From the Silk Roads to Amazon,https://unitguides.mq.edu.au/unit_offerings/158025/unit_guide,2023
+MHIS2001,Between Hope and Despair: A History of Human Rights,https://unitguides.mq.edu.au/unit_offerings/158041/unit_guide,2023
+MHIS2050,ANZAC: A History of Australians at War,https://unitguides.mq.edu.au/unit_offerings/158044/unit_guide,2023
+MHIS2007,From Charlemagne to Game of Thrones: The Middle Ages Then and Now,https://unitguides.mq.edu.au/unit_offerings/158027/unit_guide,2023
+MHIS2020,Twentieth-Century Europe,https://unitguides.mq.edu.au/unit_offerings/158030/unit_guide,2023
+MHIS3000,Making History,https://unitguides.mq.edu.au/unit_offerings/158045/unit_guide,2023
+MHIS1002,"Revolutions, Nationalism and Exploitation in the Modern World 1789-2001",https://unitguides.mq.edu.au/unit_offerings/158018/unit_guide,2023
+MHIS1001,"Forging the West: A World History of Europe, 1215-1788",https://unitguides.mq.edu.au/unit_offerings/158021/unit_guide,2023
+EDST8303,"Enrichment, Thinking and Creativity in Curriculum",https://unitguides.mq.edu.au/unit_offerings/161739/unit_guide,2023
+EDST8312,Bilingual Education: Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/156765/unit_guide,2023
+EDST8302,Educational Assessment,https://unitguides.mq.edu.au/unit_offerings/156759/unit_guide,2023
+EDST8470,Human Resource Management in Education,https://unitguides.mq.edu.au/unit_offerings/161738/unit_guide,2023
+EDST8310,Leading the Learning of New Teachers,https://unitguides.mq.edu.au/unit_offerings/156764/unit_guide,2023
+EDST8650,Design of Technology-Enhanced Learning,https://unitguides.mq.edu.au/unit_offerings/161737/unit_guide,2023
+EDST8420,Leadership for Learning,https://unitguides.mq.edu.au/unit_offerings/156766/unit_guide,2023
+INTS3050,PACE: International Studies Internship,https://unitguides.mq.edu.au/unit_offerings/157425/unit_guide,2023
+MMCC3121,PACE: Creative Industries Internship,https://unitguides.mq.edu.au/unit_offerings/158392/unit_guide,2023
+ARTS3000,"PACE: Social, Cultural and Ethical Action",https://unitguides.mq.edu.au/unit_offerings/155942/unit_guide,2023
+AHIS3005,PACE: Cultural Heritage and Public History,https://unitguides.mq.edu.au/unit_offerings/160601/unit_guide,2023
+AHIS3251,State Formation in the Ancient World,https://unitguides.mq.edu.au/unit_offerings/155775/unit_guide,2023
+AHIS3241,Dialogue of Cultures in the Ancient World,https://unitguides.mq.edu.au/unit_offerings/155772/unit_guide,2023
+AHIS3001,Material Culture and Museum Studies,https://unitguides.mq.edu.au/unit_offerings/155751/unit_guide,2023
+AHIS3202,A History of Magic: From the Magi to Merlin,https://unitguides.mq.edu.au/unit_offerings/155770/unit_guide,2023
+AHIS3000,Capstone in Ancient History and Archaeology,https://unitguides.mq.edu.au/unit_offerings/155749/unit_guide,2023
+AHIS1210,Studying the Past: An Introduction to Ancient History in the 21st Century,https://unitguides.mq.edu.au/unit_offerings/155714/unit_guide,2023
+AHIS1250,The Archaeology of Egypt and Near East: Applying Lessons from the Past,https://unitguides.mq.edu.au/unit_offerings/155716/unit_guide,2023
+AHIS2130,Byzantium in the Age of the Emperors,https://unitguides.mq.edu.au/unit_offerings/155727/unit_guide,2023
+AHIS2225,Rome and the Caesars ,https://unitguides.mq.edu.au/unit_offerings/155739/unit_guide,2023
+AHIS2210,From Alexander the Great to Augustus: The Hellenistic Age ,https://unitguides.mq.edu.au/unit_offerings/155734/unit_guide,2023
+AHIS2211,Minos and Mycenae: The Aegean Bronze Age,https://unitguides.mq.edu.au/unit_offerings/155736/unit_guide,2023
+AHIS2250,Ancient Egypt: Culture and Society,https://unitguides.mq.edu.au/unit_offerings/155741/unit_guide,2023
+AHIS2251,Ancient Egyptian and Near Eastern Art: Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/155742/unit_guide,2023
+PHTY8206,Health and Wellbeing Across Lifespan B,https://unitguides.mq.edu.au/unit_offerings/158635/unit_guide,2023
+PHTY8203,Reflective Practice and Professional Development,https://unitguides.mq.edu.au/unit_offerings/158235/unit_guide,2023
+PHTY8308,Advanced Physiotherapy Practice B,https://unitguides.mq.edu.au/unit_offerings/158661/unit_guide,2023
+PHTY8304,Advanced Clinical Physiotherapy Placement I,https://unitguides.mq.edu.au/unit_offerings/165918/unit_guide,2024
+PHTY8201,Clinical Physiotherapy Placement II,https://unitguides.mq.edu.au/unit_offerings/164846/unit_guide,2024
+PHTY8202,Clinical Physiotherapy Placement III,https://unitguides.mq.edu.au/unit_offerings/164849/unit_guide,2024
+PHTY8307,"Leadership, Advocacy and Business for Health Professionals",https://unitguides.mq.edu.au/unit_offerings/158640/unit_guide,2023
+PHTY8306,Research Project and Seminar,https://unitguides.mq.edu.au/unit_offerings/164861/unit_guide,2024
+PHTY8104,Evidence-based Healthcare,https://unitguides.mq.edu.au/unit_offerings/158621/unit_guide,2023
+PHTY8101,Applied Sciences for Physiotherapy B,https://unitguides.mq.edu.au/unit_offerings/158618/unit_guide,2023
+PHTY8301,Advanced Physiotherapy Practice A,https://unitguides.mq.edu.au/unit_offerings/158636/unit_guide,2023
+PHTY8103,Interprofessional Healthcare,https://unitguides.mq.edu.au/unit_offerings/158620/unit_guide,2023
+PHTY8303,Advanced Research Training,https://unitguides.mq.edu.au/unit_offerings/158238/unit_guide,2023
+PHTY8105,Physiotherapy Practice A,https://unitguides.mq.edu.au/unit_offerings/158622/unit_guide,2023
+PHTY8102,Fundamentals of Physiotherapy Practice,https://unitguides.mq.edu.au/unit_offerings/158619/unit_guide,2023
+PHTY8200,Clinical Physiotherapy Placement I,https://unitguides.mq.edu.au/unit_offerings/158627/unit_guide,2023
+PHTY8305,Advanced Clinical Physiotherapy Placement II,https://unitguides.mq.edu.au/unit_offerings/165922/unit_guide,2024
+PHTY8204,Health and Wellbeing Across Lifespan A,https://unitguides.mq.edu.au/unit_offerings/158634/unit_guide,2023
+PHTY8106,Physiotherapy Practice B,https://unitguides.mq.edu.au/unit_offerings/158623/unit_guide,2023
+PHTY8107,Physiotherapy Practice C,https://unitguides.mq.edu.au/unit_offerings/158624/unit_guide,2023
+PHTY8100,Applied Sciences for Physiotherapy A,https://unitguides.mq.edu.au/unit_offerings/158617/unit_guide,2023
+PHTY8207,Healthcare Complexity and Physiotherapy,https://unitguides.mq.edu.au/unit_offerings/158237/unit_guide,2023
+PHTY8205,Physiotherapy in Workplace and Recreation,https://unitguides.mq.edu.au/unit_offerings/158236/unit_guide,2023
+WFRS0001,Research for University Studies,https://unitguides.mq.edu.au/unit_offerings/160305/unit_guide,2023
+WFMS0001,Mathematics for STEM,https://unitguides.mq.edu.au/unit_offerings/160434/unit_guide,2023
+WFNS0001,Numeracy Skills for Everyday Life,https://unitguides.mq.edu.au/unit_offerings/160327/unit_guide,2023
+WFFS0001,Fundamentals of Science,https://unitguides.mq.edu.au/unit_offerings/160395/unit_guide,2023
+WFBU0001,Business Studies,https://unitguides.mq.edu.au/unit_offerings/160388/unit_guide,2023
+WFMP0001,Digital Media Production,https://unitguides.mq.edu.au/unit_offerings/160414/unit_guide,2023
+ACCG3025,Cyber Security and Privacy,https://unitguides.mq.edu.au/unit_offerings/155313/unit_guide,2023
+ACCG3060,Cyber Security Governance and Ethics,https://unitguides.mq.edu.au/unit_offerings/155330/unit_guide,2023
+COMP3850,PACE: Computing Industry Project,https://unitguides.mq.edu.au/unit_offerings/156343/unit_guide,2023
+COMP1350,Introduction to Database Design and Management,https://unitguides.mq.edu.au/unit_offerings/156289/unit_guide,2023
+COMP1300,Introduction to Cyber Security,https://unitguides.mq.edu.au/unit_offerings/156287/unit_guide,2023
+COMP2250,Data Communications,https://unitguides.mq.edu.au/unit_offerings/156302/unit_guide,2023
+COMP1000,Introduction to Computer Programming,https://unitguides.mq.edu.au/unit_offerings/156239/unit_guide,2023
+EDST8211,Professional Practice 2: Teaching Human Society and its Environment in the Primary School,https://unitguides.mq.edu.au/unit_offerings/156726/unit_guide,2023
+EDST8200,Introduction to Professional Practice and Research,https://unitguides.mq.edu.au/unit_offerings/156696/unit_guide,2023
+EDST8210,Teaching Quality Health and Physical Education in Primary Schools,https://unitguides.mq.edu.au/unit_offerings/156725/unit_guide,2023
+EDST8301,Inclusive and Special Education,https://unitguides.mq.edu.au/unit_offerings/156758/unit_guide,2023
+EDST8206,Professional Practice 1: Teaching English in the Primary School,https://unitguides.mq.edu.au/unit_offerings/156657/unit_guide,2023
+EDST8209,Teaching The Arts,https://unitguides.mq.edu.au/unit_offerings/156722/unit_guide,2023
+EDST8205,"Teaching Mathematics, Science and Technology in the Primary School 3",https://unitguides.mq.edu.au/unit_offerings/156701/unit_guide,2023
+EDST8204,"Teaching Mathematics, Science and Technology in the Primary School 2",https://unitguides.mq.edu.au/unit_offerings/156698/unit_guide,2023
+EDST8203,"Teaching Mathematics, Science and Technology in the Primary School 1",https://unitguides.mq.edu.au/unit_offerings/156655/unit_guide,2023
+EDST8240,Professional Practice 3 and Educational Research,https://unitguides.mq.edu.au/unit_offerings/156751/unit_guide,2023
+EDST8208,Teaching English in the Primary School 3,https://unitguides.mq.edu.au/unit_offerings/156721/unit_guide,2023
+EDST8207,Teaching English in the Primary School 2,https://unitguides.mq.edu.au/unit_offerings/156659/unit_guide,2023
+EDST8300,Learner Development: Advances in Research and Practice,https://unitguides.mq.edu.au/unit_offerings/156755/unit_guide,2023
+EDST8213,"Science, Technology and Mathematics Specialisation",https://unitguides.mq.edu.au/unit_offerings/156729/unit_guide,2023
+EDST8212,English Specialisation,https://unitguides.mq.edu.au/unit_offerings/156728/unit_guide,2023
+ECHE6010,Health and Well-being in Early Childhood,https://unitguides.mq.edu.au/unit_offerings/156506/unit_guide,2023
+ECHE6030,Early Childhood Professional Practice 1,https://unitguides.mq.edu.au/unit_offerings/156510/unit_guide,2023
+ECHE6000,Early Childhood Philosophy and Pedagogy,https://unitguides.mq.edu.au/unit_offerings/156504/unit_guide,2023
+ECHE6020,Early Childhood Development,https://unitguides.mq.edu.au/unit_offerings/156508/unit_guide,2023
+ECHE8220,Issues in Early Childhood Policy and Pedagogy,https://unitguides.mq.edu.au/unit_offerings/156512/unit_guide,2023
+ECHE8290,Professional Experience 3,https://unitguides.mq.edu.au/unit_offerings/156524/unit_guide,2023
+ECHE8230,Language and Literacy in Early Childhood,https://unitguides.mq.edu.au/unit_offerings/156514/unit_guide,2023
+ECHE8240,Early Childhood Development Research and Practice,https://unitguides.mq.edu.au/unit_offerings/161378/unit_guide,2023
+ECHE8260,Leading and Managing Early Childhood Settings,https://unitguides.mq.edu.au/unit_offerings/156519/unit_guide,2023
+ECHE8200,Families in Context,https://unitguides.mq.edu.au/unit_offerings/160598/unit_guide,2023
+ECHE8270,"Learning Through Mathematics, Science and Technology in Early Childhood Settings",https://unitguides.mq.edu.au/unit_offerings/161380/unit_guide,2023
+ECHE8250,Early Childhood Professional Practice 2,https://unitguides.mq.edu.au/unit_offerings/156517/unit_guide,2023
+CHEM3801,Medicinal Chemistry,https://unitguides.mq.edu.au/unit_offerings/156170/unit_guide,2023
+CHEM3202,Advanced Analysis and Measurement,https://unitguides.mq.edu.au/unit_offerings/156168/unit_guide,2023
+CHEM2401,Physical Chemistry I,https://unitguides.mq.edu.au/unit_offerings/156166/unit_guide,2023
+CHEM2601,Synthesis,https://unitguides.mq.edu.au/unit_offerings/156167/unit_guide,2023
+CHEM1002,Foundations of Chemical and Biomolecular Sciences 2,https://unitguides.mq.edu.au/unit_offerings/156163/unit_guide,2023
+CHEM3601,Advanced Synthesis,https://unitguides.mq.edu.au/unit_offerings/156169/unit_guide,2023
+CHEM2201,Analysis and Measurement,https://unitguides.mq.edu.au/unit_offerings/156165/unit_guide,2023
+ECON1021,Principles of Economics 2,https://unitguides.mq.edu.au/unit_offerings/156552/unit_guide,2023
+ECON3000,Public Economics,https://unitguides.mq.edu.au/unit_offerings/156577/unit_guide,2023
+ECON2004,Macroeconomic Analysis and Applications,https://unitguides.mq.edu.au/unit_offerings/156566/unit_guide,2023
+ECON2003,Microeconomic Analysis and Applications,https://unitguides.mq.edu.au/unit_offerings/156559/unit_guide,2023
+ECON2041,Introductory Econometrics,https://unitguides.mq.edu.au/unit_offerings/156574/unit_guide,2023
+ECON3081,PACE: Current Issues in Economics,https://unitguides.mq.edu.au/unit_offerings/161172/unit_guide,2023
+ECON3011,Macroeconomic Policy,https://unitguides.mq.edu.au/unit_offerings/161170/unit_guide,2023
+ECON3036,Economic Development,https://unitguides.mq.edu.au/unit_offerings/154048/unit_guide,2022
+ECON3056,Evolution of Economic Ideas,https://unitguides.mq.edu.au/unit_offerings/156590/unit_guide,2023
+ECON3020,Asian Business Environment,https://unitguides.mq.edu.au/unit_offerings/160843/unit_guide,2023
+ECON3034,Financial Econometrics,https://unitguides.mq.edu.au/unit_offerings/156587/unit_guide,2023
+ECON3059,Environmental Economics,https://unitguides.mq.edu.au/unit_offerings/156592/unit_guide,2023
+ECON3018,Health Economics,https://unitguides.mq.edu.au/unit_offerings/156582/unit_guide,2023
+ECON3009,Industrial Organisation,https://unitguides.mq.edu.au/unit_offerings/156579/unit_guide,2023
+EDUC2620,Education: The Learner,https://unitguides.mq.edu.au/unit_offerings/156843/unit_guide,2023
+EDUC2580,Mathematics in Schools,https://unitguides.mq.edu.au/unit_offerings/156834/unit_guide,2023
+EDUC2920,Research Inquiry in Education,https://unitguides.mq.edu.au/unit_offerings/156707/unit_guide,2023
+EDUC2610,Information and Communication Technologies and Education,https://unitguides.mq.edu.au/unit_offerings/156837/unit_guide,2023
+EDUC3620,Digital Creativity and Learning,https://unitguides.mq.edu.au/unit_offerings/160600/unit_guide,2023
+EDUC3730,Literacy in a Multicultural Society,https://unitguides.mq.edu.au/unit_offerings/161387/unit_guide,2023
+EDUC3830,Education in a Global Society,https://unitguides.mq.edu.au/unit_offerings/156714/unit_guide,2023
+EDUC3990,"Professional Capability: Policy, Theory, Pedagogy",https://unitguides.mq.edu.au/unit_offerings/156715/unit_guide,2023
+EDUC1070,Introduction to Educational Studies,https://unitguides.mq.edu.au/unit_offerings/156832/unit_guide,2023
+SPED1020,Why People Believe Weird Things: Making Rational Decisions in an Irrational World,https://unitguides.mq.edu.au/unit_offerings/159250/unit_guide,2023
+GEOP2010,Theory and Methods in Geography and Planning,https://unitguides.mq.edu.au/unit_offerings/157185/unit_guide,2023
+GEOP2050,Environment and Society,https://unitguides.mq.edu.au/unit_offerings/157188/unit_guide,2023
+GEOP3090,Thinking Space,https://unitguides.mq.edu.au/unit_offerings/157203/unit_guide,2023
+GEOP2060,Geography and Planning Field School,https://unitguides.mq.edu.au/unit_offerings/157190/unit_guide,2023
+GEOP3020,Disasters and Resilient Communities ,https://unitguides.mq.edu.au/unit_offerings/157196/unit_guide,2023
+ENVS1017,The Living Environment,https://unitguides.mq.edu.au/unit_offerings/157024/unit_guide,2023
+GEOP1010,Introducing Human Geography,https://unitguides.mq.edu.au/unit_offerings/157139/unit_guide,2023
+GEOP3000,Environmental Justice in the Anthropocene,https://unitguides.mq.edu.au/unit_offerings/157194/unit_guide,2023
+MKTG3012,New Venture Marketing,https://unitguides.mq.edu.au/unit_offerings/158121/unit_guide,2023
+MKTG3001,Business to Business Marketing,https://unitguides.mq.edu.au/unit_offerings/158099/unit_guide,2023
+MKTG3007,Sales and Personal Selling,https://unitguides.mq.edu.au/unit_offerings/158056/unit_guide,2023
+MKTG3004,PACE: Marketing Project,https://unitguides.mq.edu.au/unit_offerings/158109/unit_guide,2023
+MKTG2008,Marketing Management,https://unitguides.mq.edu.au/unit_offerings/158090/unit_guide,2023
+ECON2044,"Labour Markets, Artificial Intelligence and Inequality",https://unitguides.mq.edu.au/unit_offerings/156575/unit_guide,2023
+ECON2035,The Economics of Financial Institutions,https://unitguides.mq.edu.au/unit_offerings/156570/unit_guide,2023
+ECON2032,Intermediate Econometrics,https://unitguides.mq.edu.au/unit_offerings/156568/unit_guide,2023
+ECON2015,Behavioural Economics,https://unitguides.mq.edu.au/unit_offerings/156567/unit_guide,2023
+BUSA1000,"Introduction to Data, Analytics and People",https://unitguides.mq.edu.au/unit_offerings/162821/unit_guide,2024
+ECON1031,"Quantitative Methods in Economics, Business and Finance",https://unitguides.mq.edu.au/unit_offerings/156556/unit_guide,2023
+MEDI3401,PACE: Professional Learning in the Clinical Sciences,https://unitguides.mq.edu.au/unit_offerings/157808/unit_guide,2023
+MEDI2102,"Renal, Reproductive and Endocrine Systems",https://unitguides.mq.edu.au/unit_offerings/157793/unit_guide,2023
+MEDI3200,Translational Biology and Genomics,https://unitguides.mq.edu.au/unit_offerings/157804/unit_guide,2023
+BMOL1001,Biomolecules,https://unitguides.mq.edu.au/unit_offerings/155978/unit_guide,2023
+MEDI1400,"Foundations of Learning,  Communication and Teamwork",https://unitguides.mq.edu.au/unit_offerings/157788/unit_guide,2023
+MEDI2004,Pharmacology Fundamentals,https://unitguides.mq.edu.au/unit_offerings/157789/unit_guide,2023
+MEDI2101,Cardiovascular and Respiratory System,https://unitguides.mq.edu.au/unit_offerings/157792/unit_guide,2023
+MEDI2200,Human Cell and Molecular Biology,https://unitguides.mq.edu.au/unit_offerings/157795/unit_guide,2023
+MEDI2103,"Alimentary System, Nutrition and Metabolism",https://unitguides.mq.edu.au/unit_offerings/157794/unit_guide,2023
+MEDI2100,Musculoskeletal System,https://unitguides.mq.edu.au/unit_offerings/157791/unit_guide,2023
+MEDI2400,Foundations in Ethics and Society,https://unitguides.mq.edu.au/unit_offerings/157799/unit_guide,2023
+MEDI2005,Human Health and Disease Processes,https://unitguides.mq.edu.au/unit_offerings/157790/unit_guide,2023
+MEDI3900,Research Experience and Training,https://unitguides.mq.edu.au/unit_offerings/157809/unit_guide,2023
+MEDI3100,Clinical Anatomy and Medical Imaging,https://unitguides.mq.edu.au/unit_offerings/157803/unit_guide,2023
+MEDI3400,Contextualising Professionalism in Health Care Systems,https://unitguides.mq.edu.au/unit_offerings/157807/unit_guide,2023
+MEDI3901,Further Research Experience,https://unitguides.mq.edu.au/unit_offerings/157811/unit_guide,2023
+ACCG3008,Corporate Accounting and Business Advisory,https://unitguides.mq.edu.au/unit_offerings/155302/unit_guide,2023
+ACCG2000,Management Accounting,https://unitguides.mq.edu.au/unit_offerings/155224/unit_guide,2023
+ACCG3015,PACE: Accounting and Governance in the Profession,https://unitguides.mq.edu.au/unit_offerings/160940/unit_guide,2023
+ACCG1001,Accounting and Governance,https://unitguides.mq.edu.au/unit_offerings/155286/unit_guide,2023
+ACCG2024,Financial Accounting and Reporting,https://unitguides.mq.edu.au/unit_offerings/155231/unit_guide,2023
+ACCG2050,Accounting Information Systems,https://unitguides.mq.edu.au/unit_offerings/155234/unit_guide,2023
+ACCG3055,Information Systems for Management,https://unitguides.mq.edu.au/unit_offerings/155327/unit_guide,2023
+ACCG3030,Strategic Management Accounting,https://unitguides.mq.edu.au/unit_offerings/155315/unit_guide,2023
+ACCG3001,Organisational Planning and Control,https://unitguides.mq.edu.au/unit_offerings/155296/unit_guide,2023
+GEOP3030,"Liveable Cities: Infrastructure, Mobilities and Place-Making",https://unitguides.mq.edu.au/unit_offerings/157198/unit_guide,2023
+ENVS1018,Environmental Management for a Changing World,https://unitguides.mq.edu.au/unit_offerings/157027/unit_guide,2023
+ENVS2364,Introduction to Geographic Information Science and Remote Sensing,https://unitguides.mq.edu.au/unit_offerings/157035/unit_guide,2023
+GEOP2070,"Urban Dynamics: Population, Housing and Regeneration",https://unitguides.mq.edu.au/unit_offerings/157191/unit_guide,2023
+GEOP3080,Urban Strategic Planning,https://unitguides.mq.edu.au/unit_offerings/157202/unit_guide,2023
+GEOP1080,Urban Planet: Cities and Planning in the Anthropocene,https://unitguides.mq.edu.au/unit_offerings/157183/unit_guide,2023
+GEOP4080,PACE: Planning Experience,https://unitguides.mq.edu.au/unit_offerings/157205/unit_guide,2023
+GEOP2080,Planning and Development,https://unitguides.mq.edu.au/unit_offerings/157193/unit_guide,2023
+GEOP1030,Sydney and the Great Australian Dream,https://unitguides.mq.edu.au/unit_offerings/157181/unit_guide,2023
+GEOP3070,Urban Economies,https://unitguides.mq.edu.au/unit_offerings/157201/unit_guide,2023
+GEOP4070,Social Impact Assessment,https://unitguides.mq.edu.au/unit_offerings/157204/unit_guide,2023
+GEOP2040,Cities of the Global South ,https://unitguides.mq.edu.au/unit_offerings/157187/unit_guide,2023
+GEOP1040,Planning Systems,https://unitguides.mq.edu.au/unit_offerings/157182/unit_guide,2023
+STAT1378,Coding and Communication in Statistics,https://unitguides.mq.edu.au/unit_offerings/159329/unit_guide,2023
+COMP1150,Introduction to Video Games,https://unitguides.mq.edu.au/unit_offerings/156285/unit_guide,2023
+COMP1050,Introduction to the Study of Software Engineering,https://unitguides.mq.edu.au/unit_offerings/156284/unit_guide,2023
+STAT1103,Introduction to Psychological Design and Statistics,https://unitguides.mq.edu.au/unit_offerings/159312/unit_guide,2023
+GEOP4090,Planning and Design,https://unitguides.mq.edu.au/unit_offerings/157206/unit_guide,2023
+SOCI8075,Policy Ideas in Focus: Framing Policy Problems,https://unitguides.mq.edu.au/unit_offerings/159229/unit_guide,2023
+SOCI8015,Doing Social Survey Research,https://unitguides.mq.edu.au/unit_offerings/159222/unit_guide,2023
+SOCI8080,Making Public Policy in a Globalised World,https://unitguides.mq.edu.au/unit_offerings/159231/unit_guide,2023
+WMKT1001,Marketing Fundamentals,https://unitguides.mq.edu.au/unit_offerings/160427/unit_guide,2023
+WMGM1011,Organisational Behaviour,https://unitguides.mq.edu.au/unit_offerings/160373/unit_guide,2023
+WMGM1002,Principles of Management,https://unitguides.mq.edu.au/unit_offerings/160355/unit_guide,2023
+WMGM1007,Introduction to Human Resource Management,https://unitguides.mq.edu.au/unit_offerings/160317/unit_guide,2023
+WMGM1005,Introduction to Global Business ,https://unitguides.mq.edu.au/unit_offerings/160300/unit_guide,2023
+WMGM1020,Entrepreneurship and New Venture Management,https://unitguides.mq.edu.au/unit_offerings/160440/unit_guide,2023
+WPHL1037,Critical Thinking,https://unitguides.mq.edu.au/unit_offerings/160277/unit_guide,2023
+WACO1003,Academic Communication in Business,https://unitguides.mq.edu.au/unit_offerings/160657/unit_guide,2023
+WSTA1250,Business Statistics,https://unitguides.mq.edu.au/unit_offerings/160645/unit_guide,2023
+WACC1000,Accounting in Society,https://unitguides.mq.edu.au/unit_offerings/160290/unit_guide,2023
+WECO1020,Principles of Economics 1,https://unitguides.mq.edu.au/unit_offerings/160402/unit_guide,2023
+WACT1001,Finance 1A,https://unitguides.mq.edu.au/unit_offerings/160423/unit_guide,2023
+WECO1031,"Quantitative Methods in Economics, Business and Finance",https://unitguides.mq.edu.au/unit_offerings/160348/unit_guide,2023
+PICT8963,"Decision Making, Scenario Planning and Simulation in Intelligence",https://unitguides.mq.edu.au/unit_offerings/158814/unit_guide,2023
+PICT8953,Simulation in Intelligence,https://unitguides.mq.edu.au/unit_offerings/158800/unit_guide,2023
+PICT8014,The Intelligence Community in Australia,https://unitguides.mq.edu.au/unit_offerings/158736/unit_guide,2023
+PICT8044,Intelligence Analysis,https://unitguides.mq.edu.au/unit_offerings/158679/unit_guide,2023
+MGRK3020,I Modern Greek Studies 6,https://unitguides.mq.edu.au/unit_offerings/157999/unit_guide,2023
+MGRK3010,I Modern Greek Studies 5,https://unitguides.mq.edu.au/unit_offerings/157997/unit_guide,2023
+MGRK2210,C Modern Greek Studies 5,https://unitguides.mq.edu.au/unit_offerings/157994/unit_guide,2023
+MGRK2220,C Modern Greek Studies 6,https://unitguides.mq.edu.au/unit_offerings/158015/unit_guide,2023
+MGRK2020,I Modern Greek Studies 4,https://unitguides.mq.edu.au/unit_offerings/158014/unit_guide,2023
+MGRK2010,I Modern Greek Studies 3,https://unitguides.mq.edu.au/unit_offerings/157992/unit_guide,2023
+MGRK1210,C Modern Greek Studies 3,https://unitguides.mq.edu.au/unit_offerings/158009/unit_guide,2023
+MGRK1220,C Modern Greek Studies 4,https://unitguides.mq.edu.au/unit_offerings/158011/unit_guide,2023
+MGRK1010,I Modern Greek Studies 1,https://unitguides.mq.edu.au/unit_offerings/157990/unit_guide,2023
+MGRK1020,I Modern Greek Studies 2,https://unitguides.mq.edu.au/unit_offerings/158007/unit_guide,2023
+CHIN1210,C Chinese Studies 3,https://unitguides.mq.edu.au/unit_offerings/156178/unit_guide,2023
+CHIN1220,C Chinese Studies 4,https://unitguides.mq.edu.au/unit_offerings/156181/unit_guide,2023
+CHIN1020,I Chinese Studies 2,https://unitguides.mq.edu.au/unit_offerings/156177/unit_guide,2023
+CHIN1010,I Chinese Studies 1,https://unitguides.mq.edu.au/unit_offerings/156174/unit_guide,2023
+CHIN2210,C Chinese Studies 5,https://unitguides.mq.edu.au/unit_offerings/156189/unit_guide,2023
+CHIN2010,I Chinese Studies 3,https://unitguides.mq.edu.au/unit_offerings/156183/unit_guide,2023
+CHIN2020,I Chinese Studies 4,https://unitguides.mq.edu.au/unit_offerings/156185/unit_guide,2023
+CHIN2220,C Chinese Studies 6,https://unitguides.mq.edu.au/unit_offerings/156191/unit_guide,2023
+CHIN3010,I Chinese Studies 5,https://unitguides.mq.edu.au/unit_offerings/156192/unit_guide,2023
+CHIN3020,I Chinese Studies 6,https://unitguides.mq.edu.au/unit_offerings/156195/unit_guide,2023
+ITAL1220,C Italian Studies 4,https://unitguides.mq.edu.au/unit_offerings/157454/unit_guide,2023
+ITAL1020,I Italian Studies 2,https://unitguides.mq.edu.au/unit_offerings/157449/unit_guide,2023
+ITAL1210,C Italian Studies 3,https://unitguides.mq.edu.au/unit_offerings/157451/unit_guide,2023
+ITAL1010,I Italian Studies 1,https://unitguides.mq.edu.au/unit_offerings/157447/unit_guide,2023
+ITAL2220,C Italian Studies 6,https://unitguides.mq.edu.au/unit_offerings/157164/unit_guide,2023
+ITAL2020,I Italian Studies 4,https://unitguides.mq.edu.au/unit_offerings/157457/unit_guide,2023
+ITAL2010,I Italian Studies 3,https://unitguides.mq.edu.au/unit_offerings/157455/unit_guide,2023
+ITAL2210,C Italian Studies 5,https://unitguides.mq.edu.au/unit_offerings/157459/unit_guide,2023
+ITAL3010,I Italian Studies 5,https://unitguides.mq.edu.au/unit_offerings/157167/unit_guide,2023
+ITAL3020,I Italian Studies 6,https://unitguides.mq.edu.au/unit_offerings/157168/unit_guide,2023
+RUSS1210,C Russian Studies 3,https://unitguides.mq.edu.au/unit_offerings/159152/unit_guide,2023
+RUSS1020,I Russian Studies 2,https://unitguides.mq.edu.au/unit_offerings/159149/unit_guide,2023
+RUSS1220,C Russian Studies 4,https://unitguides.mq.edu.au/unit_offerings/159153/unit_guide,2023
+RUSS1010,I Russian Studies 1,https://unitguides.mq.edu.au/unit_offerings/159148/unit_guide,2023
+RUSS3010,I Russian Studies 5,https://unitguides.mq.edu.au/unit_offerings/159163/unit_guide,2023
+RUSS3020,I Russian Studies 6,https://unitguides.mq.edu.au/unit_offerings/159165/unit_guide,2023
+RUSS2010,I Russian Studies 3,https://unitguides.mq.edu.au/unit_offerings/159156/unit_guide,2023
+RUSS2210,C Russian Studies 5,https://unitguides.mq.edu.au/unit_offerings/159160/unit_guide,2023
+RUSS2020,I Russian Studies 4,https://unitguides.mq.edu.au/unit_offerings/159158/unit_guide,2023
+RUSS2220,C Russian Studies 6,https://unitguides.mq.edu.au/unit_offerings/159161/unit_guide,2023
+MMCC6000,Media Production Foundation,https://unitguides.mq.edu.au/unit_offerings/158405/unit_guide,2023
+MMCC6030,Media and Communications: Representations,https://unitguides.mq.edu.au/unit_offerings/158413/unit_guide,2023
+MMCC6020,Media and Communications: Technologies,https://unitguides.mq.edu.au/unit_offerings/158412/unit_guide,2023
+MMCC6010,Media and Communications: Creative Contexts,https://unitguides.mq.edu.au/unit_offerings/158409/unit_guide,2023
+MMCC8011,Contemporary Global Media,https://unitguides.mq.edu.au/unit_offerings/158419/unit_guide,2023
+MMCC8040,Media Writing and Research,https://unitguides.mq.edu.au/unit_offerings/158435/unit_guide,2023
+MMCC8026,Data Journalism,https://unitguides.mq.edu.au/unit_offerings/158423/unit_guide,2023
+MMCC8043,Writing the Real,https://unitguides.mq.edu.au/unit_offerings/158437/unit_guide,2023
+MMCC8033,Storytelling Techniques,https://unitguides.mq.edu.au/unit_offerings/159786/unit_guide,2023
+MMCC8037,Digital Media Strategies,https://unitguides.mq.edu.au/unit_offerings/158431/unit_guide,2023
+MMCC8046,Social Media,https://unitguides.mq.edu.au/unit_offerings/159764/unit_guide,2023
+MMCC8045,Professional Practices,https://unitguides.mq.edu.au/unit_offerings/158441/unit_guide,2023
+WMMC1110,Media Technologies,https://unitguides.mq.edu.au/unit_offerings/160361/unit_guide,2023
+WMMC1040,Introduction to Media and Mass Communications,https://unitguides.mq.edu.au/unit_offerings/160408/unit_guide,2023
+WMMC1015,Media Practice and Production,https://unitguides.mq.edu.au/unit_offerings/160383/unit_guide,2023
+ECHE8320,Contemporary Approaches to Infant and Toddler Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/159785/unit_guide,2023
+EDST8221,Teaching Languages in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156731/unit_guide,2023
+EDST8226,Teaching Mathematics in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156736/unit_guide,2023
+EDST8227,Teaching Mathematics in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156737/unit_guide,2023
+EDST8231,Teaching Economics and Business Studies in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156741/unit_guide,2023
+EDST8220,Teaching Languages in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156730/unit_guide,2023
+EDST8233,Teaching Geography in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156743/unit_guide,2023
+EDST8224,Teaching History in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156734/unit_guide,2023
+EDST8235,Teaching Society and Culture in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156745/unit_guide,2023
+EDST8229,Teaching Science in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156739/unit_guide,2023
+EDST8234,Teaching Society and Culture in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156744/unit_guide,2023
+EDST8222,Teaching English in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156732/unit_guide,2023
+EDST8232,Teaching Geography in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156742/unit_guide,2023
+EDST8230,Teaching Economics and Business Studies in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156740/unit_guide,2023
+EDST8228,Teaching Science in the Secondary School 1,https://unitguides.mq.edu.au/unit_offerings/156738/unit_guide,2023
+EDST8223,Teaching English in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156733/unit_guide,2023
+EDST8225,Teaching History in the Secondary School 2,https://unitguides.mq.edu.au/unit_offerings/156735/unit_guide,2023
+EDST8304,Learning Technologies in School,https://unitguides.mq.edu.au/unit_offerings/156763/unit_guide,2023
+EDST8237,Professional Practice 1: Curriculum and Pedagogy,https://unitguides.mq.edu.au/unit_offerings/156747/unit_guide,2023
+EDST8238,Professional Practice 2: Literacy and Numeracy for Diverse Learners,https://unitguides.mq.edu.au/unit_offerings/156748/unit_guide,2023
+ACST2002,Mathematics of Finance,https://unitguides.mq.edu.au/unit_offerings/167235/unit_guide,2024
+STAT2372,Probability,https://unitguides.mq.edu.au/unit_offerings/159333/unit_guide,2023
+ACST3006,Quantitative Asset and Liability Modelling 1,https://unitguides.mq.edu.au/unit_offerings/162428/unit_guide,2024
+ACST1052,Introduction to Actuarial Studies,https://unitguides.mq.edu.au/unit_offerings/155449/unit_guide,2023
+COMP3255,Introduction to Mobile Communications,https://unitguides.mq.edu.au/unit_offerings/154161/unit_guide,2023
+COMP2291,Operating Systems,https://unitguides.mq.edu.au/unit_offerings/154124/unit_guide,2023
+PHIL2020,"Philosophy, Technology, and the Future of Humanity",https://unitguides.mq.edu.au/unit_offerings/158560/unit_guide,2023
+PHIL2056,"Knowledge, Language and Power",https://unitguides.mq.edu.au/unit_offerings/158565/unit_guide,2023
+PHIL2062,Philosophy of Psychology,https://unitguides.mq.edu.au/unit_offerings/158567/unit_guide,2023
+PHIL3063,Consciousness and Self,https://unitguides.mq.edu.au/unit_offerings/158585/unit_guide,2023
+PHIL3052,Social and Existential Questions,https://unitguides.mq.edu.au/unit_offerings/158574/unit_guide,2023
+ENGL8090,Research for Creative Writing,https://unitguides.mq.edu.au/unit_offerings/156990/unit_guide,2023
+ENGL8026,Developing the novel or novella,https://unitguides.mq.edu.au/unit_offerings/156983/unit_guide,2023
+ENGL8030,Digital Creative Writing,https://unitguides.mq.edu.au/unit_offerings/156985/unit_guide,2023
+ENGL8017,"Writing the Past, Building New Worlds",https://unitguides.mq.edu.au/unit_offerings/156978/unit_guide,2023
+ENGL8036,Manuscript Project,https://unitguides.mq.edu.au/unit_offerings/156986/unit_guide,2023
+ENGL8011,Word Essentials: Prose and Poetry,https://unitguides.mq.edu.au/unit_offerings/156972/unit_guide,2023
+ENGL8010,Creative Writing Seminar: Narrative Fundamentals,https://unitguides.mq.edu.au/unit_offerings/156970/unit_guide,2023
+ENGL8075,Professional Contexts of Literary and Feature Writing,https://unitguides.mq.edu.au/unit_offerings/156988/unit_guide,2023
+ENGL8022,"Short Form Writing - short story, novella, poetry cycle",https://unitguides.mq.edu.au/unit_offerings/156980/unit_guide,2023
+ENGL8015,Writing Creative Non-Fiction - An Introduction,https://unitguides.mq.edu.au/unit_offerings/156975/unit_guide,2023
+PICT8962,"Decision Making, Scenario Planning and Simulation in Criminology",https://unitguides.mq.edu.au/unit_offerings/158813/unit_guide,2023
+COGS3220,Advanced topics in Cognitive Science 2,https://unitguides.mq.edu.au/unit_offerings/149531/unit_guide,2022
+COGS3250,Advanced Research Experience and Training,https://unitguides.mq.edu.au/unit_offerings/156276/unit_guide,2023
+COGS3030,Human Neuroimaging,https://unitguides.mq.edu.au/unit_offerings/156270/unit_guide,2023
+COGS3210,Advanced Topics in Cognitive Science 1,https://unitguides.mq.edu.au/unit_offerings/153960/unit_guide,2022
+COGS3020,Computational Neuroscience,https://unitguides.mq.edu.au/unit_offerings/156269/unit_guide,2023
+COGS3040,Space and Time in the Brain,https://unitguides.mq.edu.au/unit_offerings/156271/unit_guide,2023
+COGS2020,Experimental Design and Data Analysis for the Cognitive and Brain Sciences,https://unitguides.mq.edu.au/unit_offerings/156264/unit_guide,2023
+COGS3999,PACE: Cognitive Science in the Real World,https://unitguides.mq.edu.au/unit_offerings/156277/unit_guide,2023
+COGS2000,Cognitive Neuroscience,https://unitguides.mq.edu.au/unit_offerings/156261/unit_guide,2023
+COGS2250,Cognitive and Brain Sciences Laboratory,https://unitguides.mq.edu.au/unit_offerings/156268/unit_guide,2023
+COGS1005,Introduction to Neuroscience 2,https://unitguides.mq.edu.au/unit_offerings/156258/unit_guide,2023
+COGS1010,Delusions and Disorders of the Mind and Brain,https://unitguides.mq.edu.au/unit_offerings/156259/unit_guide,2023
+COGS3050,Core Problems in Cognitive Science,https://unitguides.mq.edu.au/unit_offerings/156272/unit_guide,2023
+COGS2010,Memory,https://unitguides.mq.edu.au/unit_offerings/156263/unit_guide,2023
+COGS2040,Attention,https://unitguides.mq.edu.au/unit_offerings/156266/unit_guide,2023
+COGS2030,Hearing and Brain,https://unitguides.mq.edu.au/unit_offerings/156265/unit_guide,2023
+COGS2050,Reading in the Mind and Brain,https://unitguides.mq.edu.au/unit_offerings/156267/unit_guide,2023
+BIOL2610,Biological Data Analysis,https://unitguides.mq.edu.au/unit_offerings/155996/unit_guide,2023
+HLTH2000,Contemporary Health Issues,https://unitguides.mq.edu.au/unit_offerings/157310/unit_guide,2023
+BIOL1620,Foundations in Medical Sciences,https://unitguides.mq.edu.au/unit_offerings/155968/unit_guide,2023
+BIOL3661,PACE: Medical Sciences Capstone,https://unitguides.mq.edu.au/unit_offerings/156019/unit_guide,2023
+ENGL3007,Publishing poetry and short stories,https://unitguides.mq.edu.au/unit_offerings/156950/unit_guide,2023
+ENGL2033,Creative Writing 2: Short-form fiction,https://unitguides.mq.edu.au/unit_offerings/156944/unit_guide,2023
+ENGL1021,An Introduction to Creative Writing,https://unitguides.mq.edu.au/unit_offerings/156932/unit_guide,2023
+ENGL3035,Novel and Novella Writing,https://unitguides.mq.edu.au/unit_offerings/156957/unit_guide,2023
+ENGL2036,Writing Popular Genre Fiction,https://unitguides.mq.edu.au/unit_offerings/156945/unit_guide,2023
+MMCC3011,Writing for Love or Money,https://unitguides.mq.edu.au/unit_offerings/158354/unit_guide,2023
+CROA3010,I Croatian Studies 5,https://unitguides.mq.edu.au/unit_offerings/156454/unit_guide,2023
+CROA3020,I Croatian Studies 6,https://unitguides.mq.edu.au/unit_offerings/156457/unit_guide,2023
+CROA2210,C Croatian Studies 5,https://unitguides.mq.edu.au/unit_offerings/156450/unit_guide,2023
+CROA2220,C Croatian Studies 6,https://unitguides.mq.edu.au/unit_offerings/156453/unit_guide,2023
+CROA2020,I Croatian Studies 4,https://unitguides.mq.edu.au/unit_offerings/156448/unit_guide,2023
+CROA2010,I Croatian Studies 3,https://unitguides.mq.edu.au/unit_offerings/156447/unit_guide,2023
+CROA1210,C Croatian Studies 3,https://unitguides.mq.edu.au/unit_offerings/156442/unit_guide,2023
+CROA1220,C Croatian Studies 4,https://unitguides.mq.edu.au/unit_offerings/156445/unit_guide,2023
+CROA1010,I Croatian Studies 1,https://unitguides.mq.edu.au/unit_offerings/156438/unit_guide,2023
+CROA1020,I Croatian Studies 2,https://unitguides.mq.edu.au/unit_offerings/156440/unit_guide,2023
+JPNS3020,I Japanese Studies 6,https://unitguides.mq.edu.au/unit_offerings/157480/unit_guide,2023
+JPNS3015,Japanese Contemporary Culture ,https://unitguides.mq.edu.au/unit_offerings/157172/unit_guide,2023
+JPNS3010,I Japanese Studies 5,https://unitguides.mq.edu.au/unit_offerings/157170/unit_guide,2023
+JPNS3021,Social Issues in Contemporary Japan ,https://unitguides.mq.edu.au/unit_offerings/157481/unit_guide,2023
+JPNS3050,Japanese Studies in Action,https://unitguides.mq.edu.au/unit_offerings/159834/unit_guide,2023
+JPNS2022,Exploring Japanese Literature,https://unitguides.mq.edu.au/unit_offerings/157474/unit_guide,2023
+JPNS2010,I Japanese Studies 3,https://unitguides.mq.edu.au/unit_offerings/157469/unit_guide,2023
+JPNS2210,C Japanese Studies 5,https://unitguides.mq.edu.au/unit_offerings/157475/unit_guide,2023
+JPNS2220,C Japanese Studies 6,https://unitguides.mq.edu.au/unit_offerings/157477/unit_guide,2023
+JPNS2020,I Japanese Studies 4,https://unitguides.mq.edu.au/unit_offerings/157471/unit_guide,2023
+JPNS1020,I Japanese Studies 2,https://unitguides.mq.edu.au/unit_offerings/157463/unit_guide,2023
+JPNS1210,C Japanese Studies 3,https://unitguides.mq.edu.au/unit_offerings/157465/unit_guide,2023
+JPNS1220,C Japanese Studies 4,https://unitguides.mq.edu.au/unit_offerings/157467/unit_guide,2023
+JPNS1010,I Japanese Studies 1,https://unitguides.mq.edu.au/unit_offerings/157461/unit_guide,2023
+EESC1160,"Blue Planet: Oceans, Climate and Life",https://unitguides.mq.edu.au/unit_offerings/156867/unit_guide,2023
+ENVS1000,Environment Skills,https://unitguides.mq.edu.au/unit_offerings/157023/unit_guide,2023
+ENVS2115,"Climate Change, Energy and our Future",https://unitguides.mq.edu.au/unit_offerings/160162/unit_guide,2023
+ENVS3463,PACE: Environmental Management Project,https://unitguides.mq.edu.au/unit_offerings/157045/unit_guide,2023
+SPED8912,Independent Project in Sensory Disability,https://unitguides.mq.edu.au/unit_offerings/159259/unit_guide,2023
+SPED8925,Technology in Blindness/Low Vision,https://unitguides.mq.edu.au/unit_offerings/159266/unit_guide,2023
+SPED8932,Perception and Production of Speech in Deaf/Hard of Hearing Children,https://unitguides.mq.edu.au/unit_offerings/159270/unit_guide,2023
+SPED8911,Inclusion and Professional Collaboration in Sensory Disability,https://unitguides.mq.edu.au/unit_offerings/159257/unit_guide,2023
+SPED8913,Research in Sensory Disability,https://unitguides.mq.edu.au/unit_offerings/159260/unit_guide,2023
+SPED8923,Literacy for Learners with Blindness/Low Vision,https://unitguides.mq.edu.au/unit_offerings/159265/unit_guide,2023
+SPED8934,Language and Literacy Interventions for Deaf/Hard of Hearing Learners,https://unitguides.mq.edu.au/unit_offerings/159271/unit_guide,2023
+SPED8927,Advanced Studies in Blindness/Low Vision,https://unitguides.mq.edu.au/unit_offerings/159268/unit_guide,2023
+SOCI1000,Introduction to Sociology: Understanding contemporary society ,https://unitguides.mq.edu.au/unit_offerings/159188/unit_guide,2023
+SSCI1000,Introducing Social Science,https://unitguides.mq.edu.au/unit_offerings/159299/unit_guide,2023
+SSCI2020,Survey Research in the Social Sciences,https://unitguides.mq.edu.au/unit_offerings/159307/unit_guide,2023
+SOCI2030,Introduction to Social Policy,https://unitguides.mq.edu.au/unit_offerings/159199/unit_guide,2023
+SSCI3010,Evaluation and Applied Social Science,https://unitguides.mq.edu.au/unit_offerings/159300/unit_guide,2023
+ANTH3023,"Development Studies: Global Economic Inequality, International Aid, and Human Rights",https://unitguides.mq.edu.au/unit_offerings/155853/unit_guide,2023
+SOCI2040,"Economic Life, Inequality and Society",https://unitguides.mq.edu.au/unit_offerings/159201/unit_guide,2023
+SSCI2010,Qualitative Inquiry in the Social Sciences,https://unitguides.mq.edu.au/unit_offerings/159305/unit_guide,2023
+SSCI3090,PACE: Professional Social Research Project,https://unitguides.mq.edu.au/unit_offerings/159310/unit_guide,2023
+MEDI2201,Clinical Bioinformatics,https://unitguides.mq.edu.au/unit_offerings/157796/unit_guide,2023
+PSYU2201,Counselling Approaches and Principles,https://unitguides.mq.edu.au/unit_offerings/159096/unit_guide,2023
+PSYU1102,Introduction to Psychology II,https://unitguides.mq.edu.au/unit_offerings/159093/unit_guide,2023
+ESPS1003,Research and Data Analysis for Exercise Science,https://unitguides.mq.edu.au/unit_offerings/157079/unit_guide,2023
+ESPS2003,Physical Activity and Public Health,https://unitguides.mq.edu.au/unit_offerings/160983/unit_guide,2023
+ESPS2001,Performance Analysis for Exercise and Sport Science,https://unitguides.mq.edu.au/unit_offerings/151564/unit_guide,2023
+ESPS2002,Exercise Testing and Prescription,https://unitguides.mq.edu.au/unit_offerings/151565/unit_guide,2023
+ESPS1000,Introduction to Exercise and Sport Science,https://unitguides.mq.edu.au/unit_offerings/157076/unit_guide,2023
+ESPS1002,Science and Practice of Strength and Conditioning,https://unitguides.mq.edu.au/unit_offerings/157078/unit_guide,2023
+ESPS2000,Behaviour Change for Health and Exercise,https://unitguides.mq.edu.au/unit_offerings/151562/unit_guide,2023
+ESPS1001,Human Physiology for Exercise and Sport,https://unitguides.mq.edu.au/unit_offerings/157077/unit_guide,2023
+ESPS2200,Professional Practice in Exercise Science I,https://unitguides.mq.edu.au/unit_offerings/151561/unit_guide,2023
+MATH1010,Calculus and Linear Algebra I,https://unitguides.mq.edu.au/unit_offerings/157729/unit_guide,2023
+COMP2150,Game Design,https://unitguides.mq.edu.au/unit_offerings/156297/unit_guide,2023
+COMP2160,Game Development,https://unitguides.mq.edu.au/unit_offerings/156298/unit_guide,2023
+COMP3151,Games Project B,https://unitguides.mq.edu.au/unit_offerings/156322/unit_guide,2023
+COMP3180,Virtual Reality and Advanced Game Development,https://unitguides.mq.edu.au/unit_offerings/156325/unit_guide,2023
+COMP3150,Games Project A,https://unitguides.mq.edu.au/unit_offerings/156321/unit_guide,2023
+ANTH3008,Psychological Anthropology,https://unitguides.mq.edu.au/unit_offerings/155847/unit_guide,2023
+ANTH3021,"Globalisation, Conflict, and Religion",https://unitguides.mq.edu.au/unit_offerings/155849/unit_guide,2023
+ANTH3002,The Anthropology of Politics and Power,https://unitguides.mq.edu.au/unit_offerings/155845/unit_guide,2023
+ANTH2008,"Cults, ​Saints, Shamans: Religion and Society",https://unitguides.mq.edu.au/unit_offerings/155842/unit_guide,2023
+ANTH2024,"Mad, Bad, Sad: Anthropological Perspectives",https://unitguides.mq.edu.au/unit_offerings/155844/unit_guide,2023
+ANTH2003,Food Across Cultures,https://unitguides.mq.edu.au/unit_offerings/155800/unit_guide,2023
+ANTH1006,Drugs Across Cultures,https://unitguides.mq.edu.au/unit_offerings/153717/unit_guide,2022
+ANTH1051,Human Evolution and Diversity,https://unitguides.mq.edu.au/unit_offerings/155795/unit_guide,2023
+ANTH1050,Cultures and Societies: Introduction to Anthropology,https://unitguides.mq.edu.au/unit_offerings/155792/unit_guide,2023
+ANTH3024,Doing Ethnography,https://unitguides.mq.edu.au/unit_offerings/155856/unit_guide,2023
+WFDI0001,Digital Intelligence,https://unitguides.mq.edu.au/unit_offerings/160370/unit_guide,2023
+WFEN0001,Academic English 1,https://unitguides.mq.edu.au/unit_offerings/160310/unit_guide,2023
+WFEN0002,Academic English 2,https://unitguides.mq.edu.au/unit_offerings/160263/unit_guide,2023
+ACCG8223,CA - Tax,https://unitguides.mq.edu.au/unit_offerings/160949/unit_guide,2023
+ACCG8224,CA - Integrated Chartered Accounting Practice ,https://unitguides.mq.edu.au/unit_offerings/160950/unit_guide,2023
+ACCG8225,CA - Risk and Technology,https://unitguides.mq.edu.au/unit_offerings/160960/unit_guide,2023
+ACCG8221,CA - Financial Accounting and Reporting,https://unitguides.mq.edu.au/unit_offerings/160943/unit_guide,2023
+ACCG8220,CA - Audit and Risk,https://unitguides.mq.edu.au/unit_offerings/160959/unit_guide,2023
+ACCG8226,CA - Business Performance,https://unitguides.mq.edu.au/unit_offerings/162396/unit_guide,2024
+PSYU3338,Organisational Psychology,https://unitguides.mq.edu.au/unit_offerings/159119/unit_guide,2023
+PSYU3333,Social Interaction in the Modern World,https://unitguides.mq.edu.au/unit_offerings/159113/unit_guide,2023
+PSYU3336,Personality and its Disorders,https://unitguides.mq.edu.au/unit_offerings/159114/unit_guide,2023
+PSYU3339,Applied Child and Adolescent Psychology,https://unitguides.mq.edu.au/unit_offerings/159121/unit_guide,2023
+PSYU3349,Design and Statistics III,https://unitguides.mq.edu.au/unit_offerings/159123/unit_guide,2023
+PSYU2235,Developmental Psychology,https://unitguides.mq.edu.au/unit_offerings/159101/unit_guide,2023
+PSYU2248,Design and Statistics II,https://unitguides.mq.edu.au/unit_offerings/159109/unit_guide,2023
+PSYU3337,Psychopathology,https://unitguides.mq.edu.au/unit_offerings/159116/unit_guide,2023
+PSYU2236,Biopsychology and Learning,https://unitguides.mq.edu.au/unit_offerings/159103/unit_guide,2023
+PSYU2234,Social and Personality Psychology,https://unitguides.mq.edu.au/unit_offerings/159100/unit_guide,2023
+BUSA3015,Business Forecasting,https://unitguides.mq.edu.au/unit_offerings/156099/unit_guide,2023
+BUSA2020,Data Modelling and Visualisation,https://unitguides.mq.edu.au/unit_offerings/156097/unit_guide,2023
+BUSA3020,Advanced Analytics Techniques,https://unitguides.mq.edu.au/unit_offerings/156103/unit_guide,2023
+PROF1000,Introduction to Professional Practice,https://unitguides.mq.edu.au/unit_offerings/158951/unit_guide,2023
+BUSA3021,PACE: Business Analytics Project,https://unitguides.mq.edu.au/unit_offerings/156105/unit_guide,2023
+BIOL6410,Ecology,https://unitguides.mq.edu.au/unit_offerings/160995/unit_guide,2023
+BIOL6110,Genetics,https://unitguides.mq.edu.au/unit_offerings/156020/unit_guide,2023
+BIOL6610,Biological Data Analysis,https://unitguides.mq.edu.au/unit_offerings/156030/unit_guide,2023
+BIOL8610,Conservation and Management of Wild Populations,https://unitguides.mq.edu.au/unit_offerings/156043/unit_guide,2023
+BIOL8601,Biology Research Placement,https://unitguides.mq.edu.au/unit_offerings/156038/unit_guide,2023
+BIOL8760,Climate Change Biology: Impacts and Adaptation,https://unitguides.mq.edu.au/unit_offerings/156048/unit_guide,2023
+BIOL8750,Contemporary Conservation in Australia,https://unitguides.mq.edu.au/unit_offerings/160990/unit_guide,2023
+MMCC8047,The Creative Industries,https://unitguides.mq.edu.au/unit_offerings/158445/unit_guide,2023
+MMCC8030,Creative Entrepreneurship,https://unitguides.mq.edu.au/unit_offerings/158426/unit_guide,2023
+MMCC8090,Radio and Podcast Production,https://unitguides.mq.edu.au/unit_offerings/158450/unit_guide,2023
+MMCC8055,Performance Practices,https://unitguides.mq.edu.au/unit_offerings/158447/unit_guide,2023
+MMCC8038,The Art of Recording,https://unitguides.mq.edu.au/unit_offerings/158433/unit_guide,2023
+MMCC8097,Interactive Media Arts,https://unitguides.mq.edu.au/unit_offerings/158451/unit_guide,2023
+MMCC8035,Non-Fiction Screen Media,https://unitguides.mq.edu.au/unit_offerings/158430/unit_guide,2023
+POIR8320,Europe and the World,https://unitguides.mq.edu.au/unit_offerings/158922/unit_guide,2023
+POIR8310,Security in World Politics,https://unitguides.mq.edu.au/unit_offerings/158920/unit_guide,2023
+POIR8430,The Middle East in Global Politics,https://unitguides.mq.edu.au/unit_offerings/158926/unit_guide,2023
+POIR8570,International Law and Global Governance,https://unitguides.mq.edu.au/unit_offerings/158931/unit_guide,2023
+PICT8037,Choosing Terror: Pathways into Terrorism,https://unitguides.mq.edu.au/unit_offerings/158671/unit_guide,2023
+PICT8018,Counter Terrorism in the Global and Australian Contexts,https://unitguides.mq.edu.au/unit_offerings/158740/unit_guide,2023
+PICT8955,Simulation in Counter Terrorism,https://unitguides.mq.edu.au/unit_offerings/158806/unit_guide,2023
+PICT8965,"Decision Making, Scenario Planning and Simulation in Counter Terrorism",https://unitguides.mq.edu.au/unit_offerings/158819/unit_guide,2023
+LING2213,Australia's Indigenous Languages,https://unitguides.mq.edu.au/unit_offerings/157700/unit_guide,2023
+SPHL2212,Introduction to Audiology,https://unitguides.mq.edu.au/unit_offerings/159283/unit_guide,2023
+LING2218,Grammar and Meaning,https://unitguides.mq.edu.au/unit_offerings/157704/unit_guide,2023
+LING2220,Syntax,https://unitguides.mq.edu.au/unit_offerings/157707/unit_guide,2023
+SPHL3300,Language as Evidence,https://unitguides.mq.edu.au/unit_offerings/159272/unit_guide,2023
+LING2219,Introduction to Sociolinguistics,https://unitguides.mq.edu.au/unit_offerings/157706/unit_guide,2023
+LING2214,Introduction to Psycholinguistics,https://unitguides.mq.edu.au/unit_offerings/157701/unit_guide,2023
+LING1121,Language Myths and Realities,https://unitguides.mq.edu.au/unit_offerings/157699/unit_guide,2023
+LING2217,Introductory Phonetics and Phonology,https://unitguides.mq.edu.au/unit_offerings/157703/unit_guide,2023
+SPHL2216,Speech Acoustics,https://unitguides.mq.edu.au/unit_offerings/159284/unit_guide,2023
+LING1111,Language: Its Structure and Use,https://unitguides.mq.edu.au/unit_offerings/157695/unit_guide,2023
+LING3388,PACE: Accessible and Inclusive Communication,https://unitguides.mq.edu.au/unit_offerings/157716/unit_guide,2023
+LING3390,Phonological Analysis,https://unitguides.mq.edu.au/unit_offerings/157717/unit_guide,2023
+SPHL3308,Speech Production,https://unitguides.mq.edu.au/unit_offerings/159285/unit_guide,2023
+SPHL3311,Acquired Speech and Language Disorders,https://unitguides.mq.edu.au/unit_offerings/134147/unit_guide,2021
+LING3386,Multilingualism,https://unitguides.mq.edu.au/unit_offerings/157715/unit_guide,2023
+LING3384,Child Language Acquisition: Morphology and Syntax,https://unitguides.mq.edu.au/unit_offerings/157713/unit_guide,2023
+SPHL3312,Speech Perception and Hearing Science,https://unitguides.mq.edu.au/unit_offerings/159286/unit_guide,2023
+LING3383,Morphosyntax of the World's Languages,https://unitguides.mq.edu.au/unit_offerings/157711/unit_guide,2023
+SPHL3310,Theoretical and Clinical Perspectives in Speech and Language Development,https://unitguides.mq.edu.au/unit_offerings/159273/unit_guide,2023
+PSYP8902,Psychological Assessment and Reports,https://unitguides.mq.edu.au/unit_offerings/133788/unit_guide,2021
+PSYP8910,Research Theory and Practice for Professional Psychologists,https://unitguides.mq.edu.au/unit_offerings/161143/unit_guide,2023
+PSYP8904,Populations and Presentations in Practice,https://unitguides.mq.edu.au/unit_offerings/159085/unit_guide,2023
+PSYP8901,Counselling and Professional Practice,https://unitguides.mq.edu.au/unit_offerings/161244/unit_guide,2024
+PSYP8906,Working with Children and Families,https://unitguides.mq.edu.au/unit_offerings/159086/unit_guide,2023
+PSYP8903,Cognitive Behaviour Therapy and Related Techniques,https://unitguides.mq.edu.au/unit_offerings/161521/unit_guide,2024
+COMP6325,Cyber Security Management in Practice,https://unitguides.mq.edu.au/unit_offerings/156391/unit_guide,2023
+COMP6013,Introduction to Cyber Security,https://unitguides.mq.edu.au/unit_offerings/154126/unit_guide,2023
+COMP8770,Information Systems Project and Risk Management,https://unitguides.mq.edu.au/unit_offerings/156429/unit_guide,2023
+SOCI2000,Social Research Methods,https://unitguides.mq.edu.au/unit_offerings/159194/unit_guide,2023
+SOCI3015,"The Urban Century: Movement, Cities and Space",https://unitguides.mq.edu.au/unit_offerings/159204/unit_guide,2023
+SOCI2010,Theorising Societies ,https://unitguides.mq.edu.au/unit_offerings/159196/unit_guide,2023
+SOCI1010,Introduction to Sociology: Understanding everyday life ,https://unitguides.mq.edu.au/unit_offerings/159190/unit_guide,2023
+SOCI3025,Exploring Everyday Life and Culture,https://unitguides.mq.edu.au/unit_offerings/159207/unit_guide,2023
+SOCI3090,Self and Society,https://unitguides.mq.edu.au/unit_offerings/154483/unit_guide,2023
+SPTH8832,Speech Pathology Clinical Practice 2,https://unitguides.mq.edu.au/unit_offerings/159279/unit_guide,2023
+SPTH8853,"Discourse, Literacy, and Speech Pathology Practice",https://unitguides.mq.edu.au/unit_offerings/159304/unit_guide,2023
+SPTH8854,Multilingualism and Speech Pathology Practice,https://unitguides.mq.edu.au/unit_offerings/159296/unit_guide,2023
+SPTH8824,Lifelong Disability and AAC,https://unitguides.mq.edu.au/unit_offerings/159277/unit_guide,2023
+SPTH8851,Communication and Concepts for Speech Pathology,https://unitguides.mq.edu.au/unit_offerings/159295/unit_guide,2023
+SPTH8834,Speech Pathology Clinical Practice 4,https://unitguides.mq.edu.au/unit_offerings/159291/unit_guide,2023
+SPTH8833,Speech Pathology Clinical Practice 3,https://unitguides.mq.edu.au/unit_offerings/159290/unit_guide,2023
+SPTH8840,Advanced Professional Practice,https://unitguides.mq.edu.au/unit_offerings/159302/unit_guide,2023
+SPTH8830,Body Functions and Structures for Speech Pathology,https://unitguides.mq.edu.au/unit_offerings/159289/unit_guide,2023
+SPTH8839,Implementing Knowledge in Speech Pathology Practice,https://unitguides.mq.edu.au/unit_offerings/159301/unit_guide,2023
+SPTH8831,Speech Pathology Clinical Practice 1,https://unitguides.mq.edu.au/unit_offerings/159278/unit_guide,2023
+SPTH8837,Speech and Language Disorders in Adults,https://unitguides.mq.edu.au/unit_offerings/159293/unit_guide,2023
+SPTH8841,Advanced Topics in Speech Pathology,https://unitguides.mq.edu.au/unit_offerings/159294/unit_guide,2023
+SPTH8835,Voice and Fluency Disorders,https://unitguides.mq.edu.au/unit_offerings/159292/unit_guide,2023
+SPTH8852,Swallowing and its Disorders,https://unitguides.mq.edu.au/unit_offerings/159303/unit_guide,2023
+AHIS3306,Field Methods of Archaeology ,https://unitguides.mq.edu.au/unit_offerings/155779/unit_guide,2023
+AHIS3302,Laboratory Methods of Archaeology,https://unitguides.mq.edu.au/unit_offerings/155777/unit_guide,2023
+AHIS1301,World Archaeology,https://unitguides.mq.edu.au/unit_offerings/155721/unit_guide,2023
+AHIS2302,Archaeology and Society: Archaeological Evidence,https://unitguides.mq.edu.au/unit_offerings/155746/unit_guide,2023
+AHIS2301,Archaeology of Death and Burial,https://unitguides.mq.edu.au/unit_offerings/155744/unit_guide,2023
+AHIS1300,Digging up the Past: An Introduction to Archaeology,https://unitguides.mq.edu.au/unit_offerings/155718/unit_guide,2023
+AHIS1200,Myth in the Ancient World,https://unitguides.mq.edu.au/unit_offerings/155713/unit_guide,2023
+SOCI3085,Social Order and Social Control,https://unitguides.mq.edu.au/unit_offerings/159216/unit_guide,2023
+LAWS2050,"Crime, Policy and Governance",https://unitguides.mq.edu.au/unit_offerings/157509/unit_guide,2023
+PICT3001,Transnational Crime,https://unitguides.mq.edu.au/unit_offerings/158719/unit_guide,2023
+SOCI1030,Introduction to Justice and Punishment,https://unitguides.mq.edu.au/unit_offerings/159192/unit_guide,2023
+PICT1030,Introduction to Criminology,https://unitguides.mq.edu.au/unit_offerings/158707/unit_guide,2023
+PICT2020,Policing and Crime,https://unitguides.mq.edu.au/unit_offerings/158718/unit_guide,2023
+MATH1020,Calculus and Linear Algebra II,https://unitguides.mq.edu.au/unit_offerings/157733/unit_guide,2023
+MATH1025,Calculus and Linear Algebra II (Advanced),https://unitguides.mq.edu.au/unit_offerings/157735/unit_guide,2023
+MATH2110,Mathematical Modelling and Differential Equations,https://unitguides.mq.edu.au/unit_offerings/157745/unit_guide,2023
+MATH2020,Vector Calculus and Complex Analysis,https://unitguides.mq.edu.au/unit_offerings/157740/unit_guide,2023
+MATH2010,Calculus and Linear Algebra III,https://unitguides.mq.edu.au/unit_offerings/157739/unit_guide,2023
+MATH1015,Calculus and Linear Algebra I (Advanced),https://unitguides.mq.edu.au/unit_offerings/157731/unit_guide,2023
+MATH3902,Nonlinear Dynamics and Chaos,https://unitguides.mq.edu.au/unit_offerings/157750/unit_guide,2023
+MATH3900,Geometry and Topology,https://unitguides.mq.edu.au/unit_offerings/157749/unit_guide,2023
+MATH3907,Algebra IIIA,https://unitguides.mq.edu.au/unit_offerings/157753/unit_guide,2023
+MATH3905,Methods for Mathematical Computation,https://unitguides.mq.edu.au/unit_offerings/157751/unit_guide,2023
+MATH3906,Partial Differential Equations,https://unitguides.mq.edu.au/unit_offerings/157752/unit_guide,2023
+MATH3909,Real and Functional Analysis,https://unitguides.mq.edu.au/unit_offerings/157754/unit_guide,2023
+LAWS2060,The Politics of Human Rights Law,https://unitguides.mq.edu.au/unit_offerings/157511/unit_guide,2023
+SOCI3070,Social Inequality,https://unitguides.mq.edu.au/unit_offerings/159213/unit_guide,2023
+SOCI3050,Activism and Social Change,https://unitguides.mq.edu.au/unit_offerings/159210/unit_guide,2023
+SOCI2070,Living Diversity: Understanding Racism & Co-existence today,https://unitguides.mq.edu.au/unit_offerings/159202/unit_guide,2023
+LAWS1010,Introduction to Law and Social Justice,https://unitguides.mq.edu.au/unit_offerings/157490/unit_guide,2023
+ACCG8313,CPA - Ethics and Governance,https://unitguides.mq.edu.au/unit_offerings/167197/unit_guide,2024
+ACCG8303,CPA - Global Strategy and Leadership,https://unitguides.mq.edu.au/unit_offerings/162399/unit_guide,2024
+ACCG8307,CPA - Financial Reporting,https://unitguides.mq.edu.au/unit_offerings/159942/unit_guide,2023
+ACCG8304,CPA - Advanced Audit and Assurance,https://unitguides.mq.edu.au/unit_offerings/159869/unit_guide,2023
+ACCG8308,CPA - Strategic Management Accounting,https://unitguides.mq.edu.au/unit_offerings/159948/unit_guide,2023
+ACCG8305,CPA - Financial Risk Management,https://unitguides.mq.edu.au/unit_offerings/159962/unit_guide,2023
+ACCG8309,CPA - Australia Taxation - Advanced,https://unitguides.mq.edu.au/unit_offerings/137429/unit_guide,2021
+PICT8961,"Decision Making, Scenario Planning and Simulation in Security and Strategy",https://unitguides.mq.edu.au/unit_offerings/158811/unit_guide,2023
+PICT8951,Simulation in Security and Strategy,https://unitguides.mq.edu.au/unit_offerings/158791/unit_guide,2023
+PICT8050,Strategic Thinking,https://unitguides.mq.edu.au/unit_offerings/158771/unit_guide,2023
+PICT8921,Australia's Strategic and Defence Policy,https://unitguides.mq.edu.au/unit_offerings/158784/unit_guide,2023
+PICT8954,Simulation in Cyber Security,https://unitguides.mq.edu.au/unit_offerings/158805/unit_guide,2023
+PICT8964,"Decision Making, Scenario Planning and Simulation in Cyber Security",https://unitguides.mq.edu.au/unit_offerings/158817/unit_guide,2023
+PICT8049,Australia and Cyber Intelligence,https://unitguides.mq.edu.au/unit_offerings/158768/unit_guide,2023
+PICT8048,Applied Cyber Security,https://unitguides.mq.edu.au/unit_offerings/158767/unit_guide,2023
+ACCG8047,Fundamentals of Forensic Accounting,https://unitguides.mq.edu.au/unit_offerings/159916/unit_guide,2023
+ACCG8035,International Accounting,https://unitguides.mq.edu.au/unit_offerings/155368/unit_guide,2023
+ACCG8076,Forensic and Data Analytics,https://unitguides.mq.edu.au/unit_offerings/160946/unit_guide,2023
+ACCG8028,Management Control Systems,https://unitguides.mq.edu.au/unit_offerings/159918/unit_guide,2023
+ACCG8078,Investigation Engagements,https://unitguides.mq.edu.au/unit_offerings/153842/unit_guide,2022
+ACCG8089,Loss and Damage and other Dispute Engagements,https://unitguides.mq.edu.au/unit_offerings/138348/unit_guide,2021
+ACCG8077,Forensic Accountants and the Courts,https://unitguides.mq.edu.au/unit_offerings/137602/unit_guide,2021
+ACCG8092,Blockchain for Competitive Advantage,https://unitguides.mq.edu.au/unit_offerings/153380/unit_guide,2022
+ACCG8025,Management Accounting: Strategy and Control,https://unitguides.mq.edu.au/unit_offerings/159908/unit_guide,2023
+ACCG8125,Auditing and Assurance Services,https://unitguides.mq.edu.au/unit_offerings/155396/unit_guide,2023
+BMOL6202,Macromolecules,https://unitguides.mq.edu.au/unit_offerings/156086/unit_guide,2023
+CHEM6201,Analysis and Measurement,https://unitguides.mq.edu.au/unit_offerings/156171/unit_guide,2023
+BMOL6432,Molecular Biology and Genomics,https://unitguides.mq.edu.au/unit_offerings/156089/unit_guide,2023
+BMOL6201,Biochemistry and Cell Biology,https://unitguides.mq.edu.au/unit_offerings/156085/unit_guide,2023
+BMOL6401,Microbiology and Molecular Biology,https://unitguides.mq.edu.au/unit_offerings/156088/unit_guide,2023
+BMOL6231,Advanced Biochemistry and Cell Biology,https://unitguides.mq.edu.au/unit_offerings/156087/unit_guide,2023
+MOLS8211,Protein Discovery and Analysis,https://unitguides.mq.edu.au/unit_offerings/164725/unit_guide,2024
+MOLS8001,Selected Topics in the Molecular Sciences,https://unitguides.mq.edu.au/unit_offerings/158470/unit_guide,2023
+MOLS8411,Molecular Genomics Analysis and Design,https://unitguides.mq.edu.au/unit_offerings/158474/unit_guide,2023
+MOLS8902,Molecular Sciences Research Experience,https://unitguides.mq.edu.au/unit_offerings/158477/unit_guide,2023
+MOLS8212,Proteomics Technologies and Applications ,https://unitguides.mq.edu.au/unit_offerings/158473/unit_guide,2023
+MOLS8002,Bioethics and Biotechnology,https://unitguides.mq.edu.au/unit_offerings/158471/unit_guide,2023
+STAT8830,Statistical Methods in Bioinformatics,https://unitguides.mq.edu.au/unit_offerings/159406/unit_guide,2023
+MOLS8611,Molecular and Medical Biotechnology,https://unitguides.mq.edu.au/unit_offerings/158475/unit_guide,2023
+ACST4003,Actuarial Control Cycle 2,https://unitguides.mq.edu.au/unit_offerings/155474/unit_guide,2023
+ACST4002,Actuarial Control Cycle 1,https://unitguides.mq.edu.au/unit_offerings/162439/unit_guide,2024
+ACST3061,Actuarial Statistics,https://unitguides.mq.edu.au/unit_offerings/155472/unit_guide,2023
+ACST3007,Quantitative Asset and Liability Modelling 2,https://unitguides.mq.edu.au/unit_offerings/155464/unit_guide,2023
+ACST3060,Quantitative Methods for Risk Analysis,https://unitguides.mq.edu.au/unit_offerings/155469/unit_guide,2023
+ACST4005,Actuarial Data Analytics,https://unitguides.mq.edu.au/unit_offerings/155475/unit_guide,2023
+ACST3058,Survival Models,https://unitguides.mq.edu.au/unit_offerings/155466/unit_guide,2023
+ACST2052,Finance and Financial Reporting,https://unitguides.mq.edu.au/unit_offerings/162425/unit_guide,2024
+ACST2055,Contingent Payments,https://unitguides.mq.edu.au/unit_offerings/155460/unit_guide,2023
+ACST3059,PACE: Actuarial Modelling,https://unitguides.mq.edu.au/unit_offerings/155467/unit_guide,2023
+CHIR6303,Medical Sciences B,https://unitguides.mq.edu.au/unit_offerings/156210/unit_guide,2023
+CHIR6110,Chiropractic A,https://unitguides.mq.edu.au/unit_offerings/156206/unit_guide,2023
+CHIR6410,Radiographic Science,https://unitguides.mq.edu.au/unit_offerings/156212/unit_guide,2023
+CHIR6111,Chiropractic B,https://unitguides.mq.edu.au/unit_offerings/156207/unit_guide,2023
+CHIR6510,Diagnostic Sciences,https://unitguides.mq.edu.au/unit_offerings/156215/unit_guide,2023
+CHIR6302,Medical Sciences A,https://unitguides.mq.edu.au/unit_offerings/156208/unit_guide,2023
+CHIR8506,Diagnosis and Management 2,https://unitguides.mq.edu.au/unit_offerings/156227/unit_guide,2023
+CHIR8101,Clinical Chiropractic 1,https://unitguides.mq.edu.au/unit_offerings/156216/unit_guide,2023
+CHIR8513,Functional Rehabilitation,https://unitguides.mq.edu.au/unit_offerings/156230/unit_guide,2023
+CHIR8102,Clinical Chiropractic 2,https://unitguides.mq.edu.au/unit_offerings/156217/unit_guide,2023
+CHIR8505,Diagnosis and Management 1,https://unitguides.mq.edu.au/unit_offerings/156226/unit_guide,2023
+CHIR8201,Postgraduate Advanced Research I,https://unitguides.mq.edu.au/unit_offerings/156221/unit_guide,2023
+CHIR8402,Diagnostic Imaging 2,https://unitguides.mq.edu.au/unit_offerings/156225/unit_guide,2023
+CHIR8602,Clinic Internship 2,https://unitguides.mq.edu.au/unit_offerings/162943/unit_guide,2024
+CHIR8401,Diagnostic Imaging 1,https://unitguides.mq.edu.au/unit_offerings/156224/unit_guide,2023
+CHIR8514,Pre-Clinical Management,https://unitguides.mq.edu.au/unit_offerings/156231/unit_guide,2023
+CHIR8601,Clinic Internship 1,https://unitguides.mq.edu.au/unit_offerings/162942/unit_guide,2024
+CHIR8512,Orthopaedic Physical Assessment,https://unitguides.mq.edu.au/unit_offerings/156229/unit_guide,2023
+CHIR8104,Clinical Chiropractic 4,https://unitguides.mq.edu.au/unit_offerings/156219/unit_guide,2023
+CHIR8202,Postgraduate Advanced Research II,https://unitguides.mq.edu.au/unit_offerings/156222/unit_guide,2023
+CHIR8511,Clinical Neurology ,https://unitguides.mq.edu.au/unit_offerings/156228/unit_guide,2023
+CHIR8103,Clinical Chiropractic 3,https://unitguides.mq.edu.au/unit_offerings/156218/unit_guide,2023
+PSYO8915,Organisational Change and Development,https://unitguides.mq.edu.au/unit_offerings/159050/unit_guide,2023
+PSYO8921,Applied Psychology in Human Resource Management,https://unitguides.mq.edu.au/unit_offerings/159052/unit_guide,2023
+PSYO8941,Professional Practice,https://unitguides.mq.edu.au/unit_offerings/159056/unit_guide,2023
+PSYO8904,Counselling and Mental Health in Organisations,https://unitguides.mq.edu.au/unit_offerings/161539/unit_guide,2024
+PSYO8922,Human Factors in New Technology,https://unitguides.mq.edu.au/unit_offerings/160984/unit_guide,2023
+PSYO8919,Training in Organisations,https://unitguides.mq.edu.au/unit_offerings/159051/unit_guide,2023
+PSYO8963,Coaching and Positive Psychology,https://unitguides.mq.edu.au/unit_offerings/159073/unit_guide,2023
+PSYO8940,Psychological Assessment and Evaluation,https://unitguides.mq.edu.au/unit_offerings/159055/unit_guide,2023
+MGMT8055,International Business Project,https://unitguides.mq.edu.au/unit_offerings/158004/unit_guide,2023
+POIR8490,International Political Economy,https://unitguides.mq.edu.au/unit_offerings/158929/unit_guide,2023
+MGMT8050,Management of People at Work,https://unitguides.mq.edu.au/unit_offerings/153582/unit_guide,2022
+POIR8070,International Relations Practice,https://unitguides.mq.edu.au/unit_offerings/158916/unit_guide,2023
+AFCP8104,Contemporary Issues in Applied Finance,https://unitguides.mq.edu.au/unit_offerings/166859/unit_guide,2024
+ACCG8144,Advanced Financial Management,https://unitguides.mq.edu.au/unit_offerings/159931/unit_guide,2023
+ACCG8145,Advanced Audit and Assurance,https://unitguides.mq.edu.au/unit_offerings/159929/unit_guide,2023
+ACCG8146,Advanced Performance Management,https://unitguides.mq.edu.au/unit_offerings/159927/unit_guide,2023
+ACCG8143,Strategic Business Leader II,https://unitguides.mq.edu.au/unit_offerings/159932/unit_guide,2023
+ACCG8142,Strategic Business Reporting,https://unitguides.mq.edu.au/unit_offerings/159921/unit_guide,2023
+ACCG8141,Strategic Business Leader I,https://unitguides.mq.edu.au/unit_offerings/159923/unit_guide,2023
+AHIS6201,Ancient Historiographical and Historical Studies: Foundation,https://unitguides.mq.edu.au/unit_offerings/155787/unit_guide,2023
+AHIS6200,Ancient Language Studies: Foundation in Ancient Language,https://unitguides.mq.edu.au/unit_offerings/155785/unit_guide,2023
+AHIS6202,Archaeological and Historical Studies: Foundation in Archaeology or History,https://unitguides.mq.edu.au/unit_offerings/155791/unit_guide,2023
+AHIS6100,Ancient Languages Foundation,https://unitguides.mq.edu.au/unit_offerings/155781/unit_guide,2023
+AHIS8211,The Athenian Empire 510-404 BC,https://unitguides.mq.edu.au/unit_offerings/155688/unit_guide,2023
+AHIS8252,Egypt in the Age of Akhenaten and Tutankhamun,https://unitguides.mq.edu.au/unit_offerings/155692/unit_guide,2023
+AHIS8320,Under the Shadow of Vesuvius: Archaeology in Ancient Campania,https://unitguides.mq.edu.au/unit_offerings/155693/unit_guide,2023
+AHIS8221,Caravan Cities,https://unitguides.mq.edu.au/unit_offerings/155690/unit_guide,2023
+AHIS8230,City of Constantine,https://unitguides.mq.edu.au/unit_offerings/155691/unit_guide,2023
+AHIS8000,Capstone Advanced Project,https://unitguides.mq.edu.au/unit_offerings/160920/unit_guide,2023
+AHIS8213,Egypt: Alexander to Augustus,https://unitguides.mq.edu.au/unit_offerings/155689/unit_guide,2023
+AHIS8210,History Writing in Antiquity: Herodotus and Thucydides,https://unitguides.mq.edu.au/unit_offerings/155687/unit_guide,2023
+ENGL7001,"Textual Analysis, Literary Theory and Creative Practice Research",https://unitguides.mq.edu.au/unit_offerings/156968/unit_guide,2023
+INTS7001,Special Topics in International Studies: Languages and Cultures,https://unitguides.mq.edu.au/unit_offerings/157162/unit_guide,2023
+PHIL7001,Research Topics in Philosophy II,https://unitguides.mq.edu.au/unit_offerings/158589/unit_guide,2023
+ANTH7001,Core Issues in Anthropological Theory II,https://unitguides.mq.edu.au/unit_offerings/155858/unit_guide,2023
+EDUC7001,Introduction to Systematic Reviews in Education,https://unitguides.mq.edu.au/unit_offerings/156719/unit_guide,2023
+MHIS7001,Archives: Sources and Silences,https://unitguides.mq.edu.au/unit_offerings/158039/unit_guide,2023
+POIR7001,Key Questions in International Relations,https://unitguides.mq.edu.au/unit_offerings/158908/unit_guide,2023
+GEOP7001,Approaches in Geography and Planning,https://unitguides.mq.edu.au/unit_offerings/157217/unit_guide,2023
+SOCI7001,Readings in Social Research,https://unitguides.mq.edu.au/unit_offerings/153278/unit_guide,2022
+MMCC7001,Studies in Network Culture,https://unitguides.mq.edu.au/unit_offerings/158417/unit_guide,2023
+AHIS7001,Advanced Studies in Ancient History and Archaeology: Material Worlds,https://unitguides.mq.edu.au/unit_offerings/155685/unit_guide,2023
+INDG7001,Research Ethics in Indigenous Australian Contexts,https://unitguides.mq.edu.au/unit_offerings/157358/unit_guide,2023
+FOAR7007,Research Theme 3: Neoliberalism and Its Discontents,https://unitguides.mq.edu.au/unit_offerings/157094/unit_guide,2023
+FOAR7005,Research Theme 1: Living in the Anthropocene,https://unitguides.mq.edu.au/unit_offerings/157091/unit_guide,2023
+FOAR7010,Research Theme 5: Evolution of Education,https://unitguides.mq.edu.au/unit_offerings/157099/unit_guide,2023
+FOAR7008,Research Theme 4: Globalising Cultures,https://unitguides.mq.edu.au/unit_offerings/157096/unit_guide,2023
+FOAR7006,"Research Theme 2: Feminism, Queer Theory and the Problem of Identity",https://unitguides.mq.edu.au/unit_offerings/157092/unit_guide,2023
+FOAR7000,Research Paradigms,https://unitguides.mq.edu.au/unit_offerings/157080/unit_guide,2023
+FOAR7001,Research Communications,https://unitguides.mq.edu.au/unit_offerings/157082/unit_guide,2023
+FOAR7002,Research Frontiers,https://unitguides.mq.edu.au/unit_offerings/157084/unit_guide,2023
+ENGL8990,Master of Research - English,https://unitguides.mq.edu.au/unit_offerings/123341/unit_guide,2020
+EDST8990,Master of Research - Educational Studies,https://unitguides.mq.edu.au/unit_offerings/123204/unit_guide,2020
+SOCI8990,Master of Research - Sociology,https://unitguides.mq.edu.au/unit_offerings/150358/unit_guide,2022
+FOAR7004,PACE: Arts Internship for Researchers,https://unitguides.mq.edu.au/unit_offerings/157089/unit_guide,2023
+FOAR7003,Digital Literacies for Researchers,https://unitguides.mq.edu.au/unit_offerings/157086/unit_guide,2023
+SOCI7000,Critical Social Theory,https://unitguides.mq.edu.au/unit_offerings/159219/unit_guide,2023
+AHIS7000,Advanced Studies in Ancient History and Archaeology: Ancient Historiography,https://unitguides.mq.edu.au/unit_offerings/136982/unit_guide,2021
+GEOP7000,Dialogues in Geography and Planning,https://unitguides.mq.edu.au/unit_offerings/157214/unit_guide,2023
+ANTH7000,Core Issues in Anthropological Theory I,https://unitguides.mq.edu.au/unit_offerings/155857/unit_guide,2023
+INTS7000,"Critique in Language, Literature and Culture Studies",https://unitguides.mq.edu.au/unit_offerings/157443/unit_guide,2023
+ENGL7000,Research in Literary Studies and Creative Writing,https://unitguides.mq.edu.au/unit_offerings/156965/unit_guide,2023
+POIR7000,Key Questions in Political Science and Public Policy,https://unitguides.mq.edu.au/unit_offerings/158906/unit_guide,2023
+PHIL7000,Research Topics in Philosophy I,https://unitguides.mq.edu.au/unit_offerings/158588/unit_guide,2023
+MHIS7000,Introduction to Modern Historiography,https://unitguides.mq.edu.au/unit_offerings/158037/unit_guide,2023
+MMCC7000,Media and Social Media,https://unitguides.mq.edu.au/unit_offerings/158416/unit_guide,2023
+EDUC7000,Foundations in Educational Research,https://unitguides.mq.edu.au/unit_offerings/156717/unit_guide,2023
+ECHE1180,Infancy and Early Development,https://unitguides.mq.edu.au/unit_offerings/156460/unit_guide,2023
+EDST2140,STEAM Integration in the Early Years,https://unitguides.mq.edu.au/unit_offerings/156653/unit_guide,2023
+ECHE1130,Play Based Approaches to Early Childhood Learning and Development,https://unitguides.mq.edu.au/unit_offerings/156459/unit_guide,2023
+ECHE3150,Leading and Managing as Early Childhood Teachers,https://unitguides.mq.edu.au/unit_offerings/156484/unit_guide,2023
+EDST3020,Practice of Teaching: Outdoor Learning Environments,https://unitguides.mq.edu.au/unit_offerings/156611/unit_guide,2023
+ECHE4200,The Educational Leader,https://unitguides.mq.edu.au/unit_offerings/156494/unit_guide,2023
+EDST2120,Language and Literacy Learning in Early Childhood,https://unitguides.mq.edu.au/unit_offerings/156650/unit_guide,2023
+ECHE2200,Early Years Curriculum and Pedagogy in the Australian Context,https://unitguides.mq.edu.au/unit_offerings/156376/unit_guide,2023
+EDST3010,Practice of Teaching: Classroom Management and Assessment in the Secondary School,https://unitguides.mq.edu.au/unit_offerings/156608/unit_guide,2023
+EDST4020,Practice of Teaching: Culturally and Linguistically Diverse Secondary Classrooms,https://unitguides.mq.edu.au/unit_offerings/156667/unit_guide,2023
+EDST4120,Adolescent Development and Classroom Practice,https://unitguides.mq.edu.au/unit_offerings/156681/unit_guide,2023
+EDST3140,Introduction to the Secondary Curriculum,https://unitguides.mq.edu.au/unit_offerings/156617/unit_guide,2023
+EDST4010,Practice of Teaching: ICT in the Secondary School,https://unitguides.mq.edu.au/unit_offerings/156665/unit_guide,2023
+EDST4180,Transitioning to the Secondary Teaching Profession,https://unitguides.mq.edu.au/unit_offerings/156689/unit_guide,2023
+BMOL3202,Macromolecules,https://unitguides.mq.edu.au/unit_offerings/156082/unit_guide,2023
+BMOL3201,Advanced Biochemistry and Cell Biology,https://unitguides.mq.edu.au/unit_offerings/156081/unit_guide,2023
+BMOL3402,Molecular Biology and Genomics,https://unitguides.mq.edu.au/unit_offerings/156084/unit_guide,2023
+BMOL2401,Microbiology and Molecular Biology,https://unitguides.mq.edu.au/unit_offerings/155980/unit_guide,2023
+MKTG8006,Applied Marketing Strategy,https://unitguides.mq.edu.au/unit_offerings/158146/unit_guide,2023
+INTS3040,Global Issues,https://unitguides.mq.edu.au/unit_offerings/157423/unit_guide,2023
+INTS2020,"Citizenship, Borders and Transnationalism",https://unitguides.mq.edu.au/unit_offerings/157386/unit_guide,2023
+INTS1000,Language and Communication: Cultural Contexts,https://unitguides.mq.edu.au/unit_offerings/157367/unit_guide,2023
+STAT2114,Design of Surveys and Experiments,https://unitguides.mq.edu.au/unit_offerings/159316/unit_guide,2023
+STAT2173,Introduction to Probability,https://unitguides.mq.edu.au/unit_offerings/159332/unit_guide,2023
+SPED8933,Language and Literacy Learning in Deaf/Hard of Hearing Children,https://unitguides.mq.edu.au/unit_offerings/159281/unit_guide,2023
+SPED8910,Critical Reflection and Professional Experience for Teachers in Sensory Disability,https://unitguides.mq.edu.au/unit_offerings/159255/unit_guide,2023
+SPED8935,Social Perspectives on Deafness and Deaf Education,https://unitguides.mq.edu.au/unit_offerings/159282/unit_guide,2023
+SPED8931,Introduction to Educational Audiology,https://unitguides.mq.edu.au/unit_offerings/159269/unit_guide,2023
+COMP6291,Operating Systems,https://unitguides.mq.edu.au/unit_offerings/154162/unit_guide,2023
+COMP6105,Distributed Systems,https://unitguides.mq.edu.au/unit_offerings/156357/unit_guide,2023
+COMP6255,Introduction to Mobile Communications,https://unitguides.mq.edu.au/unit_offerings/154181/unit_guide,2023
+WMEC1001,Introduction to Mechanical Engineering,https://unitguides.mq.edu.au/unit_offerings/160401/unit_guide,2023
+WCIV1001,Introduction to Civil Engineering,https://unitguides.mq.edu.au/unit_offerings/160378/unit_guide,2023
+WENG1000,Introduction to Engineering,https://unitguides.mq.edu.au/unit_offerings/160430/unit_guide,2023
+WENG1050,Engineering Design,https://unitguides.mq.edu.au/unit_offerings/160364/unit_guide,2023
+WMAT1020,Calculus and Linear Algebra II,https://unitguides.mq.edu.au/unit_offerings/160275/unit_guide,2023
+WPHY1510,Engineering Physics,https://unitguides.mq.edu.au/unit_offerings/160267/unit_guide,2023
+WPHY1520,Physics for Electrical and Electronic Engineering,https://unitguides.mq.edu.au/unit_offerings/160281/unit_guide,2023
+MMCC2011,Music and Arts Journalism,https://unitguides.mq.edu.au/unit_offerings/158297/unit_guide,2023
+APPL8200,Linguistics and Language Teaching,https://unitguides.mq.edu.au/unit_offerings/155925/unit_guide,2023
+APPL8250,Second Language Acquisition,https://unitguides.mq.edu.au/unit_offerings/155932/unit_guide,2023
+APPL8001,TESOL Methodologies,https://unitguides.mq.edu.au/unit_offerings/160224/unit_guide,2023
+APPL8220,Practicum in TESOL,https://unitguides.mq.edu.au/unit_offerings/155926/unit_guide,2023
+APPL8290,Evaluating Language Classroom Practice,https://unitguides.mq.edu.au/unit_offerings/155936/unit_guide,2023
+APPL8240,Language Testing and Evaluation,https://unitguides.mq.edu.au/unit_offerings/155930/unit_guide,2023
+APPL8400,Language for Specific Purposes,https://unitguides.mq.edu.au/unit_offerings/155886/unit_guide,2023
+APPL8410,Literacies,https://unitguides.mq.edu.au/unit_offerings/155888/unit_guide,2023
+APPL8110,Pragmatics and Intercultural Communication,https://unitguides.mq.edu.au/unit_offerings/155918/unit_guide,2023
+APPL8260,Language Teaching and Learning Beyond the Classroom,https://unitguides.mq.edu.au/unit_offerings/155934/unit_guide,2023
+APPL8291,Practicum in TESOL 2,https://unitguides.mq.edu.au/unit_offerings/161419/unit_guide,2023
+APPL8230,Language Curriculum in Context,https://unitguides.mq.edu.au/unit_offerings/155928/unit_guide,2023
+APPL8010,"Genre, Discourse and Multimodality",https://unitguides.mq.edu.au/unit_offerings/155909/unit_guide,2023
+APPL8030,Languages and Cultures in Contact,https://unitguides.mq.edu.au/unit_offerings/155914/unit_guide,2023
+APPL8020,Research Methods in Language Study,https://unitguides.mq.edu.au/unit_offerings/155911/unit_guide,2023
+APPL8420,Teaching English for Academic Purposes,https://unitguides.mq.edu.au/unit_offerings/155889/unit_guide,2023
+APPL8015,"Phonology, Graphology and Teaching Pronunciation",https://unitguides.mq.edu.au/unit_offerings/160981/unit_guide,2023
+COMP6320,Offensive Security,https://unitguides.mq.edu.au/unit_offerings/156388/unit_guide,2023
+COMP8320,Information and Data Security,https://unitguides.mq.edu.au/unit_offerings/156425/unit_guide,2023
+COMP8325,Applications of Artificial Intelligence for Cyber Security,https://unitguides.mq.edu.au/unit_offerings/156426/unit_guide,2023
+COMP8220,Machine Learning,https://unitguides.mq.edu.au/unit_offerings/156414/unit_guide,2023
+COMP8860,Industry Based Internship B,https://unitguides.mq.edu.au/unit_offerings/156435/unit_guide,2023
+PSYN8847,Neuropsychological Rehabilitation and Intervention,https://unitguides.mq.edu.au/unit_offerings/158983/unit_guide,2023
+PSYN8916,Advanced Neuropsychological Assessment,https://unitguides.mq.edu.au/unit_offerings/159042/unit_guide,2023
+PSYN8808,Developmental Neuropsychology,https://unitguides.mq.edu.au/unit_offerings/159029/unit_guide,2023
+PSYN8917,Neuropsychological Practice,https://unitguides.mq.edu.au/unit_offerings/159043/unit_guide,2023
+PSYN8853,Advanced Evidence-Based Neuropsychological Assessment,https://unitguides.mq.edu.au/unit_offerings/149497/unit_guide,2022
+PSYN8840,Neuropsychological Disorders,https://unitguides.mq.edu.au/unit_offerings/159033/unit_guide,2023
+COMP6750,Applications Modelling and Development,https://unitguides.mq.edu.au/unit_offerings/156396/unit_guide,2023
+COMP8760,Enterprise Application Integration,https://unitguides.mq.edu.au/unit_offerings/156428/unit_guide,2023
+COMP8790,Strategic Project Management,https://unitguides.mq.edu.au/unit_offerings/156431/unit_guide,2023
+COMP8750,Information Systems Design and Management,https://unitguides.mq.edu.au/unit_offerings/156427/unit_guide,2023
+COMP8300,Security Management,https://unitguides.mq.edu.au/unit_offerings/156423/unit_guide,2023
+MMBA8095,Digital Strategy for Business,https://unitguides.mq.edu.au/unit_offerings/166759/unit_guide,2024
+MMBA8185,Behavioural Economics,https://unitguides.mq.edu.au/unit_offerings/158253/unit_guide,2023
+MMBA8068,Strategic Corporate Social Responsibility,https://unitguides.mq.edu.au/unit_offerings/166750/unit_guide,2024
+MMBA8113,Big Data and Decision Making,https://unitguides.mq.edu.au/unit_offerings/160823/unit_guide,2023
+MMBA8106,Project Innovation and Change,https://unitguides.mq.edu.au/unit_offerings/151144/unit_guide,2022
+MMBA8148,Risk Measurement and Management ,https://unitguides.mq.edu.au/unit_offerings/160825/unit_guide,2023
+MMBA8066,Leading Change,https://unitguides.mq.edu.au/unit_offerings/160821/unit_guide,2023
+MMBA8089,Designing Organisations for a Digital World,https://unitguides.mq.edu.au/unit_offerings/166757/unit_guide,2024
+MMBA8027,Managing Customer Experience,https://unitguides.mq.edu.au/unit_offerings/159839/unit_guide,2023
+MMBA8155,Management Internship,https://unitguides.mq.edu.au/unit_offerings/166766/unit_guide,2024
+MMBA8059,New Enterprise Management,https://unitguides.mq.edu.au/unit_offerings/159827/unit_guide,2023
+MMBA8047,Entrepreneurial Finance,https://unitguides.mq.edu.au/unit_offerings/159828/unit_guide,2023
+MMBA8028,Designing Competitive Marketing Strategies,https://unitguides.mq.edu.au/unit_offerings/160799/unit_guide,2023
+MMBA8035,Finance for Managers,https://unitguides.mq.edu.au/unit_offerings/166730/unit_guide,2024
+MMBA8020,Marketing Management,https://unitguides.mq.edu.au/unit_offerings/166726/unit_guide,2024
+MMBA8250,MBA Capstone Project,https://unitguides.mq.edu.au/unit_offerings/166769/unit_guide,2024
+MMBA8040,Accounting for Managers,https://unitguides.mq.edu.au/unit_offerings/158177/unit_guide,2023
+MMBA8045,Managerial Economics,https://unitguides.mq.edu.au/unit_offerings/166773/unit_guide,2024
+MMBA8055,Business Strategy,https://unitguides.mq.edu.au/unit_offerings/166744/unit_guide,2024
+MMBA8070,Managing People,https://unitguides.mq.edu.au/unit_offerings/166755/unit_guide,2024
+MMBA8084,Negotiation: Theory and Practice,https://unitguides.mq.edu.au/unit_offerings/158229/unit_guide,2023
+MMBA8075,Leadership Practice and Development,https://unitguides.mq.edu.au/unit_offerings/164527/unit_guide,2024
+MMBA8160,Data and Business Analytics,https://unitguides.mq.edu.au/unit_offerings/160826/unit_guide,2023
+ACCG2065,Blockchain for Business,https://unitguides.mq.edu.au/unit_offerings/155293/unit_guide,2023
+MGMT2022,Foundations in Human Resources Law,https://unitguides.mq.edu.au/unit_offerings/157884/unit_guide,2023
+MGMT1007,Introduction to Human Resource Management,https://unitguides.mq.edu.au/unit_offerings/157857/unit_guide,2023
+MGMT2040,Workplace Relations,https://unitguides.mq.edu.au/unit_offerings/157897/unit_guide,2023
+MGMT3015,Managing Performance and Rewards,https://unitguides.mq.edu.au/unit_offerings/157917/unit_guide,2023
+MGMT2050,Staffing Organisations,https://unitguides.mq.edu.au/unit_offerings/157900/unit_guide,2023
+MGMT3028,Strategic Human Resource Management,https://unitguides.mq.edu.au/unit_offerings/157918/unit_guide,2023
+MGMT3002,PACE: HRM Project,https://unitguides.mq.edu.au/unit_offerings/157914/unit_guide,2023
+MGMT3000,The Art of Negotiation,https://unitguides.mq.edu.au/unit_offerings/157908/unit_guide,2023
+MGMT3017,Managing Change in Organisations,https://unitguides.mq.edu.au/unit_offerings/157180/unit_guide,2023
+MGMT3906,Leadership and Influence in Action,https://unitguides.mq.edu.au/unit_offerings/140503/unit_guide,2021
+MGMT3060,PACE: Business Project,https://unitguides.mq.edu.au/unit_offerings/157930/unit_guide,2023
+MGMT3050,Strategic Management,https://unitguides.mq.edu.au/unit_offerings/157924/unit_guide,2023
+MGMT2031,Ethics and Sustainability Management,https://unitguides.mq.edu.au/unit_offerings/157892/unit_guide,2023
+SLAS1210,C Spanish Studies 3,https://unitguides.mq.edu.au/unit_offerings/159171/unit_guide,2023
+SLAS1020,I Spanish Studies 2,https://unitguides.mq.edu.au/unit_offerings/159169/unit_guide,2023
+SLAS1010,I Spanish Studies 1,https://unitguides.mq.edu.au/unit_offerings/159167/unit_guide,2023
+SLAS1220,C Spanish Studies 4,https://unitguides.mq.edu.au/unit_offerings/159173/unit_guide,2023
+SLAS3010,I Spanish Studies 5,https://unitguides.mq.edu.au/unit_offerings/159183/unit_guide,2023
+SLAS3020,I Spanish Studies 6,https://unitguides.mq.edu.au/unit_offerings/159185/unit_guide,2023
+SLAS2220,C Spanish Studies 6,https://unitguides.mq.edu.au/unit_offerings/159182/unit_guide,2023
+SLAS2010,I Spanish Studies 3,https://unitguides.mq.edu.au/unit_offerings/159175/unit_guide,2023
+SLAS2210,C Spanish Studies 5,https://unitguides.mq.edu.au/unit_offerings/159180/unit_guide,2023
+SLAS2020,I Spanish Studies 4,https://unitguides.mq.edu.au/unit_offerings/159177/unit_guide,2023
+COMP2050,Software Engineering,https://unitguides.mq.edu.au/unit_offerings/156294/unit_guide,2023
+COMP3410,"Knowledge, Planning and Decision Making under Uncertainty",https://unitguides.mq.edu.au/unit_offerings/154581/unit_guide,2023
+COMP3760,Enterprise Systems Integration,https://unitguides.mq.edu.au/unit_offerings/156337/unit_guide,2023
+COMP3780,Technology Management,https://unitguides.mq.edu.au/unit_offerings/156341/unit_guide,2023
+TRAN8023,Audiovisual Translation and Accessibility,https://unitguides.mq.edu.au/unit_offerings/159432/unit_guide,2023
+TRAN8070,Introduction to Translation and Interpreting,https://unitguides.mq.edu.au/unit_offerings/159441/unit_guide,2023
+TRAN8077,General Translation Practice,https://unitguides.mq.edu.au/unit_offerings/159453/unit_guide,2023
+TRAN8902,Approaches to Translation and Interpreting,https://unitguides.mq.edu.au/unit_offerings/159471/unit_guide,2023
+TRAN8071,Technology for Translating and Interpreting,https://unitguides.mq.edu.au/unit_offerings/159447/unit_guide,2023
+TRAN8074,Professional Practice in Translating and Interpreting,https://unitguides.mq.edu.au/unit_offerings/159449/unit_guide,2023
+TRAN8020,Applied Translation Practice,https://unitguides.mq.edu.au/unit_offerings/159422/unit_guide,2023
+TRAN8905,Specialised Translation Practice,https://unitguides.mq.edu.au/unit_offerings/159472/unit_guide,2023
+TRAN8034,Advanced Translation Practice,https://unitguides.mq.edu.au/unit_offerings/159438/unit_guide,2023
+TRAN8022,Intermediate Interpreting Practice,https://unitguides.mq.edu.au/unit_offerings/159428/unit_guide,2023
+TRAN8024,Cultural and Literary Translation/Transcreation,https://unitguides.mq.edu.au/unit_offerings/159436/unit_guide,2023
+TRAN8021,Introduction to Interpreting Practice,https://unitguides.mq.edu.au/unit_offerings/159427/unit_guide,2023
+TRAN8906,Specialised Interpreting Practice,https://unitguides.mq.edu.au/unit_offerings/159474/unit_guide,2023
+FREN2010,I French Studies 3,https://unitguides.mq.edu.au/unit_offerings/157128/unit_guide,2023
+FREN2210,C French Studies 5,https://unitguides.mq.edu.au/unit_offerings/157131/unit_guide,2023
+FREN2220,C French Studies 6,https://unitguides.mq.edu.au/unit_offerings/157133/unit_guide,2023
+FREN2020,I French Studies 4,https://unitguides.mq.edu.au/unit_offerings/157147/unit_guide,2023
+FREN3020, I French Studies 6,https://unitguides.mq.edu.au/unit_offerings/157138/unit_guide,2023
+FREN3010,I French Studies 5,https://unitguides.mq.edu.au/unit_offerings/157135/unit_guide,2023
+FREN1010,I French Studies 1,https://unitguides.mq.edu.au/unit_offerings/157141/unit_guide,2023
+FREN1220,C French Studies 4,https://unitguides.mq.edu.au/unit_offerings/157127/unit_guide,2023
+FREN1020,I French Studies 2,https://unitguides.mq.edu.au/unit_offerings/157144/unit_guide,2023
+FREN1210,C French Studies 3,https://unitguides.mq.edu.au/unit_offerings/157124/unit_guide,2023
+MMCC3140,"Screens, Images, Ideas",https://unitguides.mq.edu.au/unit_offerings/158395/unit_guide,2023
+MMCC3013,Screen Production: Open Form Filmmaking,https://unitguides.mq.edu.au/unit_offerings/158358/unit_guide,2023
+MMCC2012,Screen Production: Filmmaking Across Genres,https://unitguides.mq.edu.au/unit_offerings/158298/unit_guide,2023
+MMCC1005,Introduction to the Cinema,https://unitguides.mq.edu.au/unit_offerings/158265/unit_guide,2023
+MMCC2065,"Documentary Media: Forms, Histories, Futures",https://unitguides.mq.edu.au/unit_offerings/158327/unit_guide,2023
+MMCC3012,Screen Production: Documentary Filmmaking,https://unitguides.mq.edu.au/unit_offerings/158356/unit_guide,2023
+MMCC1025,Screenwriting,https://unitguides.mq.edu.au/unit_offerings/158276/unit_guide,2023
+MMCC2013,Screen Production: Fiction Filmmaking,https://unitguides.mq.edu.au/unit_offerings/158301/unit_guide,2023
+ACCG3058,Information Systems Audit and Assurance,https://unitguides.mq.edu.au/unit_offerings/155328/unit_guide,2023
+EDTE4220,Economics and Business Studies in the Secondary School II,https://unitguides.mq.edu.au/unit_offerings/156798/unit_guide,2023
+EDTE4210,Economics and Business Studies in the Secondary School I,https://unitguides.mq.edu.au/unit_offerings/156797/unit_guide,2023
+PSYU3351,Research Methods in Psychology,https://unitguides.mq.edu.au/unit_offerings/159125/unit_guide,2023
+PSYU3352,Appetite: The Psychology of Eating and Drinking,https://unitguides.mq.edu.au/unit_offerings/159127/unit_guide,2023
+COMP2400,"Intelligent Machines, Ethics and Law",https://unitguides.mq.edu.au/unit_offerings/154743/unit_guide,2023
+MGMT2080,Application of Business Models,https://unitguides.mq.edu.au/unit_offerings/157903/unit_guide,2023
+MGMT1011,Organisational Behaviour,https://unitguides.mq.edu.au/unit_offerings/157861/unit_guide,2023
+ACCG2051,Business and Corporations Law,https://unitguides.mq.edu.au/unit_offerings/155239/unit_guide,2023
+BIOL3420,PACE: Biodiversity and Conservation,https://unitguides.mq.edu.au/unit_offerings/156009/unit_guide,2023
+ENVS3383,Environmental Analysis Using Remote Sensing and GIS,https://unitguides.mq.edu.au/unit_offerings/157041/unit_guide,2023
+BIOL3440,Aquatic Ecosystems,https://unitguides.mq.edu.au/unit_offerings/156010/unit_guide,2023
+BIOL2310,Diversity of Life,https://unitguides.mq.edu.au/unit_offerings/155991/unit_guide,2023
+ENVS2467,Australian Environmental Futures,https://unitguides.mq.edu.au/unit_offerings/157036/unit_guide,2023
+BIOL1320,Biological Basis of Behaviour,https://unitguides.mq.edu.au/unit_offerings/155966/unit_guide,2023
+BIOL3110,Evolutionary and Conservation Genetics,https://unitguides.mq.edu.au/unit_offerings/155997/unit_guide,2023
+EDST4060,Practice of Teaching: Transition to the Early Childhood Profession,https://unitguides.mq.edu.au/unit_offerings/156674/unit_guide,2023
+ECHE3110,Infant and Toddler Curriculum and Pedagogy,https://unitguides.mq.edu.au/unit_offerings/156482/unit_guide,2023
+ECHE2320,Mathematical and Scientific Thinking in the Early Years,https://unitguides.mq.edu.au/unit_offerings/156377/unit_guide,2023
+ECHE3100,Play-based Curriculum: Discovery and Creativity in Outdoor Environments,https://unitguides.mq.edu.au/unit_offerings/156379/unit_guide,2023
+EDST2010,Practice of Teaching: Introduction to the Early Childhood Context,https://unitguides.mq.edu.au/unit_offerings/156643/unit_guide,2023
+ECHE3260,"Working with Families, Communities and Other Professionals in Education Settings",https://unitguides.mq.edu.au/unit_offerings/156487/unit_guide,2023
+ECHE1300,Health and Wellbeing,https://unitguides.mq.edu.au/unit_offerings/156465/unit_guide,2023
+EDST3160,Working as Early Childhood Centre Directors,https://unitguides.mq.edu.au/unit_offerings/156618/unit_guide,2023
+ECHE1200,History and Philosophy of Early Childhood,https://unitguides.mq.edu.au/unit_offerings/156462/unit_guide,2023
+ECHE3330,Inclusive Education,https://unitguides.mq.edu.au/unit_offerings/156489/unit_guide,2023
+ECHE4540,Creativity and the Arts,https://unitguides.mq.edu.au/unit_offerings/156502/unit_guide,2023
+ECHE1310,The Arts in Children's Lives,https://unitguides.mq.edu.au/unit_offerings/156466/unit_guide,2023
+ECHE2180,Child Development in the Preschool and Primary School Years,https://unitguides.mq.edu.au/unit_offerings/156374/unit_guide,2023
+CIVL3101,Hydraulics and Hydrology,https://unitguides.mq.edu.au/unit_offerings/156246/unit_guide,2023
+MECH2002,Fluid Mechanics,https://unitguides.mq.edu.au/unit_offerings/157772/unit_guide,2023
+CIVL4201,Geotechnical and Transportation Project,https://unitguides.mq.edu.au/unit_offerings/154590/unit_guide,2023
+PHYS1510,Engineering Physics,https://unitguides.mq.edu.au/unit_offerings/158648/unit_guide,2023
+CIVL3305,Structural Design 2,https://unitguides.mq.edu.au/unit_offerings/156250/unit_guide,2023
+CIVL4301,Integrated Structural Design and Construction,https://unitguides.mq.edu.au/unit_offerings/154591/unit_guide,2023
+CIVL3301,Structural Design 1,https://unitguides.mq.edu.au/unit_offerings/156249/unit_guide,2023
+CIVL3401,Construction Management,https://unitguides.mq.edu.au/unit_offerings/156251/unit_guide,2023
+CIVL2201,Soil Mechanics,https://unitguides.mq.edu.au/unit_offerings/156243/unit_guide,2023
+MATH2055,Engineering Mathematics II,https://unitguides.mq.edu.au/unit_offerings/157742/unit_guide,2023
+CIVL1001,Introduction to Civil Engineering,https://unitguides.mq.edu.au/unit_offerings/156160/unit_guide,2023
+CIVL2301,Structural Analysis,https://unitguides.mq.edu.au/unit_offerings/156245/unit_guide,2023
+CIVL3201,Transport Engineering,https://unitguides.mq.edu.au/unit_offerings/156247/unit_guide,2023
+CIVL2101,Water and Wastewater Engineering,https://unitguides.mq.edu.au/unit_offerings/156242/unit_guide,2023
+CIVL4401,Health and Safety in Construction,https://unitguides.mq.edu.au/unit_offerings/162035/unit_guide,2023
+CIVL2205,Geotechnical Engineering,https://unitguides.mq.edu.au/unit_offerings/156244/unit_guide,2023
+CIVL4090,Civil Engineering Research Thesis A,https://unitguides.mq.edu.au/unit_offerings/160761/unit_guide,2023
+CIVL4091,Civil Engineering Research Thesis B,https://unitguides.mq.edu.au/unit_offerings/160760/unit_guide,2023
+PSYU2224,"Psychology, Health and Wellbeing",https://unitguides.mq.edu.au/unit_offerings/159098/unit_guide,2023
+PSYU2246,Cognitive Processes I,https://unitguides.mq.edu.au/unit_offerings/159105/unit_guide,2023
+PSYU2247,Perception,https://unitguides.mq.edu.au/unit_offerings/159107/unit_guide,2023
+PSYU3332,Principles of Psychological Assessment,https://unitguides.mq.edu.au/unit_offerings/159111/unit_guide,2023
+TRAN8084,Advanced Consecutive Interpreting,https://unitguides.mq.edu.au/unit_offerings/159461/unit_guide,2023
+TRAN8097,Simultaneous Interpreting into LOTE 1,https://unitguides.mq.edu.au/unit_offerings/159466/unit_guide,2023
+TRAN8098,Simultaneous Interpreting into LOTE 2,https://unitguides.mq.edu.au/unit_offerings/159467/unit_guide,2023
+TRAN8090,Simultaneous Interpreting into English 2,https://unitguides.mq.edu.au/unit_offerings/159465/unit_guide,2023
+TRAN8089,Simultaneous Interpreting into English 1,https://unitguides.mq.edu.au/unit_offerings/159464/unit_guide,2023
+SPED8909,Critical Reflection and Professional Experience for Practitioners in Sensory Disability,https://unitguides.mq.edu.au/unit_offerings/159254/unit_guide,2023
+SPED8914,Perspectives in Disability,https://unitguides.mq.edu.au/unit_offerings/159262/unit_guide,2023
+SPED8926,Foundational Studies in Blindness/Low Vision,https://unitguides.mq.edu.au/unit_offerings/159267/unit_guide,2023
+EDTE4290,Mathematics in the Secondary School I,https://unitguides.mq.edu.au/unit_offerings/156813/unit_guide,2023
+EDTE4330,Science in the Secondary School I,https://unitguides.mq.edu.au/unit_offerings/156820/unit_guide,2023
+EDTE4340,Science in the Secondary School II,https://unitguides.mq.edu.au/unit_offerings/156823/unit_guide,2023
+EDTE4300,Mathematics in the Secondary School II,https://unitguides.mq.edu.au/unit_offerings/156815/unit_guide,2023
+TELE3350,Communications Networks,https://unitguides.mq.edu.au/unit_offerings/159412/unit_guide,2023
+ELEC3042,Embedded Systems,https://unitguides.mq.edu.au/unit_offerings/156881/unit_guide,2023
+ELEC3076,Electronic Devices and Systems,https://unitguides.mq.edu.au/unit_offerings/156883/unit_guide,2023
+ELEC3024,Control Systems,https://unitguides.mq.edu.au/unit_offerings/156880/unit_guide,2023
+TELE4081,Digital Communication Systems,https://unitguides.mq.edu.au/unit_offerings/159413/unit_guide,2023
+ELEC4250,System on Chip Design,https://unitguides.mq.edu.au/unit_offerings/156889/unit_guide,2023
+ENGG4201,Internet of Things Systems Design,https://unitguides.mq.edu.au/unit_offerings/156911/unit_guide,2023
+ENGG4099,PACE: Industry Experience,https://unitguides.mq.edu.au/unit_offerings/156905/unit_guide,2023
+ELEC8276,Electronic Systems Design,https://unitguides.mq.edu.au/unit_offerings/156845/unit_guide,2023
+ENGG8091,Engineering Project 2,https://unitguides.mq.edu.au/unit_offerings/156916/unit_guide,2023
+ELEC8860,Hardware Security,https://unitguides.mq.edu.au/unit_offerings/160788/unit_guide,2023
+ELEC8040,"VLSI, Algorithms, and Systems",https://unitguides.mq.edu.au/unit_offerings/156890/unit_guide,2023
+ENGG8090,Engineering Project 1,https://unitguides.mq.edu.au/unit_offerings/156913/unit_guide,2023
+TELE8087,Mobile Networks and Security,https://unitguides.mq.edu.au/unit_offerings/159420/unit_guide,2023
+ELEC8870,High Performance IC Design,https://unitguides.mq.edu.au/unit_offerings/156847/unit_guide,2023
+ELEC8150,Electronic Design Proficiency,https://unitguides.mq.edu.au/unit_offerings/156891/unit_guide,2023
+EESC1150,Planet Earth,https://unitguides.mq.edu.au/unit_offerings/156866/unit_guide,2023
+ENVS3240,Environmental Change,https://unitguides.mq.edu.au/unit_offerings/157039/unit_guide,2023
+ENVS3238,Environmental Quality and Assessment,https://unitguides.mq.edu.au/unit_offerings/157038/unit_guide,2023
+ENVS2266,Earth Surface Processes,https://unitguides.mq.edu.au/unit_offerings/157033/unit_guide,2023
+ENVS3241,Active Environments,https://unitguides.mq.edu.au/unit_offerings/157040/unit_guide,2023
+EESC2150,Mass extinctions and the hidden history of Earth,https://unitguides.mq.edu.au/unit_offerings/156868/unit_guide,2023
+MKTG3008,Marketing and Customer Insights,https://unitguides.mq.edu.au/unit_offerings/158057/unit_guide,2023
+MKTG2017,Qualitative Insights,https://unitguides.mq.edu.au/unit_offerings/158098/unit_guide,2023
+MKTG3014,Quantitative Insights in Marketing,https://unitguides.mq.edu.au/unit_offerings/158125/unit_guide,2023
+MMCC2023,"Visual Countercultures: Graffiti, Kitsch and Conceptual Art",https://unitguides.mq.edu.au/unit_offerings/158310/unit_guide,2023
+MMCC2077,Streaming TV,https://unitguides.mq.edu.au/unit_offerings/158329/unit_guide,2023
+MMCC3055,Mobile Cultures,https://unitguides.mq.edu.au/unit_offerings/158382/unit_guide,2023
+MGMT8015,Behaviour in Organisations,https://unitguides.mq.edu.au/unit_offerings/161278/unit_guide,2023
+TRAN8086,Auslan Interpreting in Legal Settings,https://unitguides.mq.edu.au/unit_offerings/150581/unit_guide,2022
+TRAN8087,Auslan Interpreting in Educational Settings,https://unitguides.mq.edu.au/unit_offerings/150605/unit_guide,2022
+TRAN8069,Auslan Interpreting Practice,https://unitguides.mq.edu.au/unit_offerings/150562/unit_guide,2022
+TRAN8063,Auslan Interpreting Techniques,https://unitguides.mq.edu.au/unit_offerings/150583/unit_guide,2022
+TRAN8085,Advanced Auslan Interpreting,https://unitguides.mq.edu.au/unit_offerings/160124/unit_guide,2023
+TRAN8051,Discourse Analysis for Auslan Interpreters,https://unitguides.mq.edu.au/unit_offerings/160126/unit_guide,2023
+EESC2160,Climate and Oceans,https://unitguides.mq.edu.au/unit_offerings/156869/unit_guide,2023
+ENVS3102,Urban Climate and Air Quality,https://unitguides.mq.edu.au/unit_offerings/157037/unit_guide,2023
+ENVS3439,Geomorphic Analysis of Rivers and Wetlands for Conservation and Management,https://unitguides.mq.edu.au/unit_offerings/157043/unit_guide,2023
+MQBS3030,International Study Tour,https://unitguides.mq.edu.au/unit_offerings/161701/unit_guide,2023
+MGMT1005,Introduction to Global Business,https://unitguides.mq.edu.au/unit_offerings/157856/unit_guide,2023
+MGMT3001,Global Business Strategy,https://unitguides.mq.edu.au/unit_offerings/157912/unit_guide,2023
+MGMT2030,Cross Cultural Management,https://unitguides.mq.edu.au/unit_offerings/157887/unit_guide,2023
+MGMT3003,PACE: International Business Project,https://unitguides.mq.edu.au/unit_offerings/157177/unit_guide,2023
+MGMT2002,International Business Operations,https://unitguides.mq.edu.au/unit_offerings/157871/unit_guide,2023
+SPED8921,Orientation and Mobility Fundamentals,https://unitguides.mq.edu.au/unit_offerings/159263/unit_guide,2023
+SPED8922,Educational Adjustments for Learners with Blindness/Low Vision,https://unitguides.mq.edu.au/unit_offerings/159264/unit_guide,2023
+TRAN8082,Advanced Interpreting Practice,https://unitguides.mq.edu.au/unit_offerings/159456/unit_guide,2023
+TRAN8083,Research Project in Translation and Interpreting Studies,https://unitguides.mq.edu.au/unit_offerings/159457/unit_guide,2023
+ACCG3040,Auditing and Assurance Services,https://unitguides.mq.edu.au/unit_offerings/155316/unit_guide,2023
+AFIN2053,Financial Management,https://unitguides.mq.edu.au/unit_offerings/155588/unit_guide,2023
+ACCG3020,Taxation Law and Practice,https://unitguides.mq.edu.au/unit_offerings/155309/unit_guide,2023
+ACCG2067,Foundations of Forensic and Data Analytics,https://unitguides.mq.edu.au/unit_offerings/160938/unit_guide,2023
+AFIN8006,Risk Management and Derivatives,https://unitguides.mq.edu.au/unit_offerings/155634/unit_guide,2023
+AFIN8039,Portfolio Management,https://unitguides.mq.edu.au/unit_offerings/155672/unit_guide,2023
+COMP4050,Software Engineering Practices,https://unitguides.mq.edu.au/unit_offerings/156344/unit_guide,2023
+COMP4060,Advanced Software Engineering,https://unitguides.mq.edu.au/unit_offerings/156345/unit_guide,2023
+COMP3010,Algorithm Theory and Design,https://unitguides.mq.edu.au/unit_offerings/156317/unit_guide,2023
+COMP4092,Software Engineering Research Thesis A,https://unitguides.mq.edu.au/unit_offerings/156347/unit_guide,2023
+COMP4000,Formal Methods,https://unitguides.mq.edu.au/unit_offerings/160184/unit_guide,2023
+COMP4093,Software Engineering Research Thesis B,https://unitguides.mq.edu.au/unit_offerings/156349/unit_guide,2023
+MATH2907,Discrete Mathematics II,https://unitguides.mq.edu.au/unit_offerings/157747/unit_guide,2023
+LAWS8009,Property Law,https://unitguides.mq.edu.au/unit_offerings/157627/unit_guide,2023
+LAWS8010,Equity and Trusts,https://unitguides.mq.edu.au/unit_offerings/157629/unit_guide,2023
+LAWS8002,Criminal Justice and Public Policy,https://unitguides.mq.edu.au/unit_offerings/157621/unit_guide,2023
+LAWS8013,Civil and Criminal Procedure,https://unitguides.mq.edu.au/unit_offerings/157634/unit_guide,2023
+LAWS8027,Law of Obligations III - Remedies,https://unitguides.mq.edu.au/unit_offerings/157657/unit_guide,2023
+LAWS8040,Law of Obligations II - Torts,https://unitguides.mq.edu.au/unit_offerings/157664/unit_guide,2023
+LAWS8070,Constitutional Law,https://unitguides.mq.edu.au/unit_offerings/157677/unit_guide,2023
+LAWS8014,Evidence,https://unitguides.mq.edu.au/unit_offerings/157636/unit_guide,2023
+LAWS8030,The Law of Obligations I - Contracts,https://unitguides.mq.edu.au/unit_offerings/157662/unit_guide,2023
+LAWS8080,Administrative Law,https://unitguides.mq.edu.au/unit_offerings/157678/unit_guide,2023
+LAWS8005,Theories of Law and Justice,https://unitguides.mq.edu.au/unit_offerings/157623/unit_guide,2023
+LAWS8001,Foundations of Law,https://unitguides.mq.edu.au/unit_offerings/157616/unit_guide,2023
+LAWS8099,Professional and Community Engagement,https://unitguides.mq.edu.au/unit_offerings/157688/unit_guide,2023
+LAWS8006,Applied Legal Ethics,https://unitguides.mq.edu.au/unit_offerings/157626/unit_guide,2023
+LAWS8011,Company Law,https://unitguides.mq.edu.au/unit_offerings/157632/unit_guide,2023
+LAWS8025,Taxation Law,https://unitguides.mq.edu.au/unit_offerings/157654/unit_guide,2023
+MGMT3011,PACE: Entrepreneurship Project,https://unitguides.mq.edu.au/unit_offerings/159793/unit_guide,2023
+MGMT1020,Entrepreneurship and New Venture Management,https://unitguides.mq.edu.au/unit_offerings/157866/unit_guide,2023
+WACO1001,Academic Communication in the Social Sciences and Humanities,https://unitguides.mq.edu.au/unit_offerings/160640/unit_guide,2023
+WART1000,Humanities and the World,https://unitguides.mq.edu.au/unit_offerings/160286/unit_guide,2023
+WMMC1000,Visual Media and Communications,https://unitguides.mq.edu.au/unit_offerings/160384/unit_guide,2023
+TRAN8081,Communication Skills for Translators and Interpreters,https://unitguides.mq.edu.au/unit_offerings/129141/unit_guide,2020
+PROF3000,PACE: Professional Practice Placement 2,https://unitguides.mq.edu.au/unit_offerings/158955/unit_guide,2023
+PROF2000,PACE: Professional Practice Placement 1,https://unitguides.mq.edu.au/unit_offerings/158953/unit_guide,2023
+PROF4000,PACE: Advanced Professional Practice and Reflection,https://unitguides.mq.edu.au/unit_offerings/158956/unit_guide,2023
+POIR3970,Global Environmental Politics,https://unitguides.mq.edu.au/unit_offerings/158904/unit_guide,2023
+POIR2780,Middle-East Politics,https://unitguides.mq.edu.au/unit_offerings/158892/unit_guide,2023
+POIR2030,Theories of World Politics,https://unitguides.mq.edu.au/unit_offerings/158884/unit_guide,2023
+POIR3030,Global Political Economy,https://unitguides.mq.edu.au/unit_offerings/158894/unit_guide,2023
+POIR3890,Australia and the Asia-Pacific Century,https://unitguides.mq.edu.au/unit_offerings/160899/unit_guide,2023
+POIR2580,Political Violence,https://unitguides.mq.edu.au/unit_offerings/158891/unit_guide,2023
+WCOM1300,Introduction to Cyber Security,https://unitguides.mq.edu.au/unit_offerings/160341/unit_guide,2023
+WMAT1007,Discrete Mathematics,https://unitguides.mq.edu.au/unit_offerings/160413/unit_guide,2023
+BIOL3130,Ecology and Evolution of Emerging Infectious Diseases,https://unitguides.mq.edu.au/unit_offerings/161417/unit_guide,2023
+BMOL3401,Applied and Medical Microbiology,https://unitguides.mq.edu.au/unit_offerings/156083/unit_guide,2023
+MECH2001,Engineering Dynamics,https://unitguides.mq.edu.au/unit_offerings/157771/unit_guide,2023
+MECH3002,Heat and Mass Transfer,https://unitguides.mq.edu.au/unit_offerings/157777/unit_guide,2023
+MECH3003,Mechanical Design 2,https://unitguides.mq.edu.au/unit_offerings/157778/unit_guide,2023
+MECH2003,Mechanical Design 1,https://unitguides.mq.edu.au/unit_offerings/157773/unit_guide,2023
+MECH4093,Mechanical Engineering Research Thesis B,https://unitguides.mq.edu.au/unit_offerings/157786/unit_guide,2023
+MECH4002,Energy Sustainable Design,https://unitguides.mq.edu.au/unit_offerings/157782/unit_guide,2023
+MECH2005,Engineering Materials,https://unitguides.mq.edu.au/unit_offerings/157775/unit_guide,2023
+MECH2004,Mechanics of Solids,https://unitguides.mq.edu.au/unit_offerings/164159/unit_guide,2024
+MECH1001,Introduction to Mechanical Engineering,https://unitguides.mq.edu.au/unit_offerings/157769/unit_guide,2023
+MECH3004,Applied Numerical Engineering,https://unitguides.mq.edu.au/unit_offerings/157779/unit_guide,2023
+MECH4001,Product Design Engineering,https://unitguides.mq.edu.au/unit_offerings/157781/unit_guide,2023
+MECH3001,Thermodynamics,https://unitguides.mq.edu.au/unit_offerings/157776/unit_guide,2023
+MECH4092,Mechanical Engineering Research Thesis A,https://unitguides.mq.edu.au/unit_offerings/157785/unit_guide,2023
+MECH3005,Manufacturing Engineering,https://unitguides.mq.edu.au/unit_offerings/157780/unit_guide,2023
+ENGG4093,Engineering Research Thesis Extension B,https://unitguides.mq.edu.au/unit_offerings/156904/unit_guide,2023
+MECH4005,Production Processes,https://unitguides.mq.edu.au/unit_offerings/157783/unit_guide,2023
+ENVS2237,"Natural Hazards, Disasters and their Management",https://unitguides.mq.edu.au/unit_offerings/162041/unit_guide,2023
+ENVS3462,Environmental Management,https://unitguides.mq.edu.au/unit_offerings/161057/unit_guide,2023
+INTS3015,Intercultural Language Project 3,https://unitguides.mq.edu.au/unit_offerings/157410/unit_guide,2023
+INTS3000,International Studies Intercultural Program,https://unitguides.mq.edu.au/unit_offerings/157395/unit_guide,2023
+MTRN2060,Introduction to Mechatronics,https://unitguides.mq.edu.au/unit_offerings/158512/unit_guide,2023
+MTRN4068,Wireless Mechatronics,https://unitguides.mq.edu.au/unit_offerings/158516/unit_guide,2023
+ELEC2005,Electrical and Electronic Systems,https://unitguides.mq.edu.au/unit_offerings/156876/unit_guide,2023
+ELEC2070,Linear Circuits and Devices,https://unitguides.mq.edu.au/unit_offerings/156879/unit_guide,2023
+MTRN3060,Robotics and Automation,https://unitguides.mq.edu.au/unit_offerings/158514/unit_guide,2023
+MTRN4066,Advanced Mechatronic Engineering,https://unitguides.mq.edu.au/unit_offerings/158515/unit_guide,2023
+ELEC2040,Signals and Systems,https://unitguides.mq.edu.au/unit_offerings/156877/unit_guide,2023
+MTRN4062,Micro Electro Mechanical Systems (MEMS),https://unitguides.mq.edu.au/unit_offerings/160996/unit_guide,2023
+MTRN3026,Mechatronic Systems,https://unitguides.mq.edu.au/unit_offerings/158513/unit_guide,2023
+MTRN4093,Mechatronic Engineering Research Thesis B,https://unitguides.mq.edu.au/unit_offerings/158520/unit_guide,2023
+MTRN4092,Mechatronic Engineering Research Thesis A,https://unitguides.mq.edu.au/unit_offerings/158518/unit_guide,2023
+PHYS1520,Physics for Electrical and Electronic Engineering,https://unitguides.mq.edu.au/unit_offerings/158649/unit_guide,2023
+ACST8041,Financial Mathematics,https://unitguides.mq.edu.au/unit_offerings/162459/unit_guide,2024
+PSYH4499,The Scientist Practitioner Model,https://unitguides.mq.edu.au/unit_offerings/159018/unit_guide,2023
+PSYH4418,Design and Statistics IV,https://unitguides.mq.edu.au/unit_offerings/159010/unit_guide,2023
+MGMT3904,Creativity and Innovation,https://unitguides.mq.edu.au/unit_offerings/157932/unit_guide,2023
+MQBS7010,Research Frontiers in Business and Economics,https://unitguides.mq.edu.au/unit_offerings/166717/unit_guide,2024
+MQBS7005,Research Communications in Business and Economics,https://unitguides.mq.edu.au/unit_offerings/160839/unit_guide,2023
+ELEC2042,Digital Circuits and Systems,https://unitguides.mq.edu.au/unit_offerings/156878/unit_guide,2023
+ELEC4092,Electrical and Electronic Engineering Research Thesis A,https://unitguides.mq.edu.au/unit_offerings/156885/unit_guide,2023
+ELCT3006,Electrical Machines,https://unitguides.mq.edu.au/unit_offerings/156873/unit_guide,2023
+ELCT4001,Smart Power Grids,https://unitguides.mq.edu.au/unit_offerings/156874/unit_guide,2023
+ELCT3005,Power Electronics,https://unitguides.mq.edu.au/unit_offerings/156872/unit_guide,2023
+ELEC4093,Electrical and Electronic Engineering Research Thesis B,https://unitguides.mq.edu.au/unit_offerings/156886/unit_guide,2023
+ELCT4004,Power Systems Analysis,https://unitguides.mq.edu.au/unit_offerings/156875/unit_guide,2023
+COMP6410,"Knowledge, Planning and Decision Making under Uncertainty ",https://unitguides.mq.edu.au/unit_offerings/154582/unit_guide,2023
+COMP6400,"Intelligent Machines, Ethics and Law",https://unitguides.mq.edu.au/unit_offerings/161100/unit_guide,2023
+FOSE7000,Research Communications in Science and Engineering,https://unitguides.mq.edu.au/unit_offerings/157115/unit_guide,2023
+NSCI7900,Research Frontiers in Natural Sciences,https://unitguides.mq.edu.au/unit_offerings/158524/unit_guide,2023
+COMP7900,Research Frontiers in Computing 1,https://unitguides.mq.edu.au/unit_offerings/156411/unit_guide,2023
+PHYS7900,Research Frontiers in Physics and Astronomy 1,https://unitguides.mq.edu.au/unit_offerings/158660/unit_guide,2023
+MATH7900,Research Frontiers in Mathematics,https://unitguides.mq.edu.au/unit_offerings/150157/unit_guide,2022
+STAT7900,Research Frontiers in Statistics,https://unitguides.mq.edu.au/unit_offerings/159368/unit_guide,2023
+COMP8990,Master of Research - Computing,https://unitguides.mq.edu.au/unit_offerings/156437/unit_guide,2023
+STAT8990,Master of Research - Statistics,https://unitguides.mq.edu.au/unit_offerings/131820/unit_guide,2021
+ACST8087,Quantitative Asset and Liability Modelling 1,https://unitguides.mq.edu.au/unit_offerings/162472/unit_guide,2024
+ACST8084,Survival Models,https://unitguides.mq.edu.au/unit_offerings/155513/unit_guide,2023
+ACST8088,Quantitative Asset and Liability Modelling 2,https://unitguides.mq.edu.au/unit_offerings/155493/unit_guide,2023
+ACST8081,Mathematics of Finance,https://unitguides.mq.edu.au/unit_offerings/162466/unit_guide,2024
+ACST8083,Actuarial Statistics,https://unitguides.mq.edu.au/unit_offerings/155511/unit_guide,2023
+ACST8086,Actuarial Modelling,https://unitguides.mq.edu.au/unit_offerings/155489/unit_guide,2023
+ACST8082,Contingent Payments,https://unitguides.mq.edu.au/unit_offerings/155510/unit_guide,2023
+PSYM7718,Advanced Research Design and Statistics,https://unitguides.mq.edu.au/unit_offerings/159020/unit_guide,2023
+APPL7020,Designing and Conducting Language-related Research,https://unitguides.mq.edu.au/unit_offerings/155884/unit_guide,2023
+MEDI7011,Research Frontiers in Medical Science 1,https://unitguides.mq.edu.au/unit_offerings/157819/unit_guide,2023
+MEDI7001,"Medical Research Foundations - Ethics, Integrity and Practice",https://unitguides.mq.edu.au/unit_offerings/157814/unit_guide,2023
+MEDI7000,Research Communications,https://unitguides.mq.edu.au/unit_offerings/157812/unit_guide,2023
+MMCC2126,Digital Performance Strategies,https://unitguides.mq.edu.au/unit_offerings/158344/unit_guide,2023
+MMCC3025,Creative Entrepreneurship,https://unitguides.mq.edu.au/unit_offerings/158367/unit_guide,2023
+MMCC2125,Creative Process to Performance,https://unitguides.mq.edu.au/unit_offerings/158343/unit_guide,2023
+MMCC1032,Performance Practices,https://unitguides.mq.edu.au/unit_offerings/158280/unit_guide,2023
+MMCC3035,Performance and Event Production ,https://unitguides.mq.edu.au/unit_offerings/158374/unit_guide,2023
+MMCC1035,The Performing Arts and Entertainment Industries,https://unitguides.mq.edu.au/unit_offerings/158282/unit_guide,2023
+MMCC2120,Managing Arts and Entertainment,https://unitguides.mq.edu.au/unit_offerings/158340/unit_guide,2023
+ENGG8405,Industrial Processes and Pollution Prevention,https://unitguides.mq.edu.au/unit_offerings/123332/unit_guide,2020
+ENGG8201,Internet of Things Systems Design,https://unitguides.mq.edu.au/unit_offerings/156923/unit_guide,2023
+ENGG3000,Engineering Project Practice,https://unitguides.mq.edu.au/unit_offerings/156858/unit_guide,2023
+ENGG1000,Introduction to Engineering,https://unitguides.mq.edu.au/unit_offerings/156848/unit_guide,2023
+ENGG1050,Engineering Design,https://unitguides.mq.edu.au/unit_offerings/156852/unit_guide,2023
+ENGG3050,Engineering Leadership and Entrepreneurship,https://unitguides.mq.edu.au/unit_offerings/156859/unit_guide,2023
+ENGG2000,Engineering Practice,https://unitguides.mq.edu.au/unit_offerings/156855/unit_guide,2023
+ENGG2050,Engineering Systems and Design Thinking,https://unitguides.mq.edu.au/unit_offerings/156857/unit_guide,2023
+ENGG4001,Professional Practice,https://unitguides.mq.edu.au/unit_offerings/156860/unit_guide,2023

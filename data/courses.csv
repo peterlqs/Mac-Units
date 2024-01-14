@@ -1,0 +1,758 @@
+course_name,course_type,course_code,course_url
+Master of Data Science,Course,C000082,https://www.mq.edu.au/study/find-a-course/courses/master-of-data-science
+Bachelor of Laws,Course,C000132,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-laws
+Master of Laws,Course,C000184,https://www.mq.edu.au/study/find-a-course/courses/master-of-laws
+Master of Planning,Course,C000033,https://www.mq.edu.au/study/find-a-course/courses/master-of-planning
+Major in Data Science,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/data-science
+Bachelor of Science,Course,C000352,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science
+Bachelor of Music,Course,C000091,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music
+Major in Biology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/biology
+Bachelor of Business,Course,C000389,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business
+Major in English,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/english
+Specialisation in Finance,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/finance
+Specialisation in FinTech,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/fintech
+Bachelor of Security Studies,Course,C000015,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies
+Master of Banking and Finance,Course,C000101,https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance
+"Major in Radio, Podcasting, and Audio Media",Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/radio-podcasting-and-audio-media
+Graduate Diploma of Applied Finance,Course,C000152,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-applied-finance
+Major in Neuroscience,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/neuroscience
+Master of Engineering Management,Course,C000177,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-management
+Graduate Certificate of Finance,Course,C000145,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-finance
+Bachelor of Environment and Bachelor of Laws,Double Degree,D000047,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-laws
+Bachelor of Arts and Bachelor of Education (Primary),Course,D000006,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-education-primary
+Master of Indigenous Education,Course,C000068,https://www.mq.edu.au/study/find-a-course/courses/master-of-indigenous-education
+Major in Finance,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/finance
+Master of Professional Accounting,Course,C000083,https://www.mq.edu.au/study/find-a-course/courses/master-of-professional-accounting
+Major in Indigenous Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/indigenous-studies
+Major in Interactive Design,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/interactive-design
+Master of Commerce and Master of Marketing,Double Degree,D000136,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-marketing
+Master of Finance and Master of Accounting,Double Degree,D003182,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance-and-master-of-accounting
+Master of Finance and Master of Management,Double Degree,D000999,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance-and-master-of-management
+Master of Applied Economics,Course,C000062,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-economics
+Master of Inclusive and Special Education,Course,C000354,https://www.mq.edu.au/study/find-a-course/courses/master-of-inclusive-and-special-education
+Bachelor of Chiropractic Science,Course,C000005,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-chiropractic-science
+Bachelor of Media and Communications,Course,C000030,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications
+Bachelor of Security Studies and Master of Criminology,Course,C000210,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-master-of-criminology
+Master of International Trade and Commerce Law,Course,C000183,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-trade-and-commerce-law
+Graduate Certificate of Environment,Course,C000072,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-environment
+Bachelor of Psychology and Bachelor of Laws,Double Degree,D000054,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-psychology-and-bachelor-of-laws
+Bachelor of Music and Bachelor of Social Science,Double Degree,D006341,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-social-science
+Bachelor of Security Studies and Bachelor of Laws,Double Degree,D000031,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-laws
+Master of Clinical Psychology,Course,C000031,https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-psychology
+Master of Actuarial Practice,Course,C000163,https://www.mq.edu.au/study/find-a-course/courses/master-of-actuarial-practice
+Master of Applied Statistics,Course,C000081,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-statistics
+Master of Business Analytics,Course,C000180,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics
+Master of Clinical Audiology,Course,C000099,https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-audiology
+Master of Management and Master of Marketing,Double Degree,D001000,https://www.mq.edu.au/study/find-a-course/courses/master-of-management-and-master-of-marketing
+Bachelor of Medical Sciences and Bachelor of Music,Double Degree,D000800,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-music
+Bachelor of Business Analytics and Bachelor of Laws,Double Degree,D000678,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-laws
+Diploma of Game Design and Development,Course,C000379,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-game-design-and-development
+Undergraduate Certificate of Business,Course,C000365,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-business
+Undergraduate Certificate of Commerce,Course,C000376,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-commerce
+Master of Information Technology in Networking,Course,C000126,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-networking
+Bachelor of Archaeology and Bachelor of Laws,Double Degree,D000676,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-laws
+Bachelor of Arts and Bachelor of Archaeology,Double Degree,D000402,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-archaeology
+Bachelor of Commerce and Bachelor of Planning,Double Degree,D000810,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-planning
+Bachelor of Environment and Bachelor of Music,Double Degree,D000794,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-music
+Major in Web and Mobile App Development,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/web-and-mobile-app-development
+Major in Software Technology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/software-technology
+Major in Astronomy and Astrophysics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/astronomy-and-astrophysics
+Major in Public Relations and Social Media,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/public-relations-and-social-media
+Bachelor of Cognitive and Brain Sciences and Bachelor of Laws,Double Degree,D000680,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-laws
+Major in Physics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/physics
+Master of Finance,Course,C000194,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance
+Major in Human Biology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/human-biology
+Major in Music Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/music-studies
+Master of Public Health,Course,C000170,https://www.mq.edu.au/study/find-a-course/courses/master-of-public-health
+Doctor of Medicine,Course,C000076,https://www.mq.edu.au/study/find-a-course/courses/doctor-of-medicine
+Master of Marketing,Course,C000049,https://www.mq.edu.au/study/find-a-course/courses/master-of-marketing
+Master of Commerce,Course,C000121,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce
+Major in Politics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/politics
+Major in Applied Ethics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/applied-ethics
+Master of Environment,Course,C000023,https://www.mq.edu.au/study/find-a-course/courses/master-of-environment
+Master of Management,Course,C000097,https://www.mq.edu.au/study/find-a-course/courses/master-of-management
+Bachelor of Marketing and Media,Course,C000021,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media
+Bachelor of Commerce,Course,C000130,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce
+Major in Cyber Security,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/cyber-security
+Major in Gender Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/gender-studies
+Major in German Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/german-studies
+Major in Human Movement,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/human-movement
+Major in Modern History,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/modern-history
+Master of Education,Course,C000141,https://www.mq.edu.au/study/find-a-course/courses/master-of-education
+Bachelor of Arts,Course,C000004,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts
+Bachelor of Music and Bachelor of Laws,Double Degree,D000685,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-laws
+Major in Ancient History,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/ancient-history
+Doctor of Physiotherapy,Course,C000077,https://www.mq.edu.au/study/find-a-course/courses/doctor-of-physiotherapy
+Intensive Program,Course,C000150,https://www.mq.edu.au/study/find-a-course/courses/intensive-program
+Bachelor of Cyber Security,Course,C000102,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security
+Master of Teaching (Primary),Course,C000190,https://www.mq.edu.au/study/find-a-course/courses/master-of-teaching-primary
+Master of Teaching (Birth to Five Years),Course,C000143,https://www.mq.edu.au/study/find-a-course/courses/master-of-teaching-birth-to-five-years
+Major in Chemistry,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/chemistry
+Major in Economics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/economics
+Major in Education,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/education
+Major in Geography,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/geography
+Major in Marketing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/marketing
+Bachelor of Economics,Course,C000119,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics
+Bachelor of Arts and Bachelor of Laws,Double Degree,D000053,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-laws
+Bachelor of Clinical Science,Course,C000020,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-clinical-science
+Major in Accounting,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/accounting
+Bachelor of Planning,Course,C000008,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-planning
+Master of Public and Social Policy,Course,C000188,https://www.mq.edu.au/study/find-a-course/courses/master-of-public-and-social-policy
+Diploma of Business,Course,C000375,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-business
+Diploma of Commerce,Course,C000135,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-commerce
+Master of Intelligence,Course,C000178,https://www.mq.edu.au/study/find-a-course/courses/master-of-intelligence
+Major in Modern Greek Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/modern-greek-studies
+Major in Chinese Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/chinese-studies
+Major in Italian Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/italian-studies
+Major in Russian Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/russian-studies
+Master of Media and Communications,Course,C000186,https://www.mq.edu.au/study/find-a-course/courses/master-of-media-and-communications
+Diploma of Marketing and Media,Course,C000370,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-marketing-and-media
+Master of Early Childhood,Course,C000174,https://www.mq.edu.au/study/find-a-course/courses/master-of-early-childhood
+Master of Public Health (Research),Course,C000315,https://www.mq.edu.au/study/find-a-course/courses/master-of-public-health-research
+Bachelor of Arts and Bachelor of Music,Double Degree,D000791,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-music
+Master of Teaching (Secondary),Course,C000191,https://www.mq.edu.au/study/find-a-course/courses/master-of-teaching-secondary
+Bachelor of Applied Finance,Course,C000017,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance
+Bachelor of Marketing and Media and Bachelor of Laws,Double Degree,D000684,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-laws
+Major in Networking,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/networking
+Major in Philosophy,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/philosophy
+Major in Anatomy and Physiology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/anatomy-and-physiology
+Bachelor of Science and Bachelor of Laws,Double Degree,D006273,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-laws
+Master of Creative Writing,Course,C000064,https://www.mq.edu.au/study/find-a-course/courses/master-of-creative-writing
+Master of Criminology,Course,C000172,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology
+Bachelor of Commerce and Bachelor of Laws,Double Degree,D000083,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-laws
+Bachelor of Cognitive and Brain Sciences,Course,C000129,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences
+Master of Laws and Master of Accounting,Double Degree,D003562,https://www.mq.edu.au/study/find-a-course/courses/master-of-laws-and-master-of-accounting
+Graduate Certificate of Laws,Course,C000073,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-laws
+Bachelor of Medical Sciences,Course,C000131,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences
+Major in Creative Writing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/creative-writing
+Major in Croatian Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/croatian-studies
+Major in Japanese Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/japanese-studies
+Bachelor of Environment,Course,C000003,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment
+Master of Disability Studies,Course,C000169,https://www.mq.edu.au/study/find-a-course/courses/master-of-disability-studies
+Bachelor of Arts and Bachelor of Commerce,Double Degree,D000086,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-commerce
+Bachelor of Business and Bachelor of Laws,Double Degree,D006765,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-laws
+Bachelor of Social Science,Course,C000357,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science
+Bachelor of Exercise and Sports Science,Course,C000371,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-exercise-and-sports-science
+Bachelor of Game Design and Development,Course,C000006,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development
+Major in Anthropology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/anthropology
+Standard Foundation Program,Course,C000211,https://www.mq.edu.au/study/find-a-course/courses/standard-foundation-program
+Specialisation in CA Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/ca-studies
+Bachelor of Psychology,Course,C000009,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-psychology
+Bachelor of Arts and Bachelor of Science,Double Degree,D006280,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-science
+Bachelor of Business Analytics,Course,C000016,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics
+Master of Conservation Biology,Course,C000063,https://www.mq.edu.au/study/find-a-course/courses/master-of-conservation-biology
+Master of Creative Industries,Course,C000171,https://www.mq.edu.au/study/find-a-course/courses/master-of-creative-industries
+Bachelor of Cyber Security and Bachelor of Laws,Double Degree,D000055,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-laws
+Master of Counter Terrorism,Course,C000168,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism
+Bachelor of Speech and Hearing Sciences,Course,C000103,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences
+Master of Professional Psychology,Course,C000187,https://www.mq.edu.au/study/find-a-course/courses/master-of-professional-psychology
+Master of Sustainable Development,Course,C000078,https://www.mq.edu.au/study/find-a-course/courses/master-of-sustainable-development
+Master of Information Technology,Course,C000404,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology
+Bachelor of Commerce and Bachelor of Music,Double Degree,D000792,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-music
+Bachelor of Economics and Bachelor of Laws,Double Degree,D000011,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-laws
+Major in Sociology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/sociology
+Bachelor of Planning and Bachelor of Laws,Double Degree,D000686,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-planning-and-bachelor-of-laws
+Bachelor of Science and Bachelor of Music,Double Degree,D006307,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-music
+Graduate Diploma of Environment,Course,C000069,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-environment
+Bachelor of Social Science and Bachelor of Laws,Double Degree,D006315,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-laws
+Graduate Certificate of TESOL,Course,C000055,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-tesol
+Master of Speech and Language Pathology,Course,C000026,https://www.mq.edu.au/study/find-a-course/courses/master-of-speech-and-language-pathology
+Bachelor of Arts and Bachelor of Cyber Security,Double Degree,D000084,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-cyber-security
+Bachelor of Archaeology,Course,C000013,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology
+Major in Business Analytics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/business-analytics
+Major in Criminology,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/criminology
+Major in Mathematics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/mathematics
+Bachelor of Music and Bachelor of Cyber Security,Double Degree,D000575,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-cyber-security
+Master of Criminology and Master of Laws,Double Degree,D000152,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-laws
+Major in Social Justice,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/social-justice
+Specialisation in CPA Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/cpa-studies
+Undergraduate Certificate of Media,Course,C000367,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-media
+Bachelor of Arts and Bachelor of Planning,Double Degree,D000809,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-planning
+Master of Intelligence and Master of Laws,Double Degree,D000154,https://www.mq.edu.au/study/find-a-course/courses/master-of-intelligence-and-master-of-laws
+Master of Security and Strategic Studies,Course,C000189,https://www.mq.edu.au/study/find-a-course/courses/master-of-security-and-strategic-studies
+Master of Cyber Security Analysis,Course,C000173,https://www.mq.edu.au/study/find-a-course/courses/master-of-cyber-security-analysis
+Master of Accounting,Course,C000061,https://www.mq.edu.au/study/find-a-course/courses/master-of-accounting
+Graduate Diploma of Biotechnology,Course,C000028,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-biotechnology
+Bachelor of Business and Bachelor of Music,Double Degree,D006767,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-music
+Bachelor of Music and Bachelor of Economics,Double Degree,D000597,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-economics
+Bachelor of Actuarial Studies,Course,C000117,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-actuarial-studies
+Bachelor of Ancient History,Course,C000094,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history
+Master of Finance and Master of Marketing,Double Degree,D000118,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance-and-master-of-marketing
+Master of Chiropractic,Course,C000034,https://www.mq.edu.au/study/find-a-course/courses/master-of-chiropractic
+Master of Organisational Psychology,Course,C000048,https://www.mq.edu.au/study/find-a-course/courses/master-of-organisational-psychology
+Bachelor of Music and Bachelor of Planning,Double Degree,D000821,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-planning
+Master of Laws and Master of Public and Social Policy,Double Degree,D002952,https://www.mq.edu.au/study/find-a-course/courses/master-of-laws-and-master-of-public-and-social-policy
+Bachelor of Ancient History and Bachelor of Laws,Double Degree,D000675,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-laws
+Bachelor of Applied Finance and Bachelor of Laws,Double Degree,D000051,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-laws
+Bachelor of Arts and Bachelor of Ancient History,Double Degree,D000341,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-ancient-history
+Bachelor of Arts and Bachelor of Applied Finance,Double Degree,D000375,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-applied-finance
+Master of International Business,Course,C000070,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business
+Master of International Relations,Course,C000179,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations
+Master of Applied Finance,Course,C000120,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-finance
+Bachelor of Arts and Bachelor of Social Science,Double Degree,D006326,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-social-science
+Master of Biotechnology,Course,C000036,https://www.mq.edu.au/study/find-a-course/courses/master-of-biotechnology
+Bachelor of Arts and Bachelor of Economics,Double Degree,D000587,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-economics
+Specialisation in ACCA Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/acca-studies
+Bachelor of Medical Sciences and Bachelor of Laws,Double Degree,D000036,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-laws
+Bachelor of Music and Bachelor of Ancient History,Double Degree,D000362,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-ancient-history
+Bachelor of Music and Bachelor of Applied Finance,Double Degree,D000392,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-applied-finance
+Bachelor of Arts and Bachelor of Business,Double Degree,D006753,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-business
+Master of Ancient History,Course,C000080,https://www.mq.edu.au/study/find-a-course/courses/master-of-ancient-history
+Bachelor of Arts and Bachelor of Marketing and Media,Double Degree,D000734,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-marketing-and-media
+Bachelor of Music and Bachelor of Marketing and Media,Double Degree,D000754,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-marketing-and-media
+Bachelor of Arts and Bachelor of Medical Sciences,Double Degree,D000041,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-medical-sciences
+Bachelor of Arts and Bachelor of Security Studies,Double Degree,D000889,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-security-studies
+Bachelor of Philosophy/Master of Research (Arts),Course,C000212,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-philosophy-master-of-research-arts
+Bachelor of Arts and Bachelor of Environment,Double Degree,D000608,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-environment
+Graduate Diploma of Conservation Biology,Course,C000058,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-conservation-biology
+Major in Early Childhood Teaching,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/early-childhood-teaching
+Bachelor of Security Studies and Master of Counter Terrorism,Course,C000206,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-master-of-counter-terrorism
+Specialisation in Cyber Security ,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/cyber-security
+Master of Commerce and Master of Management,Double Degree,D000997,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-management
+Bachelor of Music and Bachelor of Archaeology,Double Degree,D000790,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-archaeology
+Bachelor of Security Studies and Master of Intelligence,Course,C000208,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-master-of-intelligence
+Bachelor of Marketing and Media and Bachelor of Planning,Double Degree,D000755,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-planning
+Master of Management and Master of Accounting,Double Degree,D004610,https://www.mq.edu.au/study/find-a-course/courses/master-of-management-and-master-of-accounting
+Bachelor of Science and Bachelor of Commerce,Double Degree,D006292,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-commerce
+Bachelor of Science and Bachelor of Planning,Double Degree,D006303,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-planning
+Bachelor of Arts and Bachelor of Education (Secondary),Course,D000003,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-education-secondary
+Major in Medicinal Chemistry,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/medicinal-chemistry
+Bachelor of Business and Bachelor of Science,Double Degree,D006769,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-science
+Major in Biomolecular Sciences,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/biomolecular-sciences
+Specialisation in Marketing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/marketing
+Bachelor of Commerce and Bachelor of Cyber Security,Double Degree,D000063,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-cyber-security
+Bachelor of Commerce and Bachelor of Social Science,Double Degree,D006345,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-social-science
+Bachelor of Cyber Security and Bachelor of Planning,Double Degree,D000576,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-planning
+Graduate Certificate of Education,Course,C000140,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-education
+Bachelor of Science and Bachelor of Social Science,Double Degree,D006321,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-social-science
+Bachelor of Music and Bachelor of Game Design and Development,Double Degree,D000630,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-game-design-and-development
+Bachelor of Speech and Hearing Sciences and Bachelor of Laws,Double Degree,D000687,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-laws
+Bachelor of International Studies,Course,C000107,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies
+Bachelor of Commerce and Bachelor of Economics,Double Degree,D000588,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-economics
+Bachelor of Economics and Bachelor of Planning,Double Degree,D000598,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-planning
+Major in Statistical Modelling,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/statistical-modelling
+Specialisation in Education: Deaf Hard of Hearing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/education-deaf-hard-of-hearing
+Bachelor of Game Design and Development and Bachelor of Laws,Double Degree,D000681,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development-and-bachelor-of-laws
+Master of Information Technology in Internet of Things,Course,C000373,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-internet-of-things
+Diploma of Engineering,Course,C000146,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-engineering
+Bachelor of Commerce and Bachelor of Marketing and Media,Double Degree,D000740,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-marketing-and-media
+Specialisation in Digital Finance,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/digital-finance
+Undergraduate Certificate of Humanities,Course,C000368,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-humanities
+Major in Journalism and Non-Fiction Writing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/journalism-and-non-fiction-writing
+Graduate Diploma of Applied Statistics,Course,C000074,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-applied-statistics
+Master of Applied Linguistics and TESOL,Course,C000037,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-linguistics-and-tesol
+Graduate Certificate of Early Childhood,Course,C000139,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-early-childhood
+Master of Information Technology in Cyber Security,Course,C000125,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-cyber-security
+Master of Clinical Neuropsychology,Course,C000032,https://www.mq.edu.au/study/find-a-course/courses/master-of-clinical-neuropsychology
+Master of Commerce and Master of Finance,Double Degree,D000116,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-finance
+Master of Education and Master of Public and Social Policy,Double Degree,D002980,https://www.mq.edu.au/study/find-a-course/courses/master-of-education-and-master-of-public-and-social-policy
+Master of Education and Master of Management,Double Degree,D004567,https://www.mq.edu.au/study/find-a-course/courses/master-of-education-and-master-of-management
+Specialisation in Accounting,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/accounting
+Master of Information Systems Management,Course,C000124,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-systems-management
+Bachelor of Commerce and Bachelor of Ancient History,Double Degree,D000347,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-ancient-history
+Bachelor of Commerce and Bachelor of Applied Finance,Double Degree,D000380,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-applied-finance
+Bachelor of Cyber Security and Bachelor of Economics,Double Degree,D000563,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-economics
+Bachelor of Economics and Bachelor of Social Science,Double Degree,D006327,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-social-science
+Bachelor of Laws and Bachelor of Engineering (Honours),Double Degree,D000042,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-laws-and-bachelor-of-engineering-honours
+Bachelor of Media and Communications and Bachelor of Laws,Double Degree,D000033,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-laws
+Bachelor of Music and Bachelor of Security Studies,Double Degree,D000803,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-security-studies
+Bachelor of Science and Bachelor of Cyber Security,Double Degree,D006284,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-cyber-security
+Master of Business Administration,Course,C000166,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-administration
+Bachelor of Science and Bachelor of Economics,Double Degree,D006281,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-economics
+Major in Cyber Security Governance,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/cyber-security-governance
+Major in Human Resource Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/human-resource-management
+Major in Management and Leadership,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/management-and-leadership
+Major in Spanish and Latin American Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/spanish-and-latin-american-studies
+Bachelor of Arts and Bachelor of Business Analytics,Double Degree,D000476,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-business-analytics
+Master of Criminology and Master of Public and Social Policy,Double Degree,D000147,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-public-and-social-policy
+Bachelor of Social Science and Bachelor of Planning,Double Degree,D006311,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-planning
+Bachelor of Information Technology,Course,C000105,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology
+Master of Translation and Interpreting Studies,Course,C000192,https://www.mq.edu.au/study/find-a-course/courses/master-of-translation-and-interpreting-studies
+Bachelor of Commerce and Bachelor of Psychology,Double Degree,D000073,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-psychology
+Bachelor of Security Studies and Master of Cyber Security Analysis,Course,C000209,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-master-of-cyber-security-analysis
+Graduate Certificate of Ancient History,Course,C000127,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-ancient-history
+Master of International Business and Master of Laws,Double Degree,D003553,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-laws
+Bachelor of Business and Bachelor of Planning,Double Degree,D006746,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-planning
+Undergraduate Certificate of Engineering,Course,C000336,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-engineering
+Bachelor of Marketing and Media and Bachelor of Social Science,Double Degree,D006312,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-social-science
+Bachelor of Music and Bachelor of Cognitive and Brain Sciences,Double Degree,D000547,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Arts and Bachelor of Game Design and Development,Double Degree,D000619,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-game-design-and-development
+Bachelor of Arts and Bachelor of Speech and Hearing Sciences,Double Degree,D000911,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-speech-and-hearing-sciences
+Major in French and Francophone Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/french-and-francophone-studies
+Major in Screen Practice and Production,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/screen-practice-and-production
+Bachelor of Cyber Security and Bachelor of Social Science,Double Degree,D006346,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-social-science
+Bachelor of Economics and Bachelor of Marketing and Media,Double Degree,D000742,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-marketing-and-media
+Major in Business Information Systems,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/business-information-systems
+Graduate Diploma of Accounting Practice,Course,C000381,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-accounting-practice
+Bachelor of Business and Bachelor of Marketing and Media,Double Degree,D006771,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-marketing-and-media
+Bachelor of Chiropractic Science and Bachelor of Laws,Double Degree,D000679,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-chiropractic-science-and-bachelor-of-laws
+Master of Management and Master of Public and Social Policy,Double Degree,D001001,https://www.mq.edu.au/study/find-a-course/courses/master-of-management-and-master-of-public-and-social-policy
+Bachelor of Music and Bachelor of Business Analytics,Double Degree,D000495,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-business-analytics
+Bachelor of Science and Bachelor of Marketing and Media,Double Degree,D006276,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-marketing-and-media
+Master of Intelligence and Master of Public and Social Policy,Double Degree,D000131,https://www.mq.edu.au/study/find-a-course/courses/master-of-intelligence-and-master-of-public-and-social-policy
+Bachelor of Commerce and Bachelor of Medical Sciences,Double Degree,D000779,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-medical-sciences
+Bachelor of Commerce and Bachelor of Security Studies,Double Degree,D000076,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-security-studies
+Bachelor of Economics and Bachelor of Ancient History,Double Degree,D000349,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-ancient-history
+Bachelor of Economics and Bachelor of Applied Finance,Double Degree,D000004,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-applied-finance
+Masters Qualifying Program in Business (Standard),Course,C000392,https://www.mq.edu.au/study/find-a-course/courses/masters-qualifying-program-in-business-standard
+Bachelor of Arts and Bachelor of Engineering (Honours),Double Degree,D000085,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-engineering-honours
+Bachelor of Business and Bachelor of Cyber Security,Double Degree,D006756,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-cyber-security
+Bachelor of Business and Bachelor of Social Science,Double Degree,D006762,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-social-science
+Bachelor of Commerce and Bachelor of Education (Secondary),Course,D000023,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-education-secondary
+Bachelor of Education (Primary) and Bachelor of Psychology,Course,D000032,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-education-primary-and-bachelor-of-psychology
+Master of Commerce and Master of Accounting,Double Degree,D006032,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-accounting
+Bachelor of Arts and Bachelor of Media and Communications,Double Degree,D000010,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-media-and-communications
+Bachelor of Science and Bachelor of Ancient History,Double Degree,D006287,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-ancient-history
+Bachelor of Science and Bachelor of Applied Finance,Double Degree,D006268,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-applied-finance
+Bachelor of Arts and Bachelor of Cognitive and Brain Sciences,Double Degree,D000534,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Media and Communications and Bachelor of Music,Double Degree,D000799,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-music
+Major in Artificial Intelligence,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/artificial-intelligence
+Major in Business Administration,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/business-administration
+Bachelor of Cyber Security and Bachelor of Marketing and Media,Double Degree,D000741,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-marketing-and-media
+Bachelor of Commerce and Bachelor of Archaeology,Double Degree,D000403,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-archaeology
+Bachelor of Commerce and Bachelor of Environment,Double Degree,D000062,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-environment
+Bachelor of Environment and Bachelor of Planning,Double Degree,D000812,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-planning
+Bachelor of Ancient History and Bachelor of Planning,Double Degree,D000363,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-planning
+Bachelor of Applied Finance and Bachelor of Planning,Double Degree,D000393,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-planning
+Bachelor of Biodiversity and Conservation,Course,C000001,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation
+Bachelor of Teaching (Early Childhood Education),Course,C000012,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-teaching-early-childhood-education
+Bachelor of Cyber Security and Bachelor of Ancient History,Double Degree,D000348,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-ancient-history
+Bachelor of Cyber Security and Bachelor of Applied Finance,Double Degree,D000070,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-applied-finance
+Specialisation in Applied Economics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/applied-economics
+Specialisation in Civil Engineering,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/civil-engineering
+Graduate Certificate of Leadership and Change,Course,C000382,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-leadership-and-change
+Graduate Certificate of Conservation Biology,Course,C000051,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-conservation-biology
+Bachelor of Business and Bachelor of Economics,Double Degree,D006749,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-economics
+Graduate Certificate of Digital Marketing,Course,C000385,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-digital-marketing
+Master of Counter Terrorism and Master of Public and Social Policy,Double Degree,D000133,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-public-and-social-policy
+Bachelor of Medical Sciences and Bachelor of Planning,Double Degree,D000820,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-planning
+Bachelor of Music and Bachelor of Engineering (Honours),Double Degree,D000978,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-engineering-honours
+Major in Business Intelligence,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/business-intelligence
+Major in Psychological Science,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/psychological-science
+Bachelor of Cyber Security and Bachelor of Archaeology,Double Degree,D000562,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-archaeology
+Bachelor of Environment and Bachelor of Cyber Security,Double Degree,D000565,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-cyber-security
+Bachelor of Environment and Bachelor of Social Science,Double Degree,D006353,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-social-science
+Bachelor of International Studies and Bachelor of Laws,Double Degree,D000039,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-laws
+Specialisation in Accounting and Auditing,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/accounting-and-auditing
+Specialisation in Supply Chain Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/supply-chain-management
+Master of Conference Interpreting,Course,C000167,https://www.mq.edu.au/study/find-a-course/courses/master-of-conference-interpreting
+Bachelor of Economics and Bachelor of Archaeology,Double Degree,D000586,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-archaeology
+Bachelor of Environment and Bachelor of Economics,Double Degree,D000068,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-economics
+Bachelor of Science and Bachelor of Medical Sciences,Double Degree,D006297,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-medical-sciences
+Bachelor of Science and Bachelor of Security Studies,Double Degree,D006288,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-security-studies
+Specialisation in Business Analytics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/business-analytics
+Specialisation in Sensory Disability,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/sensory-disability
+Bachelor of Business and Bachelor of Ancient History,Double Degree,D006755,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-ancient-history
+Bachelor of Business and Bachelor of Applied Finance,Double Degree,D006759,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-applied-finance
+Bachelor of Environment and Bachelor of Marketing and Media,Double Degree,D000744,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-marketing-and-media
+Bachelor of Science and Bachelor of Education (Secondary),Course,D006298,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-education-secondary
+Bachelor of Science and Bachelor of Archaeology,Double Degree,D006291,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-archaeology
+Bachelor of Science and Bachelor of Environment,Double Degree,D006299,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-environment
+Bachelor of Medical Sciences and Bachelor of Cyber Security,Double Degree,D000574,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-cyber-security
+Bachelor of Medical Sciences and Bachelor of Social Science,Double Degree,D006340,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-social-science
+Bachelor of Music and Bachelor of Speech and Hearing Sciences,Double Degree,D000930,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Arts and Bachelor of Chiropractic Science,Double Degree,D000505,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-chiropractic-science
+Master of Marketing and Master of Media and Communications,Double Degree,D000156,https://www.mq.edu.au/study/find-a-course/courses/master-of-marketing-and-master-of-media-and-communications
+Master of Applied Economics and Master of Finance,Double Degree,D003124,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-economics-and-master-of-finance
+Bachelor of Security Studies and Bachelor of Planning,Double Degree,D000824,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-planning
+Graduate Certificate of Environmental Planning,Course,C000098,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-environmental-planning
+Master of Engineering in Electronics Engineering,Course,C000175,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-in-electronics-engineering
+Bachelor of Science and Bachelor of Speech and Hearing Sciences,Double Degree,D006285,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Arts and Bachelor of International Studies,Double Degree,D000652,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-international-studies
+Bachelor of Medical Sciences and Bachelor of Marketing and Media,Double Degree,D000753,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-marketing-and-media
+Bachelor of Ancient History and Bachelor of Social Science,Double Degree,D006325,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-social-science
+Bachelor of Applied Finance and Bachelor of Social Science,Double Degree,D006343,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-social-science
+Bachelor of Commerce and Bachelor of Business Analytics,Double Degree,D000481,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-business-analytics
+Bachelor of Environment and Bachelor of Ancient History,Double Degree,D000351,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-ancient-history
+Bachelor of Environment and Bachelor of Applied Finance,Double Degree,D000382,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-applied-finance
+Bachelor of Information Technology and Bachelor of Laws,Double Degree,D000043,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-laws
+Master of Business Analytics and Master of Finance,Double Degree,D003121,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-finance
+Masters Qualifying Program in Business (Accelerated),Course,C000394,https://www.mq.edu.au/study/find-a-course/courses/masters-qualifying-program-in-business-accelerated
+Bachelor of Archaeology and Bachelor of Planning,Double Degree,D000808,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-planning
+Bachelor of Security Studies and Master of Security and Strategic Studies,Course,C000207,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-master-of-security-and-strategic-studies
+Bachelor of Business Analytics and Bachelor of Planning,Double Degree,D000496,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-planning
+Bachelor of Commerce and Bachelor of Game Design and Development,Double Degree,D000620,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-game-design-and-development
+Bachelor of Commerce and Bachelor of Speech and Hearing Sciences,Double Degree,D000916,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Game Design and Development and Bachelor of Planning,Double Degree,D000813,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development-and-bachelor-of-planning
+Bachelor of Cognitive and Brain Sciences and Bachelor of Planning,Double Degree,D000548,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-planning
+Bachelor of Medical Sciences and Bachelor of Economics,Double Degree,D000030,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-economics
+Bachelor of Music and Bachelor of Chiropractic Science,Double Degree,D000522,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-chiropractic-science
+Major in Earth and Environmental Sciences,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/earth-and-environmental-sciences
+Major in Genomics and Medical Informatics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/genomics-and-medical-informatics
+Major in Marketing Insights and Analytics,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/marketing-insights-and-analytics
+"Major in Media, Culture and Communications",Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/media-culture-and-communications
+Graduate Diploma of Inclusive and Special Education,Course,C000355,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-inclusive-and-special-education
+Bachelor of Business and Bachelor of Psychology,Double Degree,D006766,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-psychology
+Graduate Certificate of Applied Statistics,Course,C000045,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-applied-statistics
+Master of Management and Master of Media and Communications,Double Degree,D001002,https://www.mq.edu.au/study/find-a-course/courses/master-of-management-and-master-of-media-and-communications
+Specialisation in Business Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/business-management
+Specialisation in Information Systems,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/information-systems
+Graduate Diploma of Auslan-English Interpreting,Course,C000153,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-auslan-english-interpreting
+Master of Criminology and Master of Intelligence,Double Degree,D000108,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-intelligence
+Major in Environmental Sciences,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/environmental-sciences
+Major in International Business,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/international-business
+Bachelor of Ancient History and Bachelor of Marketing and Media,Double Degree,D000731,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-marketing-and-media
+Bachelor of Applied Finance and Bachelor of Marketing and Media,Double Degree,D000732,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-marketing-and-media
+Bachelor of Science and Bachelor of Actuarial Studies,Double Degree,D006279,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-actuarial-studies
+Bachelor of Security Studies and Bachelor of Cyber Security,Double Degree,D000581,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-cyber-security
+Bachelor of Security Studies and Bachelor of Social Science,Double Degree,D006328,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-social-science
+Master of Cyber Security Analysis and Master of Public and Social Policy,Double Degree,D000132,https://www.mq.edu.au/study/find-a-course/courses/master-of-cyber-security-analysis-and-master-of-public-and-social-policy
+Specialisation in Education: Blindness/Low Vision,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/education-blindness-low-vision
+Bachelor of Arts and Bachelor of Information Technology,Double Degree,D000046,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-information-technology
+Bachelor of Archaeology and Bachelor of Social Science,Double Degree,D006330,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-social-science
+Bachelor of Media and Communications and Bachelor of Science,Double Degree,D006294,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-science
+Bachelor of Medical Sciences and Bachelor of Ancient History,Double Degree,D000361,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-ancient-history
+Bachelor of Medical Sciences and Bachelor of Applied Finance,Double Degree,D000391,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-applied-finance
+Master of Counter Terrorism and Master of Criminology,Double Degree,D000097,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-criminology
+Bachelor of Business and Bachelor of Medical Sciences,Double Degree,D006761,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-medical-sciences
+Bachelor of Business and Bachelor of Security Studies,Double Degree,D006757,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-security-studies
+Master of Translation and Interpreting Studies (Advanced),Course,C000193,https://www.mq.edu.au/study/find-a-course/courses/master-of-translation-and-interpreting-studies-advanced
+Master of Commerce and Master of Media and Communications,Double Degree,D000098,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-media-and-communications
+Specialisation in Human Resource Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/human-resource-management
+Bachelor of Security Studies and Bachelor of Marketing and Media,Double Degree,D000760,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-marketing-and-media
+Bachelor of Speech and Hearing Sciences and Bachelor of Planning,Double Degree,D000931,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-planning
+Master of Banking and Finance and Master of Management,Double Degree,D000998,https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance-and-master-of-management
+Master of Applied Economics and Master of Management,Double Degree,D001008,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-economics-and-master-of-management
+Master of Business Analytics and Master of Marketing,Double Degree,D004202,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-marketing
+Bachelor of Security Studies and Bachelor of Economics,Double Degree,D000602,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-economics
+Bachelor of Commerce and Bachelor of Engineering (Honours),Double Degree,D000065,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-engineering-honours
+Bachelor of Economics and Bachelor of Business Analytics,Double Degree,D000071,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-business-analytics
+Bachelor of Environment and Bachelor of Medical Sciences,Double Degree,D000781,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-medical-sciences
+Bachelor of Environment and Bachelor of Security Studies,Double Degree,D000891,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-security-studies
+Master of International Business and Master of Marketing,Double Degree,D000138,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-marketing
+Graduate Certificate of Information Technology,Course,C000346,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-information-technology
+Bachelor of Applied Finance and Bachelor of Ancient History,Double Degree,D000339,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-ancient-history
+Bachelor of Archaeology and Bachelor of Marketing and Media,Double Degree,D000733,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-marketing-and-media
+Bachelor of Business Analytics and Bachelor of Social Science,Double Degree,D006338,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-social-science
+Bachelor of Professional Accounting,Course,C000014,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-professional-accounting
+Bachelor of Commerce and Bachelor of Cognitive and Brain Sciences,Double Degree,D000535,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Economics and Bachelor of Game Design and Development,Double Degree,D000590,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-game-design-and-development
+Bachelor of Economics and Bachelor of Speech and Hearing Sciences,Double Degree,D000918,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-speech-and-hearing-sciences
+Graduate Certificate of Accounting Practice,Course,C000380,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-accounting-practice
+Graduate Diploma of Business Administration,Course,C000388,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-business-administration
+Specialisation in Financial Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/financial-management
+Specialisation in Software Engineering,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/software-engineering
+Juris Doctor,Course,C000075,https://www.mq.edu.au/study/find-a-course/courses/juris-doctor
+Master of Business Analytics and Master of Data Science,Double Degree,D004236,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-data-science
+Master of Business Analytics and Master of Accounting,Double Degree,D004247,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-accounting
+Master of Business Analytics and Master of Management,Double Degree,D001007,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-management
+Bachelor of Cyber Security and Bachelor of Business Analytics,Double Degree,D000482,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-business-analytics
+Bachelor of Business Analytics and Bachelor of Marketing and Media,Double Degree,D000737,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-marketing-and-media
+Bachelor of Cognitive and Brain Sciences and Bachelor of Economics,Double Degree,D000537,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-economics
+Bachelor of Environment and Bachelor of Archaeology,Double Degree,D000405,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-archaeology
+Bachelor of Arts and Bachelor of Professional Accounting,Double Degree,D000830,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-professional-accounting
+"Major in Strategy, Innovation and Entrepreneurship",Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/strategy-innovation-and-entrepreneurship
+Major in Cyber Security Governance Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/cyber-security-governance-studies
+Bachelor of Science and Bachelor of Business Analytics,Double Degree,D006308,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-business-analytics
+Diploma of Arts Media and Communications,Course,C000128,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-arts-media-and-communications
+Master of Counter Terrorism and Master of Intelligence,Double Degree,D000099,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-intelligence
+Master of Creative Industries and Master of Marketing,Double Degree,D000100,https://www.mq.edu.au/study/find-a-course/courses/master-of-creative-industries-and-master-of-marketing
+Bachelor of Business and Bachelor of Archaeology,Double Degree,D006754,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-archaeology
+Bachelor of Business and Bachelor of Environment,Double Degree,D006770,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-environment
+Bachelor of Science and Bachelor of Game Design and Development,Double Degree,D006282,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-game-design-and-development
+Master of International Business and Master of Accounting,Double Degree,D006197,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-accounting
+Master of International Business and Master of Management,Double Degree,D001006,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-management
+Master of International Relations and Master of Marketing,Double Degree,D000139,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations-and-master-of-marketing
+Master of Marketing and Master of Professional Accounting,Double Degree,D003733,https://www.mq.edu.au/study/find-a-course/courses/master-of-marketing-and-master-of-professional-accounting
+Bachelor of Security Studies and Bachelor of Ancient History,Double Degree,D000368,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-ancient-history
+Bachelor of Security Studies and Bachelor of Applied Finance,Double Degree,D000009,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-applied-finance
+Bachelor of Business and Bachelor of Game Design and Development,Double Degree,D006750,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-game-design-and-development
+Bachelor of Business and Bachelor of Speech and Hearing Sciences,Double Degree,D006764,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Cognitive and Brain Sciences and Bachelor of Cyber Security,Double Degree,D000536,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-cyber-security
+Bachelor of Cognitive and Brain Sciences and Bachelor of Social Science,Double Degree,D006339,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-social-science
+Undergraduate Certificate of Information Technology,Course,C000339,https://www.mq.edu.au/study/find-a-course/courses/undergraduate-certificate-of-information-technology
+Graduate Diploma of Translating and Interpreting,Course,C000161,https://www.mq.edu.au/study/find-a-course/courses/graduate-diploma-of-translating-and-interpreting
+Bachelor of Actuarial Studies with Professional Practice (Honours),Course,C000118,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-actuarial-studies-with-professional-practice-honours
+Bachelor of Applied Finance and Bachelor of Archaeology,Double Degree,D000374,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-archaeology
+Bachelor of Cyber Security and Bachelor of Game Design and Development,Double Degree,D000566,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-game-design-and-development
+Bachelor of Cyber Security and Bachelor of Speech and Hearing Sciences,Double Degree,D000917,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Commerce and Bachelor of Chiropractic Science,Double Degree,D000507,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-chiropractic-science
+Bachelor of Economics and Bachelor of Engineering (Honours),Double Degree,D000992,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-engineering-honours
+Bachelor of Media and Communications and Bachelor of Commerce,Double Degree,D000081,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-commerce
+Bachelor of Media and Communications and Bachelor of Planning,Double Degree,D000819,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-planning
+Bachelor of Medical Sciences and Bachelor of Security Studies,Double Degree,D000897,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-security-studies
+Major in International Relations,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/international-relations
+Master of Intelligence and Master of International Relations,Double Degree,D000134,https://www.mq.edu.au/study/find-a-course/courses/master-of-intelligence-and-master-of-international-relations
+Specialisation in Environmental Finance,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/environmental-finance
+Master of Criminology and Master of Cyber Security Analysis,Double Degree,D000107,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-cyber-security-analysis
+Bachelor of Cognitive and Brain Sciences and Bachelor of Marketing and Media,Double Degree,D000739,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-marketing-and-media
+Bachelor of Biodiversity and Conservation and Bachelor of Laws,Double Degree,D000677,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-laws
+Bachelor of Business Analytics and Bachelor of Ancient History,Double Degree,D000344,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-ancient-history
+Bachelor of Business Analytics and Bachelor of Applied Finance,Double Degree,D000005,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-applied-finance
+Bachelor of Cyber Security and Bachelor of Engineering (Honours),Double Degree,D000983,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-engineering-honours
+Graduate Certificate of Clinical Trial Operations,Course,C000390,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-clinical-trial-operations
+Master of International Relations and Master of Management,Double Degree,D001004,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations-and-master-of-management
+Master of Public and Social Policy and Master of Security and Strategic Studies,Double Degree,D000104,https://www.mq.edu.au/study/find-a-course/courses/master-of-public-and-social-policy-and-master-of-security-and-strategic-studies
+Bachelor of Social Science and Bachelor of Game Design and Development,Double Degree,D006317,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-game-design-and-development
+Bachelor of Social Science and Bachelor of Speech and Hearing Sciences,Double Degree,D006323,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-speech-and-hearing-sciences
+Master of Intelligence and Master of Security and Strategic Studies,Double Degree,D000124,https://www.mq.edu.au/study/find-a-course/courses/master-of-intelligence-and-master-of-security-and-strategic-studies
+Bachelor of Cognitive and Brain Sciences and Bachelor of Psychology,Double Degree,D000089,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-psychology
+Master of International Relations and Master of Public and Social Policy,Double Degree,D000121,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations-and-master-of-public-and-social-policy
+Bachelor of Medical Sciences and Bachelor of Archaeology,Double Degree,D000411,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-archaeology
+Bachelor of Music and Bachelor of Information Technology,Double Degree,D000796,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-information-technology
+Bachelor of Science and Bachelor of Cognitive and Brain Sciences,Double Degree,D006290,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Marketing and Media and Bachelor of Game Design and Development,Double Degree,D000745,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-game-design-and-development
+Master of Creative Industries and Master of Management,Double Degree,D001003,https://www.mq.edu.au/study/find-a-course/courses/master-of-creative-industries-and-master-of-management
+Master of Finance and Master of International Business,Double Degree,D000117,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance-and-master-of-international-business
+Bachelor of Music and Bachelor of International Studies,Double Degree,D000664,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-international-studies
+Bachelor of Science and Bachelor of Engineering (Honours),Double Degree,D006302,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-engineering-honours
+Diploma of Software Engineering,Course,C000378,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-software-engineering
+Bachelor of Cognitive and Brain Sciences and Bachelor of Ancient History,Double Degree,D000346,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-ancient-history
+Bachelor of Cognitive and Brain Sciences and Bachelor of Applied Finance,Double Degree,D000379,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-applied-finance
+Bachelor of Commerce and Bachelor of International Studies,Double Degree,D000077,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-international-studies
+Bachelor of Economics and Bachelor of Chiropractic Science,Double Degree,D000509,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-chiropractic-science
+Bachelor of Environment and Bachelor of Business Analytics,Double Degree,D000484,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-business-analytics
+Bachelor of International Studies and Bachelor of Planning,Double Degree,D000665,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-planning
+Bachelor of Environment and Bachelor of Game Design and Development,Double Degree,D000622,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-game-design-and-development
+Bachelor of Environment and Bachelor of Speech and Hearing Sciences,Double Degree,D000920,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Marketing and Media and Bachelor of Engineering (Honours),Double Degree,D000974,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-engineering-honours
+Major in Infectious Disease and Biosecurity,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/infectious-disease-and-biosecurity
+Master of International Trade and Commerce Law and Master of Public and Social Policy,Double Degree,D000120,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-trade-and-commerce-law-and-master-of-public-and-social-policy
+Bachelor of Speech and Hearing Sciences and Bachelor of Marketing and Media,Double Degree,D000762,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-marketing-and-media
+Bachelor of Business and Bachelor of Cognitive and Brain Sciences,Double Degree,D006748,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-cognitive-and-brain-sciences
+Specialisation in International Business,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/international-business
+Specialisation in Mechanical Engineering,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/mechanical-engineering
+Master of Cyber Security Analysis and Master of Intelligence,Double Degree,D000111,https://www.mq.edu.au/study/find-a-course/courses/master-of-cyber-security-analysis-and-master-of-intelligence
+Bachelor of Business Analytics and Bachelor of Archaeology,Double Degree,D000475,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-archaeology
+Bachelor of Media and Communications and Bachelor of Economics,Double Degree,D000596,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-economics
+Bachelor of Speech and Hearing Sciences and Bachelor of Psychology,Double Degree,D000026,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-psychology
+Master of Banking and Finance and Master of Business Analytics,Double Degree,D004233,https://www.mq.edu.au/study/find-a-course/courses/master-of-banking-and-finance-and-master-of-business-analytics
+Bachelor of Cyber Security and Bachelor of Chiropractic Science,Double Degree,D000508,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-chiropractic-science
+Graduate Certificate of Applied Business Analytics,Course,C000384,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-applied-business-analytics
+Master of International Business and Master of Public and Social Policy,Double Degree,D003014,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-public-and-social-policy
+Master of International Trade and Commerce Law and Master of Management,Double Degree,D001005,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-trade-and-commerce-law-and-master-of-management
+Bachelor of Applied Finance and Bachelor of Actuarial Studies,Double Degree,D000002,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-actuarial-studies
+Bachelor of Security Studies and Bachelor of Archaeology,Double Degree,D000888,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-archaeology
+Bachelor of Media and Communications and Bachelor of Cyber Security,Double Degree,D000075,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-cyber-security
+Bachelor of Media and Communications and Bachelor of Social Science,Double Degree,D006335,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-social-science
+Major in Environmental Management,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/environmental-management
+Specialisation in German International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/german-international-studies
+Bachelor of Business and Bachelor of Business Analytics,Double Degree,D006758,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-business-analytics
+Bachelor of Speech and Hearing Sciences and Bachelor of Ancient History,Double Degree,D000370,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-ancient-history
+Bachelor of Speech and Hearing Sciences and Bachelor of Applied Finance,Double Degree,D000398,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-applied-finance
+Master of Applied Statistics and Master of Business Analytics,Double Degree,D004219,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-statistics-and-master-of-business-analytics
+Bachelor of Cognitive and Brain Sciences and Bachelor of Archaeology,Double Degree,D000533,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-archaeology
+Graduate Certificate of Security Studies and Criminology,Course,C000149,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-security-studies-and-criminology
+Master of Commerce and Master of International Trade and Commerce Law,Double Degree,D004099,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-international-trade-and-commerce-law
+Graduate Certificate of Inclusive and Special Education,Course,C000356,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-inclusive-and-special-education
+Bachelor of Environment and Bachelor of Cognitive and Brain Sciences,Double Degree,D000539,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Marketing and Media and Bachelor of Chiropractic Science,Double Degree,D000738,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-chiropractic-science
+Bachelor of Commerce and Bachelor of Information Technology,Double Degree,D000072,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-information-technology
+Bachelor of Economics and Bachelor of International Studies,Double Degree,D000060,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-international-studies
+Bachelor of Environment and Bachelor of Engineering (Honours),Double Degree,D000057,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-engineering-honours
+Bachelor of Information Technology and Bachelor of Planning,Double Degree,D000815,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-planning
+Master of Commerce and Master of International Business,Double Degree,D000125,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-international-business
+Master of Finance and Master of Professional Accounting,Double Degree,D003114,https://www.mq.edu.au/study/find-a-course/courses/master-of-finance-and-master-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of Marketing and Media,Double Degree,D000752,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-marketing-and-media
+Bachelor of Medical Sciences and Bachelor of Game Design and Development,Double Degree,D000629,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-game-design-and-development
+Bachelor of Medical Sciences and Bachelor of Speech and Hearing Sciences,Double Degree,D000929,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Planning and Bachelor of Engineering (Honours),Double Degree,D000964,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-planning-and-bachelor-of-engineering-honours
+Bachelor of Professional Accounting and Bachelor of Laws,Double Degree,D000029,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-professional-accounting-and-bachelor-of-laws
+Bachelor of Science and Bachelor of Chiropractic Science,Double Degree,D006309,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-chiropractic-science
+Specialisation in Modern Greek International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/modern-greek-international-studies
+Specialisation in Mechatronic Engineering,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/mechatronic-engineering
+Bachelor of Social Science and Bachelor of Engineering (Honours),Double Degree,D006347,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-engineering-honours
+Bachelor of International Studies and Bachelor of Cyber Security,Double Degree,D000569,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-cyber-security
+Bachelor of International Studies and Bachelor of Social Science,Double Degree,D006351,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-social-science
+Major in International Business Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/international-business-studies
+Bachelor of Business and Bachelor of Media and Communications,Double Degree,D006752,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-media-and-communications
+Bachelor of Speech and Hearing Sciences and Bachelor of Archaeology,Double Degree,D000910,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-archaeology
+Bachelor of Medical Sciences and Bachelor of Business Analytics,Double Degree,D000494,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-business-analytics
+Bachelor of Music and Bachelor of Biodiversity and Conservation,Double Degree,D000440,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Ancient History and Bachelor of Game Design and Development,Double Degree,D000352,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-game-design-and-development
+Bachelor of Applied Finance and Bachelor of Game Design and Development,Double Degree,D000383,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-game-design-and-development
+Diploma of Business Analytics,Course,C000369,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-business-analytics
+Specialisation in Chinese International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/chinese-international-studies
+Specialisation in Italian International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/italian-international-studies
+Specialisation in Russian International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/russian-international-studies
+Master of Counter Terrorism and Master of Cyber Security Analysis,Double Degree,D000110,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-cyber-security-analysis
+Bachelor of Arts and Bachelor of Biodiversity and Conservation,Double Degree,D000422,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-arts-and-bachelor-of-biodiversity-and-conservation
+Master of Criminology and Master of Security and Strategic Studies,Double Degree,D000109,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-security-and-strategic-studies
+Bachelor of Media and Communications and Bachelor of Ancient History,Double Degree,D000360,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-ancient-history
+Bachelor of Media and Communications and Bachelor of Applied Finance,Double Degree,D000390,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-applied-finance
+Graduate Certificate of Business Administration,Course,C000387,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-business-administration
+Bachelor of Security Studies and Bachelor of Game Design and Development,Double Degree,D000633,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-game-design-and-development
+Bachelor of Security Studies and Bachelor of Speech and Hearing Sciences,Double Degree,D000935,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Cognitive and Brain Sciences and Bachelor of Game Design and Development,Double Degree,D000540,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-game-design-and-development
+Bachelor of Cognitive and Brain Sciences and Bachelor of Speech and Hearing Sciences,Double Degree,D000915,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of International Studies and Bachelor of Marketing and Media,Double Degree,D000748,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-marketing-and-media
+Bachelor of Commerce and Bachelor of Professional Accounting,Double Degree,D000831,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-professional-accounting
+Bachelor of Economics and Bachelor of Information Technology,Double Degree,D000591,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-information-technology
+Bachelor of Environment and Bachelor of Chiropractic Science,Double Degree,D000511,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-chiropractic-science
+Specialisation in Society of Actuaries Specialisation,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/society-of-actuaries-specialisation
+Masters Qualifying Program in Information Technology (Standard),Course,C000393,https://www.mq.edu.au/study/find-a-course/courses/masters-qualifying-program-in-information-technology-standard
+Bachelor of Business and Bachelor of Engineering (Honours),Double Degree,D006768,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-engineering-honours
+Bachelor of Archaeology and Bachelor of Game Design and Development,Double Degree,D002109,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-game-design-and-development
+Master of Creative Industries and Master of Media and Communications,Double Degree,D000151,https://www.mq.edu.au/study/find-a-course/courses/master-of-creative-industries-and-master-of-media-and-communications
+Master of Commerce and Master of International Relations,Double Degree,D000096,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-international-relations
+Master of Commerce and Master of Professional Accounting,Double Degree,D003759,https://www.mq.edu.au/study/find-a-course/courses/master-of-commerce-and-master-of-professional-accounting
+Master of Conservation Biology and Master of Environment,Double Degree,D000113,https://www.mq.edu.au/study/find-a-course/courses/master-of-conservation-biology-and-master-of-environment
+Bachelor of Medical Sciences and Bachelor of Cognitive and Brain Sciences,Double Degree,D000064,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Music and Bachelor of Professional Accounting,Double Degree,D000843,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-music-and-bachelor-of-professional-accounting
+Bachelor of Planning and Bachelor of Chiropractic Science,Double Degree,D000523,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-planning-and-bachelor-of-chiropractic-science
+Bachelor of Science and Bachelor of International Studies,Double Degree,D006270,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-international-studies
+Bachelor of Cyber Security and Bachelor of Information Technology,Double Degree,D000568,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-information-technology
+Bachelor of International Studies and Bachelor of Ancient History,Double Degree,D000355,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-ancient-history
+Bachelor of International Studies and Bachelor of Applied Finance,Double Degree,D000385,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-applied-finance
+Diploma of Information Technology,Course,C000136,https://www.mq.edu.au/study/find-a-course/courses/diploma-of-information-technology
+Master of Applied Economics and Master of International Relations,Double Degree,D003279,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-economics-and-master-of-international-relations
+Master of Business Analytics and Master of International Business,Double Degree,D004238,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-international-business
+Bachelor of Security Studies and Bachelor of Business Analytics,Double Degree,D000016,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-business-analytics
+Bachelor of Social Science and Bachelor of Chiropractic Science,Double Degree,D006332,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-chiropractic-science
+Specialisation in Croatian International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/croatian-international-studies
+Specialisation in Japanese International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/japanese-international-studies
+Bachelor of Psychological Sciences (Honours),Course,C000396,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-psychological-sciences-honours
+Master of Criminology and Master of International Relations,Double Degree,D000129,https://www.mq.edu.au/study/find-a-course/courses/master-of-criminology-and-master-of-international-relations
+Bachelor of Biodiversity and Conservation and Bachelor of Planning,Double Degree,D000441,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-planning
+Bachelor of Business Analytics and Bachelor of Engineering (Honours),Double Degree,D000971,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-engineering-honours
+Bachelor of Media and Communications and Bachelor of Archaeology,Double Degree,D000410,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-archaeology
+Bachelor of Media and Communications and Bachelor of Environment,Double Degree,D000613,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-environment
+Bachelor of Medical Sciences and Bachelor of Engineering (Honours),Double Degree,D000995,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-engineering-honours
+Bachelor of Business Analytics and Bachelor of Game Design and Development,Double Degree,D000485,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-game-design-and-development
+Bachelor of Ancient History and Bachelor of Engineering (Honours),Double Degree,D000350,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-engineering-honours
+Bachelor of Applied Finance and Bachelor of Engineering (Honours),Double Degree,D000381,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-engineering-honours
+Bachelor of Speech and Hearing Sciences and Bachelor of Game Design and Development,Double Degree,D000921,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-game-design-and-development
+Major in Entrepreneurship and Innovation,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/entrepreneurship-and-innovation
+Graduate Certificate of Editing and Electronic Publishing,Course,C000088,https://www.mq.edu.au/study/find-a-course/courses/graduate-certificate-of-editing-and-electronic-publishing
+Bachelor of Marketing and Media and Bachelor of Information Technology,Double Degree,D000747,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-information-technology
+Bachelor of Media and Communications and Bachelor of Medical Sciences,Double Degree,D000785,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-medical-sciences
+Bachelor of Media and Communications and Bachelor of Security Studies,Double Degree,D000896,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-security-studies
+Bachelor of Philosophy/Master of Research (Business and Economics),Course,C000213,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-philosophy-master-of-research-business-and-economics
+Bachelor of Security Studies and Bachelor of Cognitive and Brain Sciences,Double Degree,D000551,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-cognitive-and-brain-sciences
+Master of International Business and Master of Media and Communications,Double Degree,D000128,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-media-and-communications
+Bachelor of Economics and Bachelor of Professional Accounting,Double Degree,D000599,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-economics-and-bachelor-of-professional-accounting
+Bachelor of Environment and Bachelor of International Studies,Double Degree,D000654,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-international-studies
+Bachelor of International Studies and Bachelor of Archaeology,Double Degree,D000651,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-archaeology
+Major in Information Systems and Business Analysis,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/information-systems-and-business-analysis
+Master of Counter Terrorism and Master of Security and Strategic Studies,Double Degree,D000105,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-security-and-strategic-studies
+Bachelor of Commerce and Bachelor of Biodiversity and Conservation,Double Degree,D000425,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-commerce-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Cyber Security and Bachelor of Professional Accounting,Double Degree,D000577,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cyber-security-and-bachelor-of-professional-accounting
+Specialisation in Applied Artificial Intelligence,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/applied-artificial-intelligence
+Bachelor of Science and Bachelor of Information Technology,Double Degree,D006272,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-information-technology
+Bachelor of Business and Bachelor of Chiropractic Science,Double Degree,D006760,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-chiropractic-science
+Bachelor of Cognitive and Brain Sciences and Bachelor of Business Analytics,Double Degree,D000480,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-business-analytics
+Bachelor of Biodiversity and Conservation and Bachelor of Economics,Double Degree,D000427,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-economics
+Bachelor of Business Analytics and Bachelor of Chiropractic Science,Double Degree,D000479,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-chiropractic-science
+Bachelor of Game Design and Development and Bachelor of Engineering (Honours),Double Degree,D000960,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development-and-bachelor-of-engineering-honours
+Bachelor of Security Studies and Bachelor of Engineering (Honours),Double Degree,D000890,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-engineering-honours
+Specialisation in Business Management and Organisations,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/business-management-and-organisations
+Specialisation in Electrical and Electronic Engineering,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/electrical-and-electronic-engineering
+Bachelor of Archaeology and Bachelor of Engineering (Honours),Double Degree,D000967,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-engineering-honours
+Master of International Relations and Master of Security and Strategic Studies,Double Degree,D000142,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations-and-master-of-security-and-strategic-studies
+Master of Information Technology in Artificial Intelligence,Course,C000372,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-artificial-intelligence
+Master of Counter Terrorism and Master of International Relations,Double Degree,D000101,https://www.mq.edu.au/study/find-a-course/courses/master-of-counter-terrorism-and-master-of-international-relations
+Bachelor of Ancient History and Bachelor of Chiropractic Science,Double Degree,D000345,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-chiropractic-science
+Bachelor of Applied Finance and Bachelor of Chiropractic Science,Double Degree,D000378,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-chiropractic-science
+Bachelor of Medical Sciences and Bachelor of Chiropractic Science,Double Degree,D000521,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-chiropractic-science
+Bachelor of Environment and Bachelor of Information Technology,Double Degree,D000611,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-information-technology
+Masters Qualifying Program in Information Technology (Accelerated),Course,C000395,https://www.mq.edu.au/study/find-a-course/courses/masters-qualifying-program-in-information-technology-accelerated
+Bachelor of Speech and Hearing Sciences and Bachelor of Business Analytics,Double Degree,D000500,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-business-analytics
+Master of International Relations and Master of International Trade and Commerce Law,Double Degree,D000149,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-relations-and-master-of-international-trade-and-commerce-law
+Bachelor of Philosophy/Master of Research (Science and Engineering),Course,C000216,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-philosophy-master-of-research-science-and-engineering
+Specialisation in Spanish and Latin American International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/spanish-and-latin-american-international-studies
+Bachelor of Biodiversity and Conservation and Bachelor of Cyber Security,Double Degree,D000426,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-cyber-security
+Bachelor of Biodiversity and Conservation and Bachelor of Social Science,Double Degree,D006337,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-social-science
+Bachelor of Game Design and Development and Bachelor of Chiropractic Science,Double Degree,D000512,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development-and-bachelor-of-chiropractic-science
+Master of Data Science and Master of Information Technology in Cyber Security,Double Degree,D006081,https://www.mq.edu.au/study/find-a-course/courses/master-of-data-science-and-master-of-information-technology-in-cyber-security
+Bachelor of Media and Communications and Bachelor of Game Design and Development,Double Degree,D000628,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-game-design-and-development
+Bachelor of Media and Communications and Bachelor of Speech and Hearing Sciences,Double Degree,D000928,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-speech-and-hearing-sciences
+Master of Cyber Security Analysis and Master of Security and Strategic Studies,Double Degree,D000112,https://www.mq.edu.au/study/find-a-course/courses/master-of-cyber-security-analysis-and-master-of-security-and-strategic-studies
+Bachelor of Science and Bachelor of Professional Accounting,Double Degree,D006300,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-professional-accounting
+Bachelor of Cognitive and Brain Sciences and Bachelor of Engineering (Honours),Double Degree,D000993,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-engineering-honours
+Master of Business Analytics and Master of Information Systems Management,Double Degree,D000119,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-information-systems-management
+Master of International Business and Master of International Trade and Commerce Law,Double Degree,D000148,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-international-trade-and-commerce-law
+Bachelor of Security Studies and Bachelor of Chiropractic Science,Double Degree,D000528,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-chiropractic-science
+Bachelor of Social Science and Bachelor of Information Technology,Double Degree,D006314,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-information-technology
+Bachelor of Business and Bachelor of International Studies,Double Degree,D006773,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-international-studies
+Master of Engineering (Professional) in Mechanical Engineering,Course,C000397,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-professional-in-mechanical-engineering
+Master of Applied Economics and Master of International Trade and Commerce Law,Double Degree,D000143,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-economics-and-master-of-international-trade-and-commerce-law
+Bachelor of Archaeology and Bachelor of Chiropractic Science,Double Degree,D000504,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-chiropractic-science
+Bachelor of Environment and Bachelor of Professional Accounting,Double Degree,D000833,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-professional-accounting
+Specialisation in French and Francophone International Studies,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/french-and-francophone-international-studies
+Master of Business Analytics and Master of International Trade and Commerce Law,Double Degree,D004057,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-international-trade-and-commerce-law
+Bachelor of Biodiversity and Conservation and Bachelor of Ancient History,Double Degree,D000342,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-ancient-history
+Bachelor of Biodiversity and Conservation and Bachelor of Applied Finance,Double Degree,D000376,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-applied-finance
+Bachelor of Biodiversity and Conservation and Bachelor of Marketing and Media,Double Degree,D000735,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-marketing-and-media
+Bachelor of Information Technology and Bachelor of Actuarial Studies,Double Degree,D000127,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-actuarial-studies
+Bachelor of International Studies and Bachelor of Business Analytics,Double Degree,D000488,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-business-analytics
+Master of International Business and Master of International Relations,Double Degree,D000126,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-international-relations
+Master of International Business and Master of Professional Accounting,Double Degree,D003769,https://www.mq.edu.au/study/find-a-course/courses/master-of-international-business-and-master-of-professional-accounting
+Master of Cyber Security Analysis and Master of International Relations,Double Degree,D000130,https://www.mq.edu.au/study/find-a-course/courses/master-of-cyber-security-analysis-and-master-of-international-relations
+Bachelor of Medical Sciences and Bachelor of International Studies,Double Degree,D000663,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-international-studies
+Bachelor of Biodiversity and Conservation and Bachelor of Archaeology,Double Degree,D000421,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-archaeology
+Bachelor of Business Analytics and Bachelor of Information Technology,Double Degree,D000487,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-information-technology
+Bachelor of Speech and Hearing Sciences and Bachelor of Engineering (Honours),Double Degree,D000919,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-engineering-honours
+Bachelor of Marketing and Media and Bachelor of Professional Accounting,Double Degree,D000756,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-marketing-and-media-and-bachelor-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of Business Analytics,Double Degree,D000493,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-business-analytics
+Bachelor of International Studies and Bachelor of Game Design and Development,Double Degree,D000655,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-game-design-and-development
+Bachelor of International Studies and Bachelor of Speech and Hearing Sciences,Double Degree,D000923,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Media and Communications and Bachelor of Cognitive and Brain Sciences,Double Degree,D000546,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-cognitive-and-brain-sciences
+Master of Environment and Master of Sustainable Development,Double Degree,D005887,https://www.mq.edu.au/study/find-a-course/courses/master-of-environment-and-master-of-sustainable-development
+Bachelor of Planning and Bachelor of Professional Accounting,Double Degree,D002317,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-planning-and-bachelor-of-professional-accounting
+Bachelor of Cognitive and Brain Sciences and Bachelor of Chiropractic Science,Double Degree,D000506,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-chiropractic-science
+Master of Business Analytics and Master of Information Technology in Networking,Double Degree,D000123,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-information-technology-in-networking
+Master of Business Analytics and Master of Information Technology in Cyber Security,Double Degree,D000122,https://www.mq.edu.au/study/find-a-course/courses/master-of-business-analytics-and-master-of-information-technology-in-cyber-security
+Bachelor of Security Studies and Bachelor of International Studies,Double Degree,D000670,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-international-studies
+Bachelor of Social Science and Bachelor of Professional Accounting,Double Degree,D006333,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-social-science-and-bachelor-of-professional-accounting
+Specialisation in Actuaries Institute Specialisation,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/specialisation/actuaries-institute-specialisation
+Bachelor of Science and Bachelor of Biodiversity and Conservation,Double Degree,D006296,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-science-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Information Technology and Bachelor of Game Design and Development,Double Degree,D000624,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-game-design-and-development
+Bachelor of International Studies and Bachelor of Cognitive and Brain Sciences,Double Degree,D000541,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-cognitive-and-brain-sciences
+Bachelor of Environment and Bachelor of Biodiversity and Conservation,Double Degree,D000429,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-environment-and-bachelor-of-biodiversity-and-conservation
+Bachelor of International Studies and Bachelor of Engineering (Honours),Double Degree,D000990,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-engineering-honours
+"Bachelor of Philosophy/Master of Research (Medicine, Health and Human Sciences)",Course,C000215,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-philosophy-master-of-research-medicine-health-and-human-sciences
+Bachelor of Business and Bachelor of Information Technology,Double Degree,D006774,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-information-technology
+Bachelor of Ancient History and Bachelor of Information Technology,Double Degree,D000354,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-information-technology
+Bachelor of Applied Finance and Bachelor of Information Technology,Double Degree,D000007,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-information-technology
+Bachelor of Speech and Hearing Sciences and Bachelor of Chiropractic Science,Double Degree,D000914,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-chiropractic-science
+Master of Applied Linguistics and TESOL and Master of Translation and Interpreting Studies,Double Degree,D000103,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-linguistics-and-tesol-and-master-of-translation-and-interpreting-studies
+Bachelor of Medical Sciences and Bachelor of Information Technology,Double Degree,D000783,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-information-technology
+Bachelor of Media and Communications and Bachelor of Engineering (Honours),Double Degree,D000976,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-engineering-honours
+Bachelor of Chiropractic Science and Bachelor of Engineering (Honours),Double Degree,D000958,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-chiropractic-science-and-bachelor-of-engineering-honours
+Bachelor of Biodiversity and Conservation and Bachelor of Game Design and Development,Double Degree,D000430,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-game-design-and-development
+Bachelor of Biodiversity and Conservation and Bachelor of Speech and Hearing Sciences,Double Degree,D000912,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-speech-and-hearing-sciences
+Bachelor of Game Design and Development and Bachelor of Professional Accounting,Double Degree,D000834,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-game-design-and-development-and-bachelor-of-professional-accounting
+Major in Performing Arts and Entertainment Industries,Majors and Specialisations,N/A,https://www.mq.edu.au/study/find-a-course/courses/major/performing-arts-and-entertainment-industries
+Bachelor of Information Technology and Bachelor of Engineering (Honours),Double Degree,D000058,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-engineering-honours
+Bachelor of International Studies and Bachelor of Chiropractic Science,Double Degree,D000515,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-chiropractic-science
+Bachelor of Security Studies and Bachelor of Information Technology,Double Degree,D000893,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-information-technology
+Master of Engineering (Professional) in Civil and Construction Engineering,Course,C000398,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-professional-in-civil-and-construction-engineering
+Bachelor of Archaeology and Bachelor of Information Technology,Double Degree,D000407,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-information-technology
+Bachelor of Ancient History and Bachelor of Professional Accounting,Double Degree,D000364,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-ancient-history-and-bachelor-of-professional-accounting
+Bachelor of Applied Finance and Bachelor of Professional Accounting,Double Degree,D000008,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-applied-finance-and-bachelor-of-professional-accounting
+Bachelor of Biodiversity and Conservation and Bachelor of Cognitive and Brain Sciences,Double Degree,D000424,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-cognitive-and-brain-sciences
+Master of Applied Statistics and Master of Information Technology in Artificial Intelligence,Double Degree,D006505,https://www.mq.edu.au/study/find-a-course/courses/master-of-applied-statistics-and-master-of-information-technology-in-artificial-intelligence
+Bachelor of Biodiversity and Conservation and Bachelor of Business Analytics,Double Degree,D000477,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-business-analytics
+Bachelor of Business and Bachelor of Professional Accounting,Double Degree,D006747,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-professional-accounting
+Bachelor of Medical Sciences and Bachelor of Professional Accounting,Double Degree,D000842,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-professional-accounting
+Bachelor of Cognitive and Brain Sciences and Bachelor of Information Technology,Double Degree,D000090,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-information-technology
+Bachelor of Media and Communications and Bachelor of Chiropractic Science,Double Degree,D000520,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-chiropractic-science
+Master of Engineering (Professional) in Environmental Engineering,Course,C000399,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-professional-in-environmental-engineering
+Bachelor of Information Technology and Bachelor of Chiropractic Science,Double Degree,D000514,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-chiropractic-science
+Bachelor of Business and Bachelor of Biodiversity and Conservation,Double Degree,D006772,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Biodiversity and Conservation and Bachelor of Engineering (Honours),Double Degree,D000954,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-engineering-honours
+Bachelor of Security Studies and Bachelor of Professional Accounting,Double Degree,D000847,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-professional-accounting
+Bachelor of Speech and Hearing Sciences and Bachelor of Information Technology,Double Degree,D000922,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-information-technology
+Bachelor of Archaeology and Bachelor of Professional Accounting,Double Degree,D000829,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-archaeology-and-bachelor-of-professional-accounting
+Bachelor of Cognitive and Brain Sciences and Bachelor of Professional Accounting,Double Degree,D000549,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-cognitive-and-brain-sciences-and-bachelor-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of International Studies,Double Degree,D000662,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-international-studies
+Bachelor of Medical Sciences and Bachelor of Biodiversity and Conservation,Double Degree,D000439,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-medical-sciences-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Biodiversity and Conservation and Bachelor of Chiropractic Science,Double Degree,D000423,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-chiropractic-science
+Bachelor of International Studies and Bachelor of Information Technology,Double Degree,D000657,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-information-technology
+Bachelor of Business Analytics and Bachelor of Professional Accounting,Double Degree,D000040,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-business-analytics-and-bachelor-of-professional-accounting
+Bachelor of Speech and Hearing Sciences and Bachelor of Professional Accounting,Double Degree,D000932,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-speech-and-hearing-sciences-and-bachelor-of-professional-accounting
+Bachelor of Security Studies and Bachelor of Biodiversity and Conservation,Double Degree,D000446,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-security-studies-and-bachelor-of-biodiversity-and-conservation
+Bachelor of International Studies and Bachelor of Professional Accounting,Double Degree,D000666,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of Information Technology,Double Degree,D000647,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-information-technology
+Bachelor of Biodiversity and Conservation and Bachelor of Information Technology,Double Degree,D000432,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-information-technology
+Master of Engineering (Professional) in Renewable Energy and Electrical Engineering,Course,C000400,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-professional-in-renewable-energy-and-electrical-engineering
+Bachelor of Biodiversity and Conservation and Bachelor of Professional Accounting,Double Degree,D000442,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-biodiversity-and-conservation-and-bachelor-of-professional-accounting
+Bachelor of International Studies and Bachelor of Biodiversity and Conservation,Double Degree,D000433,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-international-studies-and-bachelor-of-biodiversity-and-conservation
+Bachelor of Information Technology and Bachelor of Professional Accounting,Double Degree,D000836,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-information-technology-and-bachelor-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of Professional Accounting,Double Degree,D000841,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-professional-accounting
+Bachelor of Chiropractic Science and Bachelor of Professional Accounting,Double Degree,D000524,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-chiropractic-science-and-bachelor-of-professional-accounting
+Bachelor of Media and Communications and Bachelor of Biodiversity and Conservation,Double Degree,D000438,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-media-and-communications-and-bachelor-of-biodiversity-and-conservation
+Master of Engineering (Professional) in Mechatronics and Automation Engineering,Course,C000401,https://www.mq.edu.au/study/find-a-course/courses/master-of-engineering-professional-in-mechatronics-and-automation-engineering
+Master of Information Technology in Artificial Intelligence and Master of Data Science,Double Degree,D006623,https://www.mq.edu.au/study/find-a-course/courses/master-of-information-technology-in-artificial-intelligence-and-master-of-data-science
+Bachelor of Professional Accounting and Bachelor of Engineering (Honours),Double Degree,D000969,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-professional-accounting-and-bachelor-of-engineering-honours
+Bachelor of Engineering (Honours),Course,C000133,https://www.mq.edu.au/study/find-a-course/courses/bachelor-of-engineering-honours
