@@ -111,8 +111,6 @@ unit_input = st.text_input(
         value=st.session_state.selected_course_code,
     )
 
-
-
 # Filter the DataFrame based on the entered course name
 
 # Display the selected columns vertically
@@ -235,6 +233,3 @@ if unit_input:
         #         - Nested bullet point 1
         #         - Nested bullet point 2
         #             - Further nested bullet point""")
-        
-else:
-    st.write("No matching course found.")
